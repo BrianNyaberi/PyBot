@@ -1,0 +1,2 @@
+all:
+  credentials: allow_manage_users

@@ -1,0 +1,42 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/04-Settings
+
+prod:
+  .settings:
+    no_script_name:         false
+    logging_enabled:        true
+
+    error_404_module:       error
+    error_404_action:       error404
+
+dev:
+  .settings:
+    error_reporting:        <?php echo (E_ALL | E_STRICT)."\n" ?>
+    web_debug:              true
+    cache:                  false
+    no_script_name:         false
+    etag:                   false
+
+all:          
+  .settings:
+    i18n: true
+    #default_culture: ru_RU
+        
+    login_module:           login   # To be called when a non-authenticated user
+    login_action:           index     # Tries to access a secure page
+
+    secure_module: accessForbidden
+    secure_action: index
+                
+    standard_helpers: [I18N,Partial,Text,app,menu,form]
+
+    # Form security secret (CSRF protection)
+    # csrf_secret:            234sAFE425SDFAf2ljlkasdhfiwugb2563h2g4jA
+
+
+    # Output escaping settings
+    escaping_strategy:      false
+    escaping_method:        
+
+    # Enable the database manager
+    use_database:           true    

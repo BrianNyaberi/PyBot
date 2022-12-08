@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="" datatype="plaintext" original="messages" date="" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Please remove 'install' folder</source>
+        <target>Prosím odstráňte 'install' priečinok</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>This field is required!</source>
+        <target>Toto pole je povinné!</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please enter a valid email address.</source>
+        <target>Prosím zadajte platnú emailovú adresu.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>First Page</source>
+        <target>Prvá strana</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Previous Page</source>
+        <target>Predchádzajúca strana</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Page</source>
+        <target>Strana</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Next Page</source>
+        <target>Ďalšia strana</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Last Page</source>
+        <target>Posledná strana</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Total</source>
+        <target>Celkom</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Displaying</source>
+        <target>Zobrazujem</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>View more</source>
+        <target>Zobraziť viac</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Error</source>
+        <target>Chyba</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Warning</source>
+        <target>Upozornenie</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Access Forbidden</source>
+        <target>Prístup zakázaný</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Sorry, you don\'t have access to this page.</source>
+        <target>Prepáčte, k tejto stránke nemáte prístup.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Date Added</source>
+        <target>Dátum pridaný</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Date Last Commented</source>
+        <target>Dátum posledného komentára</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Name</source>
+        <target>Názov</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Priority</source>
+        <target>Priorita</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Status</source>
+        <target>Stav</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Type</source>
+        <target>Typ</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Group</source>
+        <target>Skupina</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Label</source>
+        <target>Štítok</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Department</source>
+        <target>Oddelenie</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Order By</source>
+        <target>Objednané od</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Edit Filter</source>
+        <target>Upraviť filter</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Default?</source>
+        <target>Predvolené?</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This filter will be used by default after login.</source>
+        <target>Tento filter bude použitý ako predvolený po prihlásení.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Update Filter</source>
+        <target>Aktualizovať filter</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Current filters will be assigned to this filter.</source>
+        <target>Aktuálne filtre budú priradené k tomuto filtru.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Save</source>
+        <target>Uložiť</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Delete Selected?</source>
+        <target>Odstrániť vybrané?</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Are you sure you want to delete selected items?</source>
+        <target>Ste si istí, že chcete odstrániť vybrané položky?</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>Odstrániť</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save Filter</source>
+        <target>Uložiť filter</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Sort Filters</source>
+        <target>Zoradiť filtre</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Just move an item up or down.</source>
+        <target>Len posunúť položku hore alebo dole.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sort Items</source>
+        <target>Zoradiť položky</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Description</source>
+        <target>Popis</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Attachments</source>
+        <target>Prílohy</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Search</source>
+        <target>Hľadať</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Search In</source>
+        <target>Hľadať v</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Comments</source>
+        <target>Komentáre</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Search result for</source>
+        <target>Hľadať výsledok pre</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Reset</source>
+        <target>Reštartovať</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Note</source>
+        <target>Poznámka</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add Attachments</source>
+        <target>Pridať prílohy</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>view</source>
+        <target>zobraziť</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>download</source>
+        <target>stiahnuť</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Projects Reports</source>
+        <target>Projektové správy</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Tasks Reports</source>
+        <target>Úlohové správy</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Tickets Reports</source>
+        <target>Požiadavkové správy</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Discussions Reports</source>
+        <target>Diskusné správy</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Common Reports</source>
+        <target>Bežné správy</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Add Report</source>
+        <target>Pridať správu</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Action</source>
+        <target>Akcia</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users Groups</source>
+        <target>Užívateľské skupiny</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Display on dashboard</source>
+        <target>Zobraziť na paneli</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Display in menu</source>
+        <target>Zobraziť v menu</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>No Records Found</source>
+        <target>Žiadne záznamy sa nenašli</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>New Report</source>
+        <target>Nová správa</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Configuration has been successfully updated</source>
+        <target>Konfigurácia bola úspešne aktualizovaná</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No</source>
+        <target>Nie</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Yes</source>
+        <target>Áno</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Email Options</source>
+        <target>Nastavenia emailu</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Notifications</source>
+        <target>Notifikácie</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Use email notification</source>
+        <target>Použiť emailovú notifikáciu</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email Subject Label</source>
+        <target>Označenie predmetu emailu</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Amount previous comments in email</source>
+        <target>Množstvo predchádzajúcich komentárov v emaili</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Copy Sender?</source>
+        <target>Skopírovať odosielateľa?</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Send all emails from single email address</source>
+        <target>Odoslať všetky emaily z jednej emailovej adresy</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Email address from</source>
+        <target>Emailová adresa od</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Name from</source>
+        <target>Meno od</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>SMTP Configuration</source>
+        <target>SMTP Konfigurácia</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Use SMTP</source>
+        <target>Použiť SMTP</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>SMTP Server</source>
+        <target>SMTP server</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>SMTP Port</source>
+        <target>SMTP port</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>SMTP Encryption</source>
+        <target>SMTP šifrovanie</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>SMTP Login</source>
+        <target>SMTP prihlasovacie meno</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>SMTP Password</source>
+        <target>SMTP heslo</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Features</source>
+        <target>Funkcie</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Use Skins</source>
+        <target>Použiť vzhľady</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Use Tasks Time Tracker</source>
+        <target>Použiť časový sledovač úloh</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Use Parent/Child Tasks</source>
+        <target>Použiť rodičovské/dcérske úlohy</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Use Project Phases</source>
+        <target>Použiť projektové fázy</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Use Project Versions</source>
+        <target>Použiť verzie projektu</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Use Tasks Groups</source>
+        <target>Použiť skupiny úloh</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>General Configuration</source>
+        <target>Všeobecná konfigurácia</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Root Administrator</source>
+        <target>Root administrátor</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Administrator Email</source>
+        <target>Email administrátora</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Administrator Password</source>
+        <target>Heslo administrátora</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Root administrator is internal user who can just manage users and configuration and can’t create tasks or projects</source>
+        <target>Root administrátor je interný užívateľ, ktorý môže len spravovať užívateľov a konfiguráciu a nemôže vytvárať úlohy a projekty</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Application</source>
+        <target>Žiadosť</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Name of application</source>
+        <target>Názov žiadosti</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Short name of application</source>
+        <target>Krátky názov žiadosti</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Note: logo might be not looks OK in all skins so you should pick one skin or create your own skin.</source>
+        <target>Poznámka: logo nemusí vo všetkých vzhľadoch vyzerať OK, preto by ste si mali zvoliť jeden vzhľad alebo vytvoriť váš vlastný vzhľad.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Defaults</source>
+        <target>Predvolené</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Default Skin</source>
+        <target>Predvolený vzhľad</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Default Timezone</source>
+        <target>Predvolená časová zóna</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Default Culture</source>
+        <target>Predvolená kultúra</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Default Rows Per Page</source>
+        <target>Predvolený počet riadkov na stranu</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Rows Limit</source>
+        <target>Limit riadkov</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>This option allows you to limit the number of rows retrieved in a single database query.&lt;br&gt;You can use this option if your server has problems displaying a lot of data.&lt;br&gt;Once you set this option, the query results will be displayed in paged format and you will see the extra PHP pager at the bottom of the page that will allow you to fetch more.</source>
+        <target>Toto nastavenie vám umožňuje obmedziť počet riadkov získaných pri jednom dotaze z databázy.&lt;br&gt;Toto nastavenie môžete použiť, ak má váš server problém zobraziť veľké množstvo dát.&lt;br&gt;Keď zvolíte toto nastavenie, výsledky dotazu budú zobrazené vo formáte stránok a v spodnej časti stránky sa vám zobrazí špeciálny PHP pager, ktorý vám umožní ďalšie zobrazenie.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Default Date Format</source>
+        <target>Predvolený formát dátumu</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Default Comments Date Format</source>
+        <target>Predvolený formát dátumu komentárov</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>more about date format see</source>
+        <target>pre viac o formáte dátumu pozrite</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Other</source>
+        <target>Ďalší</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Allow edit tasks comments date</source>
+        <target>Umožniť upraviť dátum komentárov úloh</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>LDAP Configuration</source>
+        <target>LDAP konfigurácia</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use LDAP Login</source>
+        <target>Použiť LDAP prihlásenie</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>LDAP server name</source>
+        <target>LDAP názov servera</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>If using LDAP this is the hostname or IP address of the LDAP server. Alternatively you can specify a URL like ldap://hostname:port/</source>
+        <target>Ak používate LDAP, toto je názov alebo IP adresa LDAP serveru. Alternatívne môžete zadať URL v tvare ldap://hostname:port/</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>LDAP server port</source>
+        <target>LDAP server port</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Optionally you can specify a port which should be used to connect to the LDAP server instead of the default port 389.</source>
+        <target>Voliteľne môžete zadať port, ktorý sa použije pre pripojenie k LDAP serveru namiesto predvoleného portu 389.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>LDAP base dn</source>
+        <target>LDAP base dn</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>This is the Distinguished Name, locating the user information, e.g. o=My Company,c=US.</source>
+        <target>Toto je rozlišovacie pomenovanie, vyhľadávanie informácií o užívateľovi, napr. o=Moja spoločnosť,c=SK.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>LDAP uid</source>
+        <target>LDAP uid</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>This is the key under which to search for a given login identity, e.g. uid, sn, etc.</source>
+        <target>Toto je kľúč, pod ktorým sa vyhľadá zadaná prihlasovacia identita, napr. uid, sn, atď.</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>LDAP user filter</source>
+        <target>LDAP užívateľský filter</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Optionally you can further limit the searched objects with additional filters.&lt;br&gt;For example objectClass=posixGroup would result in the use of (&amp;(uid=$username)(objectClass=posixGroup))</source>
+        <target>Voliteľne môžete ďalej obmedziť vyhľadávané objekty ďalšími filtrami.&lt;br&gt;Napríklad objectClass=posixGroup povedie k použitiu (&amp;(uid=$username)(objectClass=posixGroup))</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>LDAP e-mail attribute</source>
+        <target>LDAP e-mailový atribút</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Set this to the name of your user entry e-mail attribute (if one exists) in order to automatically set the e-mail address for new users.&lt;br&gt;User email is required for qdPM and if it\'s not exist qdPM atumatically assign email like username@localhost.com</source>
+        <target>Toto nastavte na názov vášho užívateľského záznamu emailového atribútu (ak existuje), aby ste automaticky nastavili emailovú adresu pre nových užívateľov.&lt;br&gt;Email užívateľa je povinný pre qdPM a ak neexistuje qdPM automaticky priradí email v tvare username@localhost.com</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>LDAP user dn</source>
+        <target>LDAP užívateľské dn</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Leave blank to use anonymous binding. If filled in uses the specified distinguished name on login attempts to find the correct user, e.g. uid=Username,ou=MyUnit,o=MyCompany,c=US. </source>
+        <target>Nechajte prázdne, aby ste umožnili anonymné prihadzovanie. Ak je vyplnené, špecifické rozlišovacie prihlasovacie meno sa pokúsi nájsť konkrétneho užívateľa, napr. uid=Užívateľské meno,ou=Moja jednotka,o=Moja spoločnosť,c=SK. </target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>LDAP password</source>
+        <target>LDAP heslo</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Leave blank to use anonymous binding. Otherwise fill in the password for the above user. &lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; This password will be stored as plain text in the database visible to everybody who can access your database or who can view this configuration page.</source>
+        <target>Nechajte prázdne, aby ste umožnili anonymné prihadzovanie. V opačnom prípade vyplňte heslo užívateľa vyššie. &lt;br&gt;&lt;b&gt;Upozornenie:&lt;/b&gt; Toto heslo bude v databáze uložené ako obyčajný text a bude viditeľné pre každého, kto má k vašej databáze prístup, alebo kto si môže pozrieť túto konfiguračnú stránku.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Login Page Configuration</source>
+        <target>Konfigurácia prihlasovacej stránky</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Heading</source>
+        <target>Nadpis</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Content</source>
+        <target>Obsah</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Public Tickets</source>
+        <target>Verejné požiadavky</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Users can submit Tickets without registration.</source>
+        <target>Užívatelia môžu odoslať požiadavky bez registrácie.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Use Public Tickets</source>
+        <target>Použiť verejné požiadavky</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Allow attachments in public tickets form</source>
+        <target>Povoliť prílohy na formulári verejných požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Use antispam protection in form</source>
+        <target>Použiť vo formulári antispamovú ochranu</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Integration Code</source>
+        <target>Integračný kód</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Integration code helps you integrate the Public Ticket form into your web site. Just copy code below and paste it into your page.&lt;br&gt;You can change &quot;width&quot; or &quot;height&quot; parameters if needed.&lt;br&gt; See &quot;css/submitTickets/styles.css&quot; to update css for public tickets form.</source>
+        <target>Integračný kód pomáha integrovať formulár verejnej požiadavky na vašu web stránku. Len skopírujte kód nižšie a vložte ho na vašu stránku.&lt;br&gt;Podľa potreby môžete zmeniť &quot;šírku&quot; alebo &quot;výšku&quot;.&lt;br&gt; Pozrite si &quot;css/submitTickets/styles.css&quot; pre aktualizáciu css pre váš formulár verejných požiadaviek.</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Tasks Listing</source>
+        <target>Zoznam úloh</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Select tasks fields which will be display in tasks listing by default.&lt;br&gt;Also you can configure own tasks listing for each projects type, see  &quot;Configurations-&gt;Projects-&gt;Types&quot;</source>
+        <target>Vyberte si polia úloh, ktoré budú zobrazené ako predvolené v zozname úloh.&lt;br&gt;Takisto môžete konfigurovať vlastný zoznam úloh pre každý typ projektu, pozrite si  &quot;Konfigurácie-&gt;Projekty-&gt;Typy&quot;</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Configure Email notification for new user</source>
+        <target>Konfigurovať emailovú notifikáciu pre nového užívateľa</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Subject</source>
+        <target>Predmet</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Default</source>
+        <target>Predvolené</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Your account has been created in</source>
+        <target>Váš účet bol vytvorený</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Body</source>
+        <target>Telo</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>by default login details will be added at the end message</source>
+        <target>detaily prihlásenia budú pridané na koniec správy ako predvolené</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Use Keys</source>
+        <target>použiť kľúče</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>to include User Name</source>
+        <target>zahrnúť užívateľské meno</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>to include Login Details</source>
+        <target>zahrnúť detaily prihlásenia</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Edit Contact</source>
+        <target>Upraviť kontakt</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Contacts</source>
+        <target>kontakty</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Add Contact</source>
+        <target>Pridať kontakt</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>New Contact</source>
+        <target>Nový kontakt</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Edit</source>
+        <target>Upraviť</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Contacts Groups</source>
+        <target>Skupiny kontaktov</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Sort Order</source>
+        <target>Zoradiť objednávku</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New</source>
+        <target>Nový</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>My Dashboard</source>
+        <target>Môj panel</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Just select reports which you want to display on dashboard</source>
+        <target>Len si vyberte správy, ktoré chcete zobraziť na paneli</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>No Reports Found</source>
+        <target>Nenašli sa žiadne správy</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Update</source>
+        <target>Aktualizovať</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Configure Dashboard</source>
+        <target>Konfigurovať panel</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Sort Reports</source>
+        <target>Zoradiť správy</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>No reports found to display on dashboard</source>
+        <target>Nenašli sa žiadne správy pre zobrazenie na paneli</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Personal Scheduler</source>
+        <target>Osobný plánovač</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Public Scheduler</source>
+        <target>Verejný plánovač</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Edit Department</source>
+        <target>Upraviť oddelenie</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Departments</source>
+        <target>Oddelenia</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Assigned To</source>
+        <target>Priradené k</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Active</source>
+        <target>Aktívny</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>New Department</source>
+        <target>Nové oddelenie</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>General</source>
+        <target>Všeobecné</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Tickets Types</source>
+        <target>Typy požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Email Tickets</source>
+        <target>Emailové požiadavky</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Email Patterns</source>
+        <target>Emailové vzory</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Select the Ticket Types that will be available for this Department only</source>
+        <target>Vybrať typy požiadaviek, ktoré budú dostupné len pre toto oddelenie</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>to get Tickets by email you have to setup cron, read more installation instruction</source>
+        <target>pre prijímanie požiadaviek emailom by ste mali nastaviť cron, prečítajte si viac v pokynoch inštalácie</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>IMAP functions should be enabled on your server</source>
+        <target>IMAP funkcie by mali byť povolené na vašom serveri</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>if you will have any questions or imap errors, please read this:</source>
+        <target>ak máte akékoľvek otázky alebo imap chyby, prečítajte si prosím toto:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Get Tickets by email</source>
+        <target>Získať požiadavky emailom</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>For example</source>
+        <target>Napríklad</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Delete messages from the server</source>
+        <target>Odstrániť správy zo servera</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>You can setup custom email patterns for Ticket emails.</source>
+        <target>Môžete nastaviť vlastné vzory emailu pre emaily požiadaviek.</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Patterns will be using for Public Tickets and Email Tickets.</source>
+        <target>Vzory budú použité pre verejné požiadavky a emailové požiadavky.</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Use next keys:</source>
+        <target>Použiť ďalšie kľúče:</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>ticket id</source>
+        <target>id požiadavky</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>description of ticket or comment</source>
+        <target>popis požiadavky alebo komentára</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>name of ticket creator</source>
+        <target>meno zakladateľa požiadavky</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A new ticket has been opened</source>
+        <target>Nová požiadavka bola otvorená</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Show Original</source>
+        <target>Zobraziť originál</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Filter Deleted</source>
+        <target>Filter odstránený</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Filter Saved</source>
+        <target>Filter uložený</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Id</source>
+        <target>Id</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Assigned To</source>
+        <target>Priradené na</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Url</source>
+        <target>Url</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Groups</source>
+        <target>Skupiny</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Filters</source>
+        <target>Filtre</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Link Discussions</source>
+        <target>Odkaz na diskusie</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Created By</source>
+        <target>Vytvorený</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Bind</source>
+        <target>Spojiť</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Edit Discussion</source>
+        <target>Upraviť diskusiu</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Export</source>
+        <target>Exportovať</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Select fields to export</source>
+        <target>Vybrané polia na export</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Select All</source>
+        <target>Vybrať všetko</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Filename</source>
+        <target>Názov súboru</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Discussions</source>
+        <target>Diskusie</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Format</source>
+        <target>Formát</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Move To</source>
+        <target>Presunúť do</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Select Project</source>
+        <target>Vybrať projekt</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Move To Project</source>
+        <target>Presunúť do projektu</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Move</source>
+        <target>Presunúť</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Update Selected?</source>
+        <target>Aktualizovať vybrané?</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Just select value if you need to change it</source>
+        <target>Len vyberte hodnotu, ak ju potrebujete zmeniť</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>New Discussion</source>
+        <target>Nová diskusia</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Projects Not Found</source>
+        <target>Projekty neboli nájdené</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Project</source>
+        <target>Projekt</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Details</source>
+        <target>Detaily</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Created At</source>
+        <target>Vytvorený</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>No Assigned Users</source>
+        <target>Žiadni priradení užívatelia</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Remove Filter</source>
+        <target>Odstrániť filter</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Add Discussion</source>
+        <target>Pridať diskusiu</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Related Discussions</source>
+        <target>Súvisiace diskusie</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Delete Related</source>
+        <target>Odstrániť súvisiace</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Add</source>
+        <target>Pridať</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Discussion</source>
+        <target>Diskusia</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Related Tasks</source>
+        <target>Súvisiace úlohy</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add Task</source>
+        <target>Pridať úlohu</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Link Tasks</source>
+        <target>Odkaz na úlohy</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Related Tickets</source>
+        <target>Súvisiace požiadavky</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Add Ticket</source>
+        <target>Pridať požiadavku</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Link Tickets</source>
+        <target>Odkaz na požiadavky</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>More Actions</source>
+        <target>Viac akcií</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Edit Comment</source>
+        <target>Upraviť komentár</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Add Comment</source>
+        <target>Pridať komentár</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Edit Details</source>
+        <target>Upraviť detaily</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Comment</source>
+        <target>Komentár</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>New Comment</source>
+        <target>Nový komentár</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Previous Comments</source>
+        <target>Predchádzajúce komentáre</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Go to previous discussion</source>
+        <target>Ísť na predchádzajúcu diskusiu</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Go to next discussion</source>
+        <target>Ísť na ďalšiu diskusiu</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Discussions Groups</source>
+        <target>Skupiny diskusií</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Active?</source>
+        <target>Aktivovať?</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Discussions Priorities</source>
+        <target>Vlastnosti diskusií</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Icon</source>
+        <target>Ikona</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Edit Report</source>
+        <target>Upraviť správu</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Discussions Filters</source>
+        <target>Filtre diskusií</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Projects Filters</source>
+        <target>Filtre projektov</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Projects</source>
+        <target>Projekty</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Discussions Status</source>
+        <target>Stav diskusií</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Background</source>
+        <target>Pozadie</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Discussions Types</source>
+        <target>Typy diskusií</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Extra Fields</source>
+        <target>Špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>No Extra Fields Found</source>
+        <target>Žiadne špeciálne polia nenájdené</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Don\'t use extra fields</source>
+        <target>Nepoužívať špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Events Priorities</source>
+        <target>Priority udalostí</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Events Types</source>
+        <target>Typy udalostí</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Extra Fields Updated</source>
+        <target>Špeciálne polia aktualizované</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>By default all Extra Fields are visible.</source>
+        <target>Ako predvolené sú všetky špeciálne polia viditeľné.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Select Extra Fields which will be visible only for specific group</source>
+        <target>Vyberte špeciálne polia, ktoré budú viditeľné len pre špecifickú skupinu</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Use option (Don't use Extra Fields) to hide Extra Fields for specific group</source>
+        <target>Použite nastavenie (Nepoužívať špeciálne polia), aby ste skryli špeciálne polia pre špecifickú skupinu</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Don't use Extra Fields</source>
+        <target>Nepoužívať špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Extra fields</source>
+        <target>Špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>In Listing?</source>
+        <target>V zozname?</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Required?</source>
+        <target>Povinné?</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Access</source>
+        <target>Prístup</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Select User Groups that will have access to Extra Field.&lt;br&gt;By default access is NOT limited.</source>
+        <target>Vybrané užívateľské skupiny, ktoré budú mať prístup ku špeciálnym poliam.&lt;br&gt;Ako predvolené prístup NIE je obmedzený.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Simple input text field.</source>
+        <target>Jednoducho vložte textové pole.</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>This field used for numbers.</source>
+        <target>Toto pole je určené pre čísla.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Value of this field will be calculated by formula entered below.&lt;br&gt;Use [Field ID] to setup field value in formula.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt;Where 36 and 54 are ID of numeric fields.</source>
+        <target>Hodnota tohto poľa bude vypočítaná podľa vzorca zadaného nižšie.&lt;br&gt;Použite [Field ID] pre nastavenie hodnoty poľa vo vzorci.&lt;br&gt;Napríklad: ([36]+[54])/2&lt;br&gt;Kde 36 a 54 sú ID číselných polí.</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Formula</source>
+        <target>Vzorec</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Simple textarea field.</source>
+        <target>Jednoduché textové pole.</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>WYSIWYG editor will be automatically added to this field.</source>
+        <target>WYSIWYG editor bude automaticky pridaný k tomuto poľu.</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Date with dropdown select</source>
+        <target>Dátum s rozbaľovacím výberom</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Date - Time with dropdown select</source>
+        <target>Dátum - čas s rozbaľovacím výberom</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>You have to enter default values for this field below.&lt;br&gt;Enter each value in new line.</source>
+        <target>Do tohto poľa nižšie musíte zadať predvolené hodnoty.&lt;br&gt;Každú hodnotu zadajte na nový riadok.</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Gantt Chart</source>
+        <target>Ganttov graf</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>hours</source>
+        <target>hodiny</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>You are receiving this notification because you have requested a new password be sent for your account on</source>
+        <target>Dostávate túto notifikáciu, pretože ste požiadali o odoslanie nového hesla k vášmu účtu</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Password</source>
+        <target>Heslo</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>New Password on</source>
+        <target>Nové heslo</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>A new password has been sent to your e-mail address</source>
+        <target>Nové heslo bolo odoslané na vašu emailovú adresu</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>No match for Email and/or Password</source>
+        <target>Žiadna zhoda pre email a/alebo heslo</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Your account is not active</source>
+        <target>Váš účet nie je aktívny</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Login</source>
+        <target>Prihlásenie</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Remember Me</source>
+        <target>Zapamätať si ma</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Password forgotten?</source>
+        <target>Zabudnuté heslo?</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>LDAP Login</source>
+        <target>LDAP prihlásenie</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Default users group for LDAP users is not setup. LDAP login is not allowed.</source>
+        <target>Predvolená užívateľská skupina pre LDAP užívateľov nie je nastavená. LDAP prihlásenie nie je povolené.</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Enter your e-mail address below</source>
+        <target>Zadajte vašu emailovú adresu nižšie</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Send New Password</source>
+        <target>Odoslať nové heslo</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Email already exists</source>
+        <target>Email už existuje</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Account Updated</source>
+        <target>Účet aktualizovaný</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>My Account</source>
+        <target>Môj účet</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Hide</source>
+        <target>Skryť</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Patterns</source>
+        <target>Vzory</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Edit Pattern</source>
+        <target>Upraviť vzor</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>New Pattern</source>
+        <target>Nový vzor</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>Default Phases</source>
+        <target>Predvolené fázy</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Put phases in new line, for example</source>
+        <target>Vložte fázy na nový riadok, napríklad</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Phase Status</source>
+        <target>Fázový stav</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Projects Roles</source>
+        <target>Projektové role</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Tasks</source>
+        <target>Úlohy</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Tickets</source>
+        <target>Požiadavky</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>LDAP Default</source>
+        <target>LDAP predvolené</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Default Group</source>
+        <target>Predvolená skupina</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Team</source>
+        <target>Tím</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Edit Project</source>
+        <target>Upraviť projekt</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>New Project</source>
+        <target>Nový projekt</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Select Ticket Departments which will be available for this Project.</source>
+        <target>Vybrať oddelenia požiadavky, ktoré budú dostupné pre tento projekt.</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>By default Department will be available if the User assigned to Department is in the Project team.</source>
+        <target>Ako predvolené, oddelenie bude prístupné, ak užívateľ priradený k oddeleniu je v tíme projektu.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Add Project</source>
+        <target>Pridať projekt</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>User</source>
+        <target>Užívateľ</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Role</source>
+        <target>Rola</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Projects Groups</source>
+        <target>Projektové skupiny</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Edit Phase</source>
+        <target>Upraviť fázu</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Projects Phases</source>
+        <target>Projektové fázy</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Add Phase</source>
+        <target>Pridať fázu</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Due Date</source>
+        <target>Dátum splnenia</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>New Phase</source>
+        <target>Nová fáza</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Projects Priorities</source>
+        <target>Projektové priority</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Projects Reports</source>
+        <target>Projektové správy</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>In Team</source>
+        <target>V tíme</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Projects Status</source>
+        <target>Stav projektov</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Projects Types</source>
+        <target>Projektové typy</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Tasks Columns</source>
+        <target>Stĺpce úloh</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Select extra fields which will be appear for this type.</source>
+        <target>Vyberte špeciálne polia, ktoré sa zobrazia pre tento typ.</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Select Task fields which will be display in tasks listing for this Project Type.</source>
+        <target>Vyberte polia úlohy, ktoré budú zobrazené v zozname úlohy pre tento projektový typ.</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Public Tickets not allowed.</source>
+        <target>Verejné požiadavky nepovolené.</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>A new Ticket has been opened for you.</source>
+        <target>Nová požiadavka bola pre vás otvorená.</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>There are no departments that can be used for public tickets.</source>
+        <target>Neexistujú oddelenia, ktoré by sa mohli použiť pre verejné požiadavky.</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>New Ticket</source>
+        <target>Nová požiadavka</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Attach a file</source>
+        <target>Priložiť súbor</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Sum of</source>
+        <target>Súčet</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Submit Ticket</source>
+        <target>Odoslať požiadavku</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Configuration</source>
+        <target>Konfigurácia</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>Display today\'s events in the menu</source>
+        <target>Zobraziť dnešné udalosti v menu</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Display today\'s events in the dashboard</source>
+        <target>Zobraziť dnešné udalosti na paneli</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Send today\'s events by email</source>
+        <target>Odoslať dnešné udalosti emailom</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Edit Event</source>
+        <target>Upraviť udalosť</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Switch to my personal scheduler</source>
+        <target>Prepnúť na osobný plánovač</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>New Event</source>
+        <target>Nová udalosť</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Switch to public scheduler</source>
+        <target>Prepnúť na verejný plánovač</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Are you sure?</source>
+        <target>Ste si istí?</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Repeat</source>
+        <target>Zopakovať</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Start Date</source>
+        <target>Počiatočný dátum</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>End Date</source>
+        <target>Konečný dátum</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>No Events Found</source>
+        <target>Žiadne udalosti nenájdené</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Previous Month</source>
+        <target>Predchádzajúci mesiac</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Next Month</source>
+        <target>Nasledujúci mesiac</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>Back to </source>
+        <target>Späť na </target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Today</source>
+        <target>Dnes</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Skin style is not found. Please check next path:</source>
+        <target>Štýl vzhľadu nebol nájdený. Prosím skontrolujte ďalšiu cestu:</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Skins</source>
+        <target>Vzhľady</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Version</source>
+        <target>Verzie</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Phase</source>
+        <target>Fáza</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Est. Time</source>
+        <target>Vých. čas</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Progress</source>
+        <target>Postup</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>List</source>
+        <target>Zoznam</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Tree</source>
+        <target>Strom</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>View Type</source>
+        <target>Zobraziť typ</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Copy To</source>
+        <target>Kopírovať do</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Copy To Project</source>
+        <target>Kopírovať do projektu</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Copy</source>
+        <target>Kopírovať</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Edit Task</source>
+        <target>Upraviť úlohu</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>New Task</source>
+        <target>Nová úloha</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Sort Tasks</source>
+        <target>Triediť úlohy</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Child Tasks</source>
+        <target>Dcérska úloha</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Estimated Time</source>
+        <target>Odhadovaný čas</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>Work Hours</source>
+        <target>Pracovný čas</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Time</source>
+        <target>Čas</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>set this status for all child tasks</source>
+        <target>nastaviť tento stav pre všetky dcérske úlohy</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Sort Tree</source>
+        <target>Triediť strom</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Task</source>
+        <target>Úloha</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Add Child Task</source>
+        <target>Pridať dcérsku úlohu</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Delete with child tasks</source>
+        <target>Odstrániť s dcérskymi úlohami</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Timer</source>
+        <target>Časovač</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Go to previous task</source>
+        <target>Ísť na predchádzajúcu úlohu</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Go to next task</source>
+        <target>Ísť na ďalšiu úlohu</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Close Timer</source>
+        <target>Zatvoriť časovač</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Start</source>
+        <target>Začať</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>Stop</source>
+        <target>Ukončiť</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Work Hours:</source>
+        <target>Pracovný čas:</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Edit Group</source>
+        <target>Upraviť skupinu</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Tasks Groups</source>
+        <target>Skupiny úloh</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>Add Group</source>
+        <target>Pridať skupinu</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>New Group</source>
+        <target>Nová skupina</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Tasks Labels</source>
+        <target>Označenia úloh</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>Tasks Priorities</source>
+        <target>Priority úloh</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Tasks Status</source>
+        <target>Stav úlohy</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Tasks Types</source>
+        <target>Typy úloh</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Edit Ticket</source>
+        <target>Upraviť požiadavku</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>Ticket</source>
+        <target>Požiadavka</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Link Task</source>
+        <target>Odkaz na požiadavku</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Go to previous ticket</source>
+        <target>Ísť na predchádzajúcu požiadavku</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Go to next ticket</source>
+        <target>Ísť na ďalšiu požiadavku</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Tickets Groups</source>
+        <target>Skupiny požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Tickets Priorities</source>
+        <target>Priority požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Tickets Filters</source>
+        <target>Filtre požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Ticktes Status</source>
+        <target>Stavy požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>Users Time Report</source>
+        <target>Užívateľská časová správa</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Discrepancy:</source>
+        <target>Nezrovnalosť:</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>All</source>
+        <target>Všetky</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Under</source>
+        <target>Pod</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Over</source>
+        <target>Nad</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>From</source>
+        <target>Z</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>To</source>
+        <target>Do</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Filter By Dates</source>
+        <target>Filtrovať podľa dátumov</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Allocated</source>
+        <target>Pridelené</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Discrepancy</source>
+        <target>Nezrovnalosť</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Project Info</source>
+        <target>Informácie o projekte</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>No records found</source>
+        <target>Žiadne záznamy nenájdené</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Time Log</source>
+        <target>Časový log</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Date</source>
+        <target>Dátum</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Worked Hours</source>
+        <target>Odpracované hodiny</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>Task Url</source>
+        <target>Url úlohy</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Task Info</source>
+        <target>Informácie o úlohe</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Project Info</source>
+        <target>Informácie o projekte</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Tasks Url</source>
+        <target>Url úloh</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users</source>
+        <target>Užívatelia</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Items restored</source>
+        <target>Položky obnovené</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Database saved.</source>
+        <target>Databáza uložená.</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Database restored.</source>
+        <target>Databáza obnovená.</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>Success: Backup removed.</source>
+        <target>Úspešné: Záloha odstránená.</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Error: Backup not removed.</source>
+        <target>Chyba: Záloha nebola odstránená.</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>Backup</source>
+        <target>Záloha</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>File</source>
+        <target>Súbor</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Size</source>
+        <target>Veľkosť</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>bytes</source>
+        <target>byty</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Restore</source>
+        <target>Obnoviť</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Download</source>
+        <target>Stiahnuť</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Backup Directory</source>
+        <target>Zálohovať adresár</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Restore?</source>
+        <target>Obnoviť?</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>Are you sure you want to restore selected items?</source>
+        <target>Ste si istí, že chcete obnoviť vybrané položky?</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Trash</source>
+        <target>Kôš</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>Empty Trash</source>
+        <target>Vyprázdniť kôš</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Restore Selected</source>
+        <target>Obnoviť vybrané</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Comment for project</source>
+        <target>Komentár k projektu</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Comment for task</source>
+        <target>Komentár k úlohe</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Comment for ticket</source>
+        <target>Komentár k požiadavke</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Comment for discussion</source>
+        <target>Komentár k diskusii</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>Tasks Filters</source>
+        <target>Filtre úloh</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Extra</source>
+        <target>Špeciálne</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>Reminder</source>
+        <target>Pripomenúť</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Tasks Due Date</source>
+        <target>Dátumy splnenia úloh</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>Tasks Created</source>
+        <target>Úlohy vytvorené</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Closed Date</source>
+        <target>Dátum ukončenia</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>User Deleted</source>
+        <target>Užívateľ odstránený</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Login Details</source>
+        <target>Detaily prihlásenia</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Message Sent</source>
+        <target>Odkaz odoslaný</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>User Group is not selected</source>
+        <target>Užívateľská skupina nie je vybraná</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Add User</source>
+        <target>Pridať užívateľa</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Export Selected</source>
+        <target>Exportovať vybrané</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Photo</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>Send email to users</source>
+        <target>Odoslať email užívateľom</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Message</source>
+        <target>Správa</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Send Message</source>
+        <target>Odoslať správu</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Users Activity</source>
+        <target>Aktivita užívateľov</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Personal Activity</source>
+        <target>Osobná aktivita</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>Days before today</source>
+        <target>Dni pred dneškom</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>created by</source>
+        <target>vytvorené kým</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Comment for tasks</source>
+        <target>Komentár k úlohám</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>User Group Deleted</source>
+        <target>Užívateľská skupina odstránená</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Delete?</source>
+        <target>Odstrániť?</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Are you sure you want to delete Group?</source>
+        <target>Ste si istí, že chcete odstrániť skupinu?</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>You can't delete this Group because there are Users assigned to this Group.</source>
+        <target>Túto skupinu nemôžete odstrániť, pretože existujú užívatelia, ktorí sú priradení k tejto skupine.</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>You have to delete users first.</source>
+        <target>Najskôr musíte odstrániť užívateľa.</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>Users Groups</source>
+        <target>Užívateľské skupiny</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Assigned Users</source>
+        <target>Priradení užívatelia</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>Basic Access</source>
+        <target>Základný prístup</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Extra Access Configuration</source>
+        <target>Konfigurácia špeciálneho prístupu</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Tasks Reports</source>
+        <target>Správy úloh</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Time Report</source>
+        <target>Časová správa</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Personal Time Report</source>
+        <target>Osobná časová správa</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Users Activity</source>
+        <target>Užívateľská aktivita</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Personal Activity Report</source>
+        <target>Správa osobnej aktivity</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Edit Version</source>
+        <target>Upraviť verziu</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Tasks Versions</source>
+        <target>Verzie úloh</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Add Version</source>
+        <target>Pridať verziu</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>New Version</source>
+        <target>Nová verzie</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Versions Status</source>
+        <target>Stav verzií</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>You can format your text using wiki markup.</source>
+        <target>Váš text môžete formátovať pomocou wiki značiek.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Check supported wiki markup</source>
+        <target>Skontrolovať podporované wiki značky</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Also any HTML tags are allowed</source>
+        <target>Takisto akékoľvek HTML tagy sú povolené</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Preview</source>
+        <target>Náhľad</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>All attached files has own link that you can insert in page content.</source>
+        <target>Všetky priložené súbory majú vlastný odkaz, ktorý môžete vložiť do obsahu stránky.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>History</source>
+        <target>História</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>am</source>
+        <target>am</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>pm</source>
+        <target>pm</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>AM</source>
+        <target>AM</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>PM</source>
+        <target>PM</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Monday</source>
+        <target>Pondelok</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Mon</source>
+        <target>Pon</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>Tuesday</source>
+        <target>Utorok</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Tue</source>
+        <target>Uto</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Wednesday</source>
+        <target>Streda</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Wed</source>
+        <target>Str</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Thursday</source>
+        <target>Štvrtok</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Thu</source>
+        <target>Štv</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Friday</source>
+        <target>Piatok</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Fri</source>
+        <target>Pia</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Saturday</source>
+        <target>Sobota</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>Sat</source>
+        <target>Sob</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Sunday</source>
+        <target>Nedeľa</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Sun</source>
+        <target>Ned</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>January</source>
+        <target>Január</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Jan</source>
+        <target>Jan</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>February</source>
+        <target>Február</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Feb</source>
+        <target>Feb</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>March</source>
+        <target>Marec</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Mar</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>April</source>
+        <target>Apríl</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Apr</source>
+        <target>Apr</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>May</source>
+        <target>Máj</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>June</source>
+        <target>Jún</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>Jun</source>
+        <target>Jun</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>July</source>
+        <target>Júl</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Jul</source>
+        <target>Jul</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>August</source>
+        <target>August</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Aug</source>
+        <target>Aug</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>September</source>
+        <target>September</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Sep</source>
+        <target>Sep</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>October</source>
+        <target>Október</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Oct</source>
+        <target>Okt</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>November</source>
+        <target>November</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Nov</source>
+        <target>Nov</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>December</source>
+        <target>December</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Dec</source>
+        <target>Dec</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Dashboard</source>
+        <target>Panel</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Scheduler</source>
+        <target>Plánovač</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>View All</source>
+        <target>Zobraziť všetko</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Reports</source>
+        <target>Správy</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Project Reports</source>
+        <target>Projektové správy</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Add New</source>
+        <target>Pridať nový</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Wiki</source>
+        <target>Wiki</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>Send Email</source>
+        <target>Odoslať email</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Extra Fields per Group</source>
+        <target>Špeciálne polia podľa skupiny</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Phases Status</source>
+        <target>Stav fáz</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Types</source>
+        <target>Typy</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Extra Fields per Type</source>
+        <target>Špeciálne polia podľa typu</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Labels</source>
+        <target>Označenia</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Extra Fields per Label</source>
+        <target>Špeciálne polia podľa označenia</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Events in Scheduler</source>
+        <target>Udalosti v plánovači</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Tools</source>
+        <target>Nástroje</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>Backups</source>
+        <target>Zálohy</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>Login Page</source>
+        <target>Prihlasovacia stránka</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>New User Creation</source>
+        <target>Vytvorenie nového užívateľa</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>Full Access</source>
+        <target>Úplný prístup</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Manage Own Only</source>
+        <target>Spravovať len vlastné</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>View Only</source>
+        <target>Len zobraziť</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>View Own Only</source>
+        <target>Zobraziť len vlastné</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Custom Access</source>
+        <target>Vlastný prístup</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>None</source>
+        <target>Žiadny</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Projects Wiki</source>
+        <target>Wiki projektov</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Public Wiki</source>
+        <target>Verejná Wiki</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>LDAP Default?</source>
+        <target>LDAP predvolené?</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Personal User Activity</source>
+        <target>Osobná aktivita užívateľa</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>users</source>
+        <target>užívatelia</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Sort</source>
+        <target>Triediť</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Display in Listing?</source>
+        <target>Zobraziť v zozname?</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Extra Fields per User Groups</source>
+        <target>Špeciálne polia podľa užívateľských skupín</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Default values</source>
+        <target>Predvolené hodnoty</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>projects</source>
+        <target>projekty</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Don't use extra fields</source>
+        <target>Nepoužívať špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Public Status</source>
+        <target>Verejný stav</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Use for public tickets</source>
+        <target>Použiť pre verejné požiadavky</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Only for public tickets</source>
+        <target>Len pre verejné požiadavky</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Don't use for public tickets</source>
+        <target>Nepoužívať pre verejné požiadavky</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Imap Server</source>
+        <target>Imap server</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Delete Emails</source>
+        <target>Odstrániť emaily</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>open</source>
+        <target>otvoriť</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>done</source>
+        <target>hotovo</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>closed</source>
+        <target>ukončené</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>contacts</source>
+        <target>kontakty</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>events</source>
+        <target>udalosti</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Display on dashboard</source>
+        <target>Zobraziť na paneli</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Display only assigned</source>
+        <target>Zobraziť len priradené</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>You can't delete yourself.</source>
+        <target>Nemôžete odstrániť vlastný účet.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>User can't be  Deleted because it has related items. Currently user status set to Inactive and user can't login to the system.</source>
+        <target>Užívateľ nemôže byť odstránený, pretože má súvisiace položky. Aktuálny stav užívateľa je neaktívny a užívateľ sa nemôže prihlásiť do systému.</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>My Scheduler</source>
+        <target>Môj plánovač</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Logoff</source>
+        <target>Odhlásiť sa</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>My Details</source>
+        <target>Moje detaily</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>My Time Report</source>
+        <target>Moja časová správa</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>My Activity Report</source>
+        <target>Moja správa o aktivite</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>My Patterns</source>
+        <target>Moje vzory</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>My Common Reports</source>
+        <target>Moje bežné správy</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Change Skin</source>
+        <target>Zmeniť vzhľad</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Full Name</source>
+        <target>Celé meno</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>New Password</source>
+        <target>Nové heslo</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Language</source>
+        <target>Jazyk</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Start Page</source>
+        <target>Úvodná stránka</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>With Selected</source>
+        <target>S vybraným</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Quick Search</source>
+        <target>Rýchle hľadanie</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Assigned to</source>
+        <target>Priradené k</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Hours To Go</source>
+        <target>Zostávajúci čas</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Import Tasks from XLS file</source>
+        <target>Importovať úlohy z XLS súboru</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Import Tasks from MS Project</source>
+        <target>Importovať úlohy z MS Projectu</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Import Spreadsheet</source>
+        <target>Importovať zošit</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Import Spreadsheet (Step 1)</source>
+        <target>Importovať zošit (Krok 1)</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>You can import tasks from spreadsheet in xls format.</source>
+        <target>Môžete importovať úlohy zo zošita v xls formáte.</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Load file and bind (map) columns to fields</source>
+        <target>Načítať súbor a spojiť (namapovať) stĺpce k poliam</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Bind Task fields with spreadsheet columns below and start import.</source>
+        <target>Spojiť polia úlohy so stĺpcami zošita nižšie a začať import.</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Column without binded field will be not imported.</source>
+        <target>Stĺpec, ktorý nebol spojený s poľom nebude importovaný.</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Import Spreadsheet (Step 2)</source>
+        <target>Importovať zošit (Krok 2)</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Import first row</source>
+        <target>Importovať prvý riadok</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Import</source>
+        <target>Importovať</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Bind Field</source>
+        <target>Spojiť pole</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Spreadsheet imported</source>
+        <target>Zošit importovaný</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Outline Level</source>
+        <target>Úroveň osnovy</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>More Info</source>
+        <target>Viac informácií</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>You can import tasks from MS Project in XML format.</source>
+        <target>Môžete importovať úlohy z MS Projectu v XML formáte.</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Tasks Imported</source>
+        <target>Úlohy importované</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Just select value if you need to change it.</source>
+        <target>Len vyberte hodnotu, ak ju potrebujete zmeniť.</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Numeric Fields</source>
+        <target>Číselné polia</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Enter value if you need to change it.&lt;br&gt;Also you can use: +,-,*,/ to change value.&lt;br&gt;For example: +30 means you increase current value to 30.</source>
+        <target>Zadajte hodnotu, ak ju potrebujete zmeniť.&lt;br&gt;Tiež môžete použiť: +,-,*,/ aby ste zmenili hodnotu.&lt;br&gt;Napríklad: +30 znamená, že aktuálnu hodnotu zvýšite o 30.</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Please Select Items</source>
+        <target>Prosím vyberte položky</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Note: Destination Project Team should include all Users assigned to selected items.</source>
+        <target>Poznámka: Cieľový projektový tím by mal zahrnúť všetkých užívateľov priradených k vybraným položkám.</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Users won't have access to Items if they are assigned to these Items but are not in the Project Team</source>
+        <target>Užívatelia nebudú mať prístup k položkám, ak sú priradení k týmto položkám, ale nie sú v projektovom tíme</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Are you sure you want to delete selected projects?</source>
+        <target>Ste si istí, že chcete odstrániť vybrané projekty?</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Note: all Projects Tasks, Tickets and Discussions will be deleted as well.</source>
+        <target>Poznámka: všetky projektové úlohy, požiadavky a diskusie budú takisto odstránené.</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Users per Projects</source>
+        <target>Užívatelia podľa projektov</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Users per Tasks</source>
+        <target>Užívatelia podľa úloh</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Display today's events in the menu</source>
+        <target>Zobraziť dnešné udalosti v menu</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Display today's events in the dashboard</source>
+        <target>Zobraziť dnešné udalosti na paneli</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Send today's events by email</source>
+        <target>Odoslať dnešné udalosti emailom</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Interval</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Date End</source>
+        <target>Koncové dátum</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Limit</source>
+        <target>Limit</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Daily</source>
+        <target>Denne</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Weekly</source>
+        <target>Týždenne</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Monthly</source>
+        <target>Mesačne</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Yearly</source>
+        <target>Ročne</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mandatory Report</source>
+        <target>Povinná správa</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Insert and View Only</source>
+        <target>Vložiť a len zobraziť</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Create</source>
+        <target>Vytvoriť</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Configure Form Tabs</source>
+        <target>Konfigurovať karty formulára</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Update Selected</source>
+        <target>Aktualizovať vybrané</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Sort in From Tags</source>
+        <target>Zoradiť podľa tagov</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>From Tabs</source>
+        <target>Z kariet</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Back to Extra Fields</source>
+        <target>Späť na špeciálne polia</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>New Tab</source>
+        <target>Nová karta</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Edit Tab</source>
+        <target>Upraviť kartu</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Actual Time</source>
+        <target>Aktuálny čas</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>discussions</source>
+        <target>diskusie</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>tasks</source>
+        <target>úlohy</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>tickets</source>
+        <target>požiadavky</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Phases</source>
+        <target>Fázy</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Notify</source>
+        <target>Upozorniť</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Warning: this ticket is closed but there are some open tasks related to this ticket. Please check related tasks.</source>
+        <target>Upozornenie: táto požiadavka je ukončená, ale existujú otvorené úlohy súvisiace s touto požiadavkou. Prosím skontrolujte súvisiace úlohy.</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Warning: this ticket is closed but there are some open discussions related to this ticket. Please check related discussions.</source>
+        <target>Upozornenie: táto požiadavka je ukončená, ale existujú otvorené diskusie súvisiace s touto požiadavkou. Prosím skontrolujte súvisiace diskusie.</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Warning: this task is closed but there are some open tickets related to this task. Please check related tickets.</source>
+        <target>Upozornenie: táto úloha je ukončená, ale existujú otvorené požiadavky súvisiace s touto úlohou. Prosím skontrolujte súvisiace požiadavky.</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Warning: this task is closed but there are some open discussions related to this task. Please check related discussions.</source>
+        <target>Upozornenie: táto úloha je ukončená, ale existujú otvorené diskusie súvisiace s touto úlohou. Prosím skontrolujte súvisiace diskusie.</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Warning: this discussion is closed but there are some open tickets related to this discussion. Please check related tickets.</source>
+        <target>Upozornenie: táto diskusia je ukončená, ale existujú otvorené požiadavky súvisiace s touto diskusiou. Prosím skontrolujte súvisiace požiadavky.</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Warning: this discussion is closed but there are some open tasks related to discussion. Please check related tasks.</source>
+        <target>Upozornenie: táto diskusia je ukončená, ale existujú otvorené úlohy súvisiace s touto diskusiou. Prosím skontrolujte súvisiace úlohy.</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Duration</source>
+        <target>Trvanie</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Day</source>
+        <target>Deň</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Week</source>
+        <target>Týždeň</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Month</source>
+        <target>Mesiac</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Quarter</source>
+        <target>Štvrťrok</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Use Filter</source>
+        <target>Použiť filter</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Sort Filters</source>
+        <target>Triediť filtre</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Versions</source>
+        <target>Verzie</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Add Versions</source>
+        <target>Pridať verzie</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>You type</source>
+        <target>Zadáte</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>You get</source>
+        <target>Dostanete</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>character formatting applies anywhere</source>
+        <target>formátovanie písmen je aplikované všade</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Escape wiki markup</source>
+        <target>Escape wiki značka</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Internal link</source>
+        <target>Interný odkaz</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>External link</source>
+        <target>Externý odkaz</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>External link with label</source>
+        <target>Externý odkaz s označením</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Italic text</source>
+        <target>Text kurzívy</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Bold text</source>
+        <target>Tučný text</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Bold and italic</source>
+        <target>Tučné a kurzíva</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>formatting applies only at the beginning of the line</source>
+        <target>Formátovanie je aplikované len na začiatku riadku</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Headings of different levels</source>
+        <target>Nadpisy odlišných úrovní</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Horizontal rule</source>
+        <target>Horizontálne pravidlo</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Bullet list</source>
+        <target>Odrážkový zoznam</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Numbered list</source>
+        <target>Číselný zoznam</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Preformatted text</source>
+        <target>Predformátovaný text</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Tables</source>
+        <target>Tabuľky</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Supported Wiki Markup</source>
+        <target>Podporované Wiki značky</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Loading...</source>
+        <target>Načítanie...</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Ticket Types</source>
+        <target>Typy požiadaviek</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Form Tab</source>
+        <target>Karta formulára</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Your Ticket ID:</source>
+        <target>Vaše ID požiadavky:</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Please reference this ticket # should you contact us.</source>
+        <target>Prosíme kontaktujte nás v súvislosti s požiadavkou #.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Email Address</source>
+        <target>Emailová adresa</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Antispam Protection</source>
+        <target>Antispamová ochrana</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Use Javascript Dropdown</source>
+        <target>Použiť Javascript Dropdown</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>View Own</source>
+        <target>Zobraziť vlastné</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>Manage Own</source>
+        <target>Spravovať vlastné</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>Insert and View</source>
+        <target>Vložiť a zobraziť</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>Display this event on Public Scheduler</source>
+        <target>Zobraziť túto udalosť vo verejnom plánovači</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Project Description</source>
+        <target>Popis projektu</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>Project Comment</source>
+        <target>Komentár projektu</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Task Description</source>
+        <target>Popis úlohy</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Task Comment</source>
+        <target>Komentár úlohy</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Ticket Description</source>
+        <target>Popis požiadavky</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Ticket Comments</source>
+        <target>Komentáre požiadavky</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Discussion Description</source>
+        <target>Popis diskusie</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Discussion Comment</source>
+        <target>Komentár diskusie</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>send login details to user</source>
+        <target>odoslať prihlasovacie údaje užívateľovi</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Repeat On</source>
+        <target>Opakujte na</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Input Field</source>
+        <target>Vstupné pole</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Input Numeric Field</source>
+        <target>Vstupné číselné pole</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Input URL Field</source>
+        <target>Vstupné URL pole</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>Textarea</source>
+        <target>Textová oblasť</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>Textarea with WYSIWYG editor</source>
+        <target>Textová oblasť s WYSIWYG editorom</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>Date with calendar picker</source>
+        <target>Dátum s kalendárovým zberačom</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Date with calendar and time picker</source>
+        <target>Dátum s kalendárovým a časovým zberačom</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Date range with calendar picker</source>
+        <target>Rozsah dátumov s kalendárovým zberačom</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Pull Down List</source>
+        <target>Rozbaľovací zoznam</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Checkbox List</source>
+        <target>Zoznam zaškrtávacích políčok</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Radiobox List</source>
+        <target>Zoznam radiobox</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Filter by selected</source>
+        <target>Filtrovať podľa vybraného</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>Restore Password</source>
+        <target>Obnoviť heslo</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Has related ticket</source>
+        <target>Má súvisiacu požiadavku</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>Has estimated time</source>
+        <target>Má odhadovaný čas</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Overdue tasks</source>
+        <target>Úlohy po termíne</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>Send email notification every</source>
+        <target>Odoslať emailovú notifikáciu každý</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Days before due date</source>
+        <target>Dní pred termínom</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>Display tickets not assigned to project</source>
+        <target>Zobraziť požiadavky nepriradené k projektu</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>Discussions Created</source>
+        <target>Diskusie vytvorené</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Tickets Created</source>
+        <target>Požiadavky vytvorené</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>Are you sure you want to delete project</source>
+        <target>Ste si istí, že chcete odstrániť projekt?</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Copy from ticket</source>
+        <target>Kopírovať z požiadavky</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>Copy from task</source>
+        <target>Kopírovať z úlohy</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Copy from discussion</source>
+        <target>Kopírovať z diskusie</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Closed</source>
+        <target>Ukončené</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Please wait. Files are loading.</source>
+        <target>Prosím čakajte. Súbory sa načítavajú.</target>
+      </trans-unit>      
+    </body>
+  </file>
+</xliff>

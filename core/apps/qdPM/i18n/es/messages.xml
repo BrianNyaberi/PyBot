@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="" datatype="plaintext" original="messages" date="" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Please remove 'install' folder</source>
+        <target>Por favor eliminar el directorio 'install'</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>This field is required!</source>
+        <target>¡Este campo es requerido!</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please enter a valid email address.</source>
+        <target>Por favor ingrese una dirección de correo electrónico válida.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>First Page</source>
+        <target>Primera Página</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Previous Page</source>
+        <target>Página Anterior</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Page</source>
+        <target>Página</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Next Page</source>
+        <target>Página Siguiente</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Last Page</source>
+        <target>Ultima Página</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Displaying</source>
+        <target>Mostrando</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>View more</source>
+        <target>Ver más</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Error</source>
+        <target>Error</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Warning</source>
+        <target>Advertencia</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Access Forbidden</source>
+        <target>Acceso Prohibido</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Sorry, you don\'t have access to this page.</source>
+        <target>Usted no tiene acceso a esta página.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Date Added</source>
+        <target>Fecha Agregada</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Date Last Commented</source>
+        <target>Fecha del Ultimo Comentario</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Name</source>
+        <target>Nombre</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Priority</source>
+        <target>Prioridad</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Status</source>
+        <target>Estado</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Type</source>
+        <target>Tipo</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Group</source>
+        <target>Grupo</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Label</source>
+        <target>Etiqueta</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Department</source>
+        <target>Departamento</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Order By</source>
+        <target>Ordenar Por</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Edit Filter</source>
+        <target>Editar Filtro</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Default?</source>
+        <target>¿Por defecto?</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This filter will be used by default after login.</source>
+        <target>Este filtro será utilizado por defecto la próxima vez que inicie sesión.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Update Filter</source>
+        <target>Actualizar Filtro</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Current filters will be assigned to this filter.</source>
+        <target>Los filtros actuales serán asignados a este filtro.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Save</source>
+        <target>Guardar</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Delete Selected?</source>
+        <target>¿Borrar Seleccionados?</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Are you sure you want to delete selected items?</source>
+        <target>¿Está seguro que desea eliminar los items seleccionados?</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>Eliminar</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save Filter</source>
+        <target>Guardar Filtro</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Sort Filters</source>
+        <target>Ordenar Filtros</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Just move an item up or down.</source>
+        <target>Mueva un ítem hacia arriba o hacia abajo</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sort Items</source>
+        <target>Ordenar Items</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Description</source>
+        <target>Descripción</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Attachments</source>
+        <target>Adjuntos</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Search</source>
+        <target>Búsqueda</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Search In</source>
+        <target>Buscar En</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Comments</source>
+        <target>Comentarios</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Search result for</source>
+        <target>Buscar resultados para</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Reset</source>
+        <target>Reiniciar</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Note</source>
+        <target>Nota</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add Attachments</source>
+        <target>Agregar Adjuntos</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>view</source>
+        <target>ver</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>download</source>
+        <target>descargar</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Projects Reports</source>
+        <target>Reportes de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Tasks Reports</source>
+        <target>Reportes de Tareas</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Tickets Reports</source>
+        <target>Reportes de Tickets</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Discussions Reports</source>
+        <target>Reportes de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Common Reports</source>
+        <target>Reportes Comunes</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Add Report</source>
+        <target>Agregar Reporte</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Action</source>
+        <target>Acción</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users Groups</source>
+        <target>Grupos de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Display on dashboard</source>
+        <target>Mostrar en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Display in menu</source>
+        <target>Mostrar en menú</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>No Records Found</source>
+        <target>No se encontraron Registros</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>New Report</source>
+        <target>Nuevo Reporte</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Configuration has been successfully updated</source>
+        <target>La configuración ha sido actualizada de forma exitosa</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No</source>
+        <target>No</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Yes</source>
+        <target>Sí</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Email Options</source>
+        <target>Opciones de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Notifications</source>
+        <target>Notificaciones</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Use email notification</source>
+        <target>Utilizar notificación por correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email Subject Label</source>
+        <target>Etiqueta de Asunto de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Amount previous comments in email</source>
+        <target>Adjuntar comentarios anteriores en el mensaje</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Copy Sender?</source>
+        <target>¿Copiar emisor?</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Send all emails from single email address</source>
+        <target>Enviar todos los mensajes desde una única dirección de correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Email address from</source>
+        <target>Dirección de correo electrónico del remitente</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Name from</source>
+        <target>Nombre del remitente</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>SMTP Configuration</source>
+        <target>Configuración SMTP</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Use SMTP</source>
+        <target>Utilizar SMTP</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>SMTP Server</source>
+        <target>Servidor SMTP</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>SMTP Port</source>
+        <target>Puerto SMTP</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>SMTP Encryption</source>
+        <target>Encripción SMTP</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>SMTP Login</source>
+        <target>Login SMTP</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>SMTP Password</source>
+        <target>Contraseña SMTP</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Features</source>
+        <target>Características</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Use Skins</source>
+        <target>Utilizar Skins</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Use Tasks Time Tracker</source>
+        <target>Utilizar Seguimiento de Tiempo de Tareas</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Use Parent/Child Tasks</source>
+        <target>Utilizar Tareas Padre/Hijo</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Use Project Phases</source>
+        <target>Utilizar Fases de Proyecto</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Use Project Versions</source>
+        <target>Utilizar Versiones de Proyecto</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Use Tasks Groups</source>
+        <target>Utilizar Grupos de Tareas</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>General Configuration</source>
+        <target>Configuración General</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Root Administrator</source>
+        <target>Administrador Root</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Administrator Email</source>
+        <target>Correo Electrónico del Administrador</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Administrator Password</source>
+        <target>Contraseña del Administrador</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Root administrator is internal user who can just manage users and configuration and can’t create tasks or projects</source>
+        <target>El usuario administrador root es un usuario interno que sólo puede administrar usuarios y configuraciones, y no puede crear tareas o proyectos</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Application</source>
+        <target>Aplicación</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Name of application</source>
+        <target>Nombre de la aplicación</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Short name of application</source>
+        <target>Nombre corto de la aplicación</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Note: logo might be not looks OK in all skins so you should pick one skin or create your own skin.</source>
+        <target>Nota: el logo puede no verse bien en todos los skins, por lo que se debe seleccionar un único skin o crear un skin personalizado</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Defaults</source>
+        <target>Por Defecto</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Default Skin</source>
+        <target>Skin por Defecto</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Default Timezone</source>
+        <target>Zona Horaria por Defecto</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Default Culture</source>
+        <target>Configuración Regional por Defecto</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Default Rows Per Page</source>
+        <target>Cantidad de Filas por Página por Defecto</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Rows Limit</source>
+        <target>Límite de Filas</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>This option allows you to limit the number of rows retrieved in a single database query.&lt;br&gt;You can use this option if your server has problems displaying a lot of data.&lt;br&gt;Once you set this option, the query results will be displayed in paged format and you will see the extra PHP pager at the bottom of the page that will allow you to fetch more.</source>
+        <target>Esta opción permite limitar el número de filas que se obtienen en una consulta simple a la base de datos.&lt;br&gt;Puede utilizar esta opción si su servidor tiene problemas para mostrar grandes cantidades de datos.&lt;br&gt;Una vez que se utiliza esta opción, los resultados de la consulta serán visualizados en un formato paginado y se mostrará el pie PHP adicional al final de la página que permite visualizar las filas restantes.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Default Date Format</source>
+        <target>Formato de Fecha por Defecto</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Default Comments Date Format</source>
+        <target>Formato de Fecha por Defecto en Comentarios</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>more about date format see</source>
+        <target>más acerca del formato de fecha</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Other</source>
+        <target>Otro</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Allow edit tasks comments date</source>
+        <target>Permitir editar fechas de comentarios de tareas</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>LDAP Configuration</source>
+        <target>Configuración LDAP</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use LDAP Login</source>
+        <target>Utilizar Login LDAP</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>LDAP server name</source>
+        <target>Nombre del servidor LDAP</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>If using LDAP this is the hostname or IP address of the LDAP server. Alternatively you can specify a URL like ldap://hostname:port/</source>
+        <target>Si se utiliza LDAP, éste es el hostname o dirección IP del servidor LDAP. Alternativamente es posible especificar una URL de la forma ldap://hostname:puerto/</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>LDAP server port</source>
+        <target>Puerto del servidor LDAP</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Optionally you can specify a port which should be used to connect to the LDAP server instead of the default port 389.</source>
+        <target>Opcionalmente es posible especificar un puerto específico para conectarse al servidor LDAP en lugar del puerto 389 por defecto.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>LDAP base dn</source>
+        <target>DN base LDAP</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>This is the Distinguished Name, locating the user information, e.g. o=My Company,c=US.</source>
+        <target>Este es el nombre distinguido (Distinguished Name), que contiene información del usuario, por ejemplo: o=Mi Empresa,c=ES.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>LDAP uid</source>
+        <target>UID LDAP</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>This is the key under which to search for a given login identity, e.g. uid, sn, etc.</source>
+        <target>Esta es la clave desde la cual buscar por una determinada identidad de login, por ejemplo: uid, sn, etc.</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>LDAP user filter</source>
+        <target>Filtro de usuario LDAP</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Optionally you can further limit the searched objects with additional filters.&lt;br&gt;For example objectClass=posixGroup would result in the use of (&amp;(uid=$username)(objectClass=posixGroup))</source>
+        <target>Opcionalmente es posible limitar los objetos buscados con filtros adicionales.&lt;br&gt;Por ejemplo objectClass=posixGroup resultará en el uso de (&amp;(uid=$username)(objectClass=posixGroup))</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>LDAP e-mail attribute</source>
+        <target>Atributo de correo electrónico LDAP</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Set this to the name of your user entry e-mail attribute (if one exists) in order to automatically set the e-mail address for new users.&lt;br&gt;User email is required for qdPM and if it\'s not exist qdPM atumatically assign email like username@localhost.com</source>
+        <target>Configurar este campo al nombre del atributo de correo electrónico de su entrada de usuario (si existe) para establecer automáticamente la dirección de correo electrónico para nuevos usuarios.&lt;br&gt;El correo electrónico del usuario es requerido para qdPM y si no existe qdPM automáticamente asignará una dirección de correo electrónico similar a username@localhost.com</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>LDAP user dn</source>
+        <target>User DN LDAP</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Leave blank to use anonymous binding. If filled in uses the specified distinguished name on login attempts to find the correct user, e.g. uid=Username,ou=MyUnit,o=MyCompany,c=US. </source>
+        <target>Dejar en blanco para utilizar binding anónimo. Si se completa utilizará durante los intentos de login el nombre distinguido especificado para encontrar el usuario correcto, por ejemplo uid=Username,ou=MiUnidad,o=MiEmpresa,c=ES.</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>LDAP password</source>
+        <target>Contraseña LDAP</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Leave blank to use anonymous binding. Otherwise fill in the password for the above user. &lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; This password will be stored as plain text in the database visible to everybody who can access your database or who can view this configuration page.</source>
+        <target>Dejar en blanco para utilizar binding anónimo. De lo contrario completar la contraseña del usuario anterior.&lt;br&gt;&lt;b&gt;Advertencia:&lt;/b&gt; Esta contraseña será almacenada como texto plano en la base de datos visible a cualquiera que tenga acceso a la misma o pueda ver esta página de configuración.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Login Page Configuration</source>
+        <target>Configuración de la Página de Login</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Heading</source>
+        <target>Encabezado</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Content</source>
+        <target>Contenido</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Public Tickets</source>
+        <target>Tickets Públicos</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Users can submit Tickets without registration.</source>
+        <target>Los usuarios pueden enviar tickets sin registrarse.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Use Public Tickets</source>
+        <target>Utilizar Tickets Públicos</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Allow attachments in public tickets form</source>
+        <target>Permitir adjuntos en el formulario de tickets públicos</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Use antispam protection in form</source>
+        <target>Utilizar protección antispam en este formulario</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Integration Code</source>
+        <target>Código de Integración</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Integration code helps you integrate the Public Ticket form into your web site. Just copy code below and paste it into your page.&lt;br&gt;You can change &quot;width&quot; or &quot;height&quot; parameters if needed.&lt;br&gt; See &quot;css/submitTickets/styles.css&quot; to update css for public tickets form.</source>
+        <target>El código de integración ayuda a integrar el Ticket Público en su sitio web. Copiar el código y pegarlo en su página.&lt;br&gt;Es posible cambiar los parámetros de ancho y altura si es necesario.&lt;br&gt;Ver &quot;css/submitTickets/styles.css&quot; para actualizar el código css para el formulario de tickets públicos.</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Tasks Listing</source>
+        <target>Listado de Tareas</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Select tasks fields which will be display in tasks listing by default.&lt;br&gt;Also you can configure own tasks listing for each projects type, see  &quot;Configurations-&gt;Projects-&gt;Types&quot;</source>
+        <target>Seleccione los campos de tareas que serán mostrados por defecto en el listado de tareas.&lt;br&gt;Además es posible configurar listados de tareas personalizados para cada tipo de proyecto, ver &quot;Configuraciones-&gt;Proyectos-&gt;Tipos&quot;</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Configure Email notification for new user</source>
+        <target>Configurar notificación por correo electrónico para el nuevo usuario</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Subject</source>
+        <target>Asunto</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Default</source>
+        <target>Por defecto</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Your account has been created in</source>
+        <target>Su cuenta ha sido creada</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Body</source>
+        <target>Cuerpo</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>by default login details will be added at the end message</source>
+        <target>por defecto los detalles de login serán agregados al final del mensaje</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Use Keys</source>
+        <target>Utilizar Llaves</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>to include User Name</source>
+        <target>para incluir el Nombre de Usuario</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>to include Login Details</source>
+        <target>para incluir los Detalles del Login</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Edit Contact</source>
+        <target>Editar Contacto</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Contacts</source>
+        <target>Contactos</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Add Contact</source>
+        <target>Agregar Contacto</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Email</source>
+        <target>Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>New Contact</source>
+        <target>Nuevo Contacto</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Edit</source>
+        <target>Editar</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Contacts Groups</source>
+        <target>Grupos de Contactos</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Sort Order</source>
+        <target>Ordenamiento</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New</source>
+        <target>Nuevo</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>My Dashboard</source>
+        <target>Mi Panel de Control</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Just select reports which you want to display on dashboard</source>
+        <target>Seleccionar reportes que desee mostrar en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>No Reports Found</source>
+        <target>No se encontraron reportes</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Update</source>
+        <target>Actualizar</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Configure Dashboard</source>
+        <target>Configurar Panel de Control</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Sort Reports</source>
+        <target>Ordenar Reportes</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>No reports found to display on dashboard</source>
+        <target>No se encontraron reportes para mostrar en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Personal Scheduler</source>
+        <target>Planificador Personal</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Public Scheduler</source>
+        <target>Planificador Público</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Edit Department</source>
+        <target>Editar Departamento</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Departments</source>
+        <target>Departamentos</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Assigned To</source>
+        <target>Asignado A</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Active</source>
+        <target>Activo</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>New Department</source>
+        <target>Nuevo Departamento</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>General</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Tickets Types</source>
+        <target>Tipos de Tickets</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Email Tickets</source>
+        <target>Tickets de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Email Patterns</source>
+        <target>Patrones de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Select the Ticket Types that will be available for this Department only</source>
+        <target>Seleccione los Tipos de Tickets que serán disponibles sólo para este Departamento</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>to get Tickets by email you have to setup cron, read more installation instruction</source>
+        <target>para obtener Tickets por correo electrónico se debe configurar cron, leer más en las instrucciones de instalación</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>IMAP functions should be enabled on your server</source>
+        <target>Se deben habilitar las funciones IMAP en su servidor</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>if you will have any questions or imap errors, please read this:</source>
+        <target>si tiene preguntas o errores IMAP, por favor lea ésto:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Get Tickets by email</source>
+        <target>Obtener Tickets por correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>For example</source>
+        <target>Por ejemplo</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Delete messages from the server</source>
+        <target>Eliminar mensajes del servidor</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>You can setup custom email patterns for Ticket emails.</source>
+        <target>Es posible configurar patrones de correo personalizados para Tickets de correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Patterns will be using for Public Tickets and Email Tickets.</source>
+        <target>Los patrones serán utilizados para Tickets Públicos y Tickets de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Use next keys:</source>
+        <target>Utilizar las siguientes llaves:</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>ticket id</source>
+        <target>id de ticket</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>description of ticket or comment</source>
+        <target>descripción del ticket o comentario</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>name of ticket creator</source>
+        <target>nombre del creador del ticket</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A new ticket has been opened</source>
+        <target>Un nuevo ticket ha sido abierto</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Show Original</source>
+        <target>Mostrar Original</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Filter Deleted</source>
+        <target>Filtro Eliminado</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Filter Saved</source>
+        <target>Filtro Guardado</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Id</source>
+        <target>Id</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Assigned To</source>
+        <target>Asignado A</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Url</source>
+        <target>Url</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Groups</source>
+        <target>Grupos</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Filters</source>
+        <target>Filtros</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Link Discussions</source>
+        <target>Link de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Created By</source>
+        <target>Creado Por</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Bind</source>
+        <target>Enlazar</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Edit Discussion</source>
+        <target>Editar Discusión</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Export</source>
+        <target>Exportar</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Select fields to export</source>
+        <target>Seleccione campos a exportar</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Select All</source>
+        <target>Seleccionar Todos</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Filename</source>
+        <target>Nombre de archivo</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Discussions</source>
+        <target>Discusiones</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Format</source>
+        <target>Formato</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Move To</source>
+        <target>Mover A</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Select Project</source>
+        <target>Seleccionar Proyecto</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Move To Project</source>
+        <target>Mover Al Proyecto</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Move</source>
+        <target>Mover</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Update Selected?</source>
+        <target>¿Actualizar Seleccionado?</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Just select value if you need to change it</source>
+        <target>Seleccione un valor si desea modificarlo</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>New Discussion</source>
+        <target>Nueva Discusión</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Projects Not Found</source>
+        <target>Proyectos No Encontrados</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Project</source>
+        <target>Proyecto</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Details</source>
+        <target>Detalles</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Created At</source>
+        <target>Creado En</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>No Assigned Users</source>
+        <target>Sin Usuarios Asignados</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Remove Filter</source>
+        <target>Quitar Filtro</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Add Discussion</source>
+        <target>Agregar Discusión</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Related Discussions</source>
+        <target>Discusiones Relacionadas</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Delete Related</source>
+        <target>Eliminar Relacionados</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Add</source>
+        <target>Agregar</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Discussion</source>
+        <target>Discusión</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Related Tasks</source>
+        <target>Tareas Relacionadas</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add Task</source>
+        <target>Agregar Tarea</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Link Tasks</source>
+        <target>Enlazar Tareas</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Related Tickets</source>
+        <target>Tickets Relacionados</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Add Ticket</source>
+        <target>Agregar Ticket</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Link Tickets</source>
+        <target>Enlazar Tickets</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>More Actions</source>
+        <target>Más Acciones</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Edit Comment</source>
+        <target>Editar Comentario</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Add Comment</source>
+        <target>Agregar Comentario</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Edit Details</source>
+        <target>Editar Detalles</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Comment</source>
+        <target>Comentario</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>New Comment</source>
+        <target>Nuevo Comentario</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Previous Comments</source>
+        <target>Comentarios Previos</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Go to previous discussion</source>
+        <target>Ir a la disución previa</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Go to next discussion</source>
+        <target>Ir a la siguiente discusión</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Discussions Groups</source>
+        <target>Grupos de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Active?</source>
+        <target>¿Activo?</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Discussions Priorities</source>
+        <target>Prioridades de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Icon</source>
+        <target>Icono</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Edit Report</source>
+        <target>Editar Reporte</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Discussions Filters</source>
+        <target>Filtros de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Projects Filters</source>
+        <target>Filtros de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Projects</source>
+        <target>Proyectos</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Discussions Status</source>
+        <target>Estado de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Background</source>
+        <target>Antecedentes</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Discussions Types</source>
+        <target>Tipos de Discusiones</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Extra Fields</source>
+        <target>Campos Adicionales</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>No Extra Fields Found</source>
+        <target>No se Encontraron Campos Adicionales</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Don\'t use extra fields</source>
+        <target>No utilizar campos adicionales</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Events Priorities</source>
+        <target>Prioridades de Eventos</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Events Types</source>
+        <target>Tipos de Eventos</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Extra Fields Updated</source>
+        <target>Campos Adicionales Actualizados</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>By default all Extra Fields are visible.</source>
+        <target>Por defecto todos los Campos Adicionales son visibles.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Select Extra Fields which will be visible only for specific group</source>
+        <target>Seleccione los Campos Extra que serán visibles sólo para un grupo específico</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Use option (Don't use Extra Fields) to hide Extra Fields for specific group</source>
+        <target>Utilizar la opción (No utilizar Campos Adicionales) para ocultar los Campos Adicionales para un grupo específico</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Don't use Extra Fields</source>
+        <target>No utilizar Campos Adicionales</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Extra fields</source>
+        <target>Campos adicionales</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>In Listing?</source>
+        <target>¿En el Listado?</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Required?</source>
+        <target>¿Requerido?</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Access</source>
+        <target>Acceso</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Select User Groups that will have access to Extra Field.&lt;br&gt;By default access is NOT limited.</source>
+        <target>Seleccione los Grupos de Usuarios que tendrán acceso a los Campos Adicionales.&lt;br&gt;Por defecto el acceso NO está limitado.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Simple input text field.</source>
+        <target>Campo de entrada de texto simple.</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>This field used for numbers.</source>
+        <target>Este campo es utilizado para números.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Value of this field will be calculated by formula entered below.&lt;br&gt;Use [Field ID] to setup field value in formula.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt;Where 36 and 54 are ID of numeric fields.</source>
+        <target>El valor de este campo será calculado por la formula ingresada más abajo.&lt;br&gt; Utilice [ID de Campo] para configurar el valor del campo en la fórmula.&lt;br&gt;Por ejemplo: ([36]+[54])/2&lt;br&gt;Donde 36 y 54 son ID de campos numéricos.</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Formula</source>
+        <target>Fórmula</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Simple textarea field.</source>
+        <target>Campo de área de texto simple.</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>WYSIWYG editor will be automatically added to this field.</source>
+        <target>El editor WYSIWYG será agregado automáticamente a este campo.</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Date with dropdown select</source>
+        <target>Fecha con selector desplegable</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Date - Time with dropdown select</source>
+        <target>Fecha - Hora con selector desplegable</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>You have to enter default values for this field below.&lt;br&gt;Enter each value in new line.</source>
+        <target>Debe ingresar valores por defecto para este campo.&lt;br&gt;Ingrese cada valor en una nueva línea.</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Gantt Chart</source>
+        <target>Diagrama de Gantt</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>hours</source>
+        <target>horas</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>You are receiving this notification because you have requested a new password be sent for your account on</source>
+        <target>Usted está recibiendo esta notificación porque ha solicitado que se envíe una nueva contraseña para su cuenta en</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Password</source>
+        <target>Contraseña</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>New Password on</source>
+        <target>Nueva Contraseña en</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>A new password has been sent to your e-mail address</source>
+        <target>Se ha enviado una nueva contraseña a su dirección de correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>No match for Email and/or Password</source>
+        <target>No coincide Email y/o Contraseña</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Your account is not active</source>
+        <target>Su cuenta está inactiva</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Login</source>
+        <target>Login</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Remember Me</source>
+        <target>Recordarme</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Password forgotten?</source>
+        <target>¿Olvidó su contraseña?</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>LDAP Login</source>
+        <target>Login LDAP</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Default users group for LDAP users is not setup. LDAP login is not allowed.</source>
+        <target>El grupo de usuarios por defecto para usuarios LDAP no ha sido configurado. No se permite login LDAP.</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Enter your e-mail address below</source>
+        <target>Ingrese su dirección de correo electrónico a continuación</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Send New Password</source>
+        <target>Enviar Nueva Contraseña</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Email already exists</source>
+        <target>El correo electrónico ya existe</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Account Updated</source>
+        <target>Cuenta Actualizada</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>My Account</source>
+        <target>Mi Cuenta</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Hide</source>
+        <target>Ocultar</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Patterns</source>
+        <target>Patrones</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Edit Pattern</source>
+        <target>Editar Patrón</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>New Pattern</source>
+        <target>Nuevo Patrón</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>Default Phases</source>
+        <target>Fases por Defecto</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Put phases in new line, for example</source>
+        <target>Ingresar fases en una nueva línea, por ejemplo</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Phase Status</source>
+        <target>Estado de Fase</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Projects Roles</source>
+        <target>Roles de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Tasks</source>
+        <target>Tareas</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Tickets</source>
+        <target>Tickets</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>LDAP Default</source>
+        <target>LDAP por defecto</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Default Group</source>
+        <target>Grupo por defecto</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Team</source>
+        <target>Equipo</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Edit Project</source>
+        <target>Editar Proyecto</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>New Project</source>
+        <target>Nuevo Proyecto</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Select Ticket Departments which will be available for this Project.</source>
+        <target>Seleccionar qué Departamentos de Tickets estarán disponibles para este Proyecto.</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>By default Department will be available if the User assigned to Department is in the Project team.</source>
+        <target>Por defecto el Departamento estará disponible si el Usuario asignado al Departamento está en el equipo del Proyecto.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Add Project</source>
+        <target>Agregar Proyecto</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>User</source>
+        <target>Usuario</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Role</source>
+        <target>Rol</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Projects Groups</source>
+        <target>Grupos de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Edit Phase</source>
+        <target>Editar Fase</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Projects Phases</source>
+        <target>Fases de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Add Phase</source>
+        <target>Agregar Fase</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Due Date</source>
+        <target>Fecha de Finalización</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>New Phase</source>
+        <target>Nueva Fase</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Projects Priorities</source>
+        <target>Prioridades de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Projects Reports</source>
+        <target>Reportes de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>In Team</source>
+        <target>En el Equipo</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Projects Status</source>
+        <target>Estado de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Projects Types</source>
+        <target>Tipos de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Tasks Columns</source>
+        <target>Columnas de Tareas</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Select extra fields which will be appear for this type.</source>
+        <target>Seleccionar campos adicionales que serán visibles para este tipo.</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Select Task fields which will be display in tasks listing for this Project Type.</source>
+        <target>Seleccionar campos de Tareas que se mostrarán en el listado de tareas para este Tipo de Proyecto.</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Public Tickets not allowed.</source>
+        <target>No se permiten Tickets Públicos.</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>A new Ticket has been opened for you.</source>
+        <target>Se ha abierto un nuevo Ticket para usted.</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>There are no departments that can be used for public tickets.</source>
+        <target>No existen departamentos que puedan ser utilizados para tickets públicos.</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>New Ticket</source>
+        <target>Nuevo Ticket</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Attach a file</source>
+        <target>Adjuntar un archivo</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Sum of</source>
+        <target>Suma de</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Submit Ticket</source>
+        <target>Enviar Ticket</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Configuration</source>
+        <target>Configuración</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>Display today\'s events in the menu</source>
+        <target>Mostrar los eventos del día en el menú</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Display today\'s events in the dashboard</source>
+        <target>Mostrar los eventos del día en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Send today\'s events by email</source>
+        <target>Enviar eventos del día por correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Edit Event</source>
+        <target>Editar Evento</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Switch to my personal scheduler</source>
+        <target>Cambiar a mi planificador personal</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>New Event</source>
+        <target>Nuevo Evento</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Switch to public scheduler</source>
+        <target>Cambiar al planificador público</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Are you sure?</source>
+        <target>¿Está seguro?</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Repeat</source>
+        <target>Repetir</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Start Date</source>
+        <target>Fecha de Inicio</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>End Date</source>
+        <target>Fecha de Finalización</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>No Events Found</source>
+        <target>No se Encontraron Eventos</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Previous Month</source>
+        <target>Mes anterior</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Next Month</source>
+        <target>Mes siguiente</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>Back to </source>
+        <target>Volver a</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Today</source>
+        <target>Hoy</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Skin style is not found. Please check next path:</source>
+        <target>No se encuentra el Skin. Por favor verifique la siguiente ruta:</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Skins</source>
+        <target>Skins</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Version</source>
+        <target>Versión</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Phase</source>
+        <target>Fase</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Est. Time</source>
+        <target>Tiempo est.</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Progress</source>
+        <target>Progreso</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>List</source>
+        <target>Lista</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Tree</source>
+        <target>Arbol</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>View Type</source>
+        <target>Tipo de Vista</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Copy To</source>
+        <target>Copiar A</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Copy To Project</source>
+        <target>Copiar Al Proyecto</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Copy</source>
+        <target>Copiar</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Edit Task</source>
+        <target>Editar Tarea</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>New Task</source>
+        <target>Nueva Tarea</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Sort Tasks</source>
+        <target>Ordenar Tareas</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Child Tasks</source>
+        <target>Tareas Hijas</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Estimated Time</source>
+        <target>Tiempo Estimado</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>Work Hours</source>
+        <target>Horas Trabajadas</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Time</source>
+        <target>Tiempo</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>set this status for all child tasks</source>
+        <target>establecer este estado para todas las tareas hijas</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Sort Tree</source>
+        <target>Ordenar Arbol</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Task</source>
+        <target>Tarea</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Add Child Task</source>
+        <target>Agregar Tarea Hija</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Delete with child tasks</source>
+        <target>Eliminar con tareas hijas</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Timer</source>
+        <target>Temporizador</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Go to previous task</source>
+        <target>Ir a la tarea anterior</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Go to next task</source>
+        <target>Ir a la tarea siguiente</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Close Timer</source>
+        <target>Cerrar Temporizador</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Start</source>
+        <target>Iniciar</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>Stop</source>
+        <target>Detener</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Work Hours:</source>
+        <target>Horas Trabajadas:</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Edit Group</source>
+        <target>Editar Grupo</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Tasks Groups</source>
+        <target>Grupos de tareas</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>Add Group</source>
+        <target>Agregar Grupo</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>New Group</source>
+        <target>Nuevo Grupo</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Tasks Labels</source>
+        <target>Etiquetas de Tareas</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>Tasks Priorities</source>
+        <target>Prioridades de Tareas</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Tasks Status</source>
+        <target>Estado de Tareas</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Tasks Types</source>
+        <target>Tipos de Tareas</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Edit Ticket</source>
+        <target>Editar Ticket</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>Ticket</source>
+        <target>Ticket</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Link Task</source>
+        <target>Enlazar Tarea</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Go to previous ticket</source>
+        <target>Ir al ticket anterior</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Go to next ticket</source>
+        <target>Ir al ticket siguiente</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Tickets Groups</source>
+        <target>Grupos de Tickets</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Tickets Priorities</source>
+        <target>Prioridades de Tickets</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Tickets Filters</source>
+        <target>Filtros de Tickets</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Ticktes Status</source>
+        <target>Estado de Tickets</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>Users Time Report</source>
+        <target>Reporte de Tiempo de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Discrepancy:</source>
+        <target>Discrepancia:</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>All</source>
+        <target>Todos</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Under</source>
+        <target>Bajo</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Over</source>
+        <target>Sobre</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>From</source>
+        <target>Desde</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>To</source>
+        <target>A</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Filter By Dates</source>
+        <target>Filtrar Por Fechas</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Allocated</source>
+        <target>Asignado</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Discrepancy</source>
+        <target>Discrepancia</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Project Info</source>
+        <target>Información del Proyecto</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>No records found</source>
+        <target>No se encontraron registros</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Time Log</source>
+        <target>Log de Tiempo</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Date</source>
+        <target>Fecha</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Worked Hours</source>
+        <target>Horas Trabajadas</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>Task Url</source>
+        <target>Url de Tarea</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Task Info</source>
+        <target>Información de la Tarea</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Project Info</source>
+        <target>Información del Proyecto</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Tasks Url</source>
+        <target>Url de Tareas</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users</source>
+        <target>Usuarios</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Items restored</source>
+        <target>Items restaurados</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Database saved.</source>
+        <target>Base de datos guardada.</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Database restored.</source>
+        <target>Base de datos restaurada.</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>Success: Backup removed.</source>
+        <target>Exito: Backup removido.</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Error: Backup not removed.</source>
+        <target>Error: Backup no removido.</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>Backup</source>
+        <target>Backup</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>File</source>
+        <target>Archivo</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Size</source>
+        <target>Tamaño</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>bytes</source>
+        <target>bytes</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Restore</source>
+        <target>Restaurar</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Download</source>
+        <target>Descargar</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Backup Directory</source>
+        <target>Directorio de Backup</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Restore?</source>
+        <target>¿Restaurar?</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>Are you sure you want to restore selected items?</source>
+        <target>¿Seguro que desea restaurar los ítems seleccionados?</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Trash</source>
+        <target>Papelera</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>Empty Trash</source>
+        <target>Vaciar Papelera</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Restore Selected</source>
+        <target>Restaurar Seleccionados</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Comment for project</source>
+        <target>Comentario para el proyecto</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Comment for task</source>
+        <target>Comentario para la tarea</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Comment for ticket</source>
+        <target>Comentario para el ticket</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Comment for discussion</source>
+        <target>Comentario para la discusión</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>Tasks Filters</source>
+        <target>Filtros de Tareas</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Extra</source>
+        <target>Adicional</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>Reminder</source>
+        <target>Recordatorio</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Tasks Due Date</source>
+        <target>Fecha de Finalización de Tareas</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>Tasks Created</source>
+        <target>Tareas Creadas</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Closed Date</source>
+        <target>Fecha Cerrada</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>User Deleted</source>
+        <target>Usuario Eliminado</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Login Details</source>
+        <target>Detalles de Login</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Message Sent</source>
+        <target>Mensaje Enviado</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>User Group is not selected</source>
+        <target>El Grupo de Usuario no ha sido seleccionado</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Add User</source>
+        <target>Agregar Usuario</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Export Selected</source>
+        <target>Exportar Selección</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Photo</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>Send email to users</source>
+        <target>Enviar correo a usuarios</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Message</source>
+        <target>Mensaje</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Send Message</source>
+        <target>Enviar Mensaje</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Users Activity</source>
+        <target>Actividad de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Personal Activity</source>
+        <target>Actividad Personal</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>Days before today</source>
+        <target>Días antes de hoy</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>created by</source>
+        <target>creado por</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Comment for tasks</source>
+        <target>Comentario para tareas</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>User Group Deleted</source>
+        <target>Grupo de Usuario Eliminado</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Delete?</source>
+        <target>¿Eliminar?</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Are you sure you want to delete Group?</source>
+        <target>¿Seguro que desea eliminar el Grupo?</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>You can't delete this Group because there are Users assigned to this Group.</source>
+        <target>No puede eliminar este Grupo porque tiene Usuarios asignados.</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>You have to delete users first.</source>
+        <target>Debe eliminar los usuarios primero.</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>Users Groups</source>
+        <target>Grupos de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Assigned Users</source>
+        <target>Usuarios Asignados</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>Basic Access</source>
+        <target>Acceso Básico</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Extra Access Configuration</source>
+        <target>Configuración de Acceso Adicional</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Tasks Reports</source>
+        <target>Reportes de TAreas</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Time Report</source>
+        <target>Reporte de Tiempo</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Personal Time Report</source>
+        <target>Reporte Personal de Tiempo</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Users Activity</source>
+        <target>Actividad de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Personal Activity Report</source>
+        <target>Reporte de Actividad Personal</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Edit Version</source>
+        <target>Editar Versión</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Tasks Versions</source>
+        <target>Versiones de Tareas</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Add Version</source>
+        <target>Agregar Versión</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>New Version</source>
+        <target>Nueva Versión</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Versions Status</source>
+        <target>Estado de Versiones</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>You can format your text using wiki markup.</source>
+        <target>Puede formatear su texto utilizando código wiki.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Check supported wiki markup</source>
+        <target>Verificar código wiki soportado</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Also any HTML tags are allowed</source>
+        <target>Además se permite cualquier tag HTML</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Preview</source>
+        <target>Previsualizar</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>All attached files has own link that you can insert in page content.</source>
+        <target>Todos los archivos adjuntos tienen su propio enlace que puede ser insertado en el contenido de páginas.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>History</source>
+        <target>Historial</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>am</source>
+        <target>am</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>pm</source>
+        <target>pm</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>AM</source>
+        <target>AM</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>PM</source>
+        <target>PM</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Monday</source>
+        <target>Lunes</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Mon</source>
+        <target>Lun</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>Tuesday</source>
+        <target>Martes</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Tue</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Wednesday</source>
+        <target>Miércoles</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Wed</source>
+        <target>Mié</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Thursday</source>
+        <target>Jueves</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Thu</source>
+        <target>Jue</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Friday</source>
+        <target>Viernes</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Fri</source>
+        <target>Vie</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Saturday</source>
+        <target>Sábado</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>Sat</source>
+        <target>Sáb</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Sunday</source>
+        <target>Domingo</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Sun</source>
+        <target>Dom</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>January</source>
+        <target>Enero</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Jan</source>
+        <target>Ene</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>February</source>
+        <target>Febrero</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Feb</source>
+        <target>Feb</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>March</source>
+        <target>Marzo</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Mar</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>April</source>
+        <target>Abril</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Apr</source>
+        <target>Abr</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>May</source>
+        <target>Mayo</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>June</source>
+        <target>Junio</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>Jun</source>
+        <target>Jun</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>July</source>
+        <target>Julio</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Jul</source>
+        <target>Jul</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>August</source>
+        <target>Agosto</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Aug</source>
+        <target>Ago</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>September</source>
+        <target>Septiembre</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Sep</source>
+        <target>Sep</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>October</source>
+        <target>Octubre</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Oct</source>
+        <target>Oct</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>November</source>
+        <target>Noviembre</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Nov</source>
+        <target>Nov</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>December</source>
+        <target>Diciembre</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Dec</source>
+        <target>Dic</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Dashboard</source>
+        <target>Panel de Control</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Scheduler</source>
+        <target>Planificador</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>View All</source>
+        <target>Ver Todo</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Reports</source>
+        <target>Reportes</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Project Reports</source>
+        <target>Reportes del Proyecto</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Add New</source>
+        <target>Agregar Nuevo</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Wiki</source>
+        <target>Wiki</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>Send Email</source>
+        <target>Enviar Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Extra Fields per Group</source>
+        <target>Campos Adicionales por Grupo</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Phases Status</source>
+        <target>Estado de Fases</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Types</source>
+        <target>Tipos</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Extra Fields per Type</source>
+        <target>Campos Adicionales por Tipo</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Labels</source>
+        <target>Etiquetas</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Extra Fields per Label</source>
+        <target>Camos Adicionales por Etiqueta</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Events in Scheduler</source>
+        <target>Eventos en el Planificador</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Tools</source>
+        <target>Herramientas</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>Backups</source>
+        <target>Backups</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>Login Page</source>
+        <target>Página de Login</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>New User Creation</source>
+        <target>Creación de Nuevo Usuario</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>Full Access</source>
+        <target>Acceso Total</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Manage Own Only</source>
+        <target>Sólo Administrar Propios</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>View Only</source>
+        <target>Sólo Vista</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>View Own Only</source>
+        <target>Sólo Ver Propios</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Custom Access</source>
+        <target>Acceso Personalizado</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>None</source>
+        <target>Ninguno</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Projects Wiki</source>
+        <target>Wiki de Proyectos</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Public Wiki</source>
+        <target>Wii Pública</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>LDAP Default?</source>
+        <target>¿LDAP Por Defecto?</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Personal User Activity</source>
+        <target>Actividad Personal del Usuario</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>users</source>
+        <target>usuarios</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Sort</source>
+        <target>Ordenar</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Display in Listing?</source>
+        <target>¿Mostrar en el Listado?</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Extra Fields per User Groups</source>
+        <target>Campos Adicionales por Grupos de Usuarios</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Default values</source>
+        <target>Valores por defecto</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>projects</source>
+        <target>proyectos</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Don't use extra fields</source>
+        <target>No utilizar campos adicionales</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Public Status</source>
+        <target>Estado Público</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Use for public tickets</source>
+        <target>Utilizar para tickets públicos</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Only for public tickets</source>
+        <target>Sólo para tickets públicos</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Don't use for public tickets</source>
+        <target>No utilizar tickets públicos</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Imap Server</source>
+        <target>Servidor imap</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Delete Emails</source>
+        <target>Borrar Correos</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>open</source>
+        <target>abrir</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>done</source>
+        <target>listo</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>closed</source>
+        <target>cerrado</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>contacts</source>
+        <target>contactos</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>events</source>
+        <target>eventos</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Display on dashboard</source>
+        <target>Mostrar en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Display only assigned</source>
+        <target>Mostrar sólo asignados</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>You can't delete yourself.</source>
+        <target>No puedes eliminarte a ti mismo.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>User can't be  Deleted because it has related items. Currently user status set to Inactive and user can't login to the system.</source>
+        <target>El Usuario no puede ser Eliminado debido a que tiene items relacionados. El estado actual del usuario es Inactivo y no puede ingresar al sistema.</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>My Scheduler</source>
+        <target>Mi Planificador</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Logoff</source>
+        <target>Salir</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>My Details</source>
+        <target>Mis Detalles</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>My Time Report</source>
+        <target>Mi Reporte de Tiempo</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>My Activity Report</source>
+        <target>Mi Reporte de Actividades</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>My Patterns</source>
+        <target>Mis Patrones</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>My Common Reports</source>
+        <target>Mis Reportes Comunes</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Change Skin</source>
+        <target>Cambiar Skin</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Full Name</source>
+        <target>Nombre Completo</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>New Password</source>
+        <target>Nueva Contraseña</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Language</source>
+        <target>Lenguaje</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Start Page</source>
+        <target>Página de Inicio</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>With Selected</source>
+        <target>Con los Seleccionados</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Quick Search</source>
+        <target>Búsqueda Rápida</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Assigned to</source>
+        <target>Asignado a</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Hours To Go</source>
+        <target>Horas Para Finalizar</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Import Tasks from XLS file</source>
+        <target>Importar Tareas desde archivo XLS</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Import Tasks from MS Project</source>
+        <target>Importar Tareas desde MS Project</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Import Spreadsheet</source>
+        <target>Importar Planilla de Cálculo</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Import Spreadsheet (Step 1)</source>
+        <target>Importar Planilla de Cálculo (Paso 1)</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>You can import tasks from spreadsheet in xls format.</source>
+        <target>Puede importar tareas desde una planilla de cálculo en formato xls.</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Load file and bind (map) columns to fields</source>
+        <target>Cargar archivo y asignar (mapear) columnas a campos</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Bind Task fields with spreadsheet columns below and start import.</source>
+        <target>Asignar campos de Tareas con columnas de la planilla de cálculo y comenzar la importación.</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Column without binded field will be not imported.</source>
+        <target>Las columnas sin campo asignado no serán importadas.</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Import Spreadsheet (Step 2)</source>
+        <target>Importar Planilla de Cálculo (Paso 2)</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Import first row</source>
+        <target>Importar primera fila</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Import</source>
+        <target>Importar</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Bind Field</source>
+        <target>Asignar Campo</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Spreadsheet imported</source>
+        <target>Planilla de Cálculo importada</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Outline Level</source>
+        <target>Nivel de Esquema</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>More Info</source>
+        <target>Más Información</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>You can import tasks from MS Project in XML format.</source>
+        <target>Puede importar tareas desde MS Project en formato XML.</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Tasks Imported</source>
+        <target>Tareas Importadas</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Just select value if you need to change it.</source>
+        <target>Seleccione un valor si desea modificarlo.</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Numeric Fields</source>
+        <target>Campos Numéricos</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Enter value if you need to change it.&lt;br&gt;Also you can use: +,-,*,/ to change value.&lt;br&gt;For example: +30 means you increase current value to 30.</source>
+        <target>Ingrese un valor si desea cambiarlo.&lt;br&gt;Además puede utilizar: +,-,*,/ para cambiar un valor.&lt;br&gt;Por ejemplo: +30 significa que se incrementa el valor actual en 30.</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Please Select Items</source>
+        <target>Por Favor Seleccione Items</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Note: Destination Project Team should include all Users assigned to selected items.</source>
+        <target>Nota: el Equipo de Proyecto Destino debe incluir todos los Usuarios asignados a los items seleccionados.</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Users won't have access to Items if they are assigned to these Items but are not in the Project Team</source>
+        <target>Los Usuarios no tendrán acceso a los items si están asignados a estos items pero no están en el Equipo de Proyecto</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Are you sure you want to delete selected projects?</source>
+        <target>¿Seguro que desea eliminar los proyectos seleccionados?</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Note: all Projects Tasks, Tickets and Discussions will be deleted as well.</source>
+        <target>Nota: todas las Tareas, Tickets y Discusiones del Proyecto serán eliminadas.</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Users per Projects</source>
+        <target>Usuarios por Proyectos</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Users per Tasks</source>
+        <target>Usuarios por Tareas</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Display today's events in the menu</source>
+        <target>Mostrar los eventos del día en el menú</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Display today's events in the dashboard</source>
+        <target>Mostrar los eventos del día en el panel de control</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Send today's events by email</source>
+        <target>Enviar los eventos del día por correo electrónico</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Interval</source>
+        <target>Intervalo</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Date End</source>
+        <target>Fecha Final</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Limit</source>
+        <target>Límite</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Daily</source>
+        <target>Diario</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Weekly</source>
+        <target>Semanal</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Monthly</source>
+        <target>Mensual</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Yearly</source>
+        <target>Anual</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mandatory Report</source>
+        <target>Reporte Mandatorio</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Insert and View Only</source>
+        <target>Insertar y Sólo Ver</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Create</source>
+        <target>Crear</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Configure Form Tabs</source>
+        <target>Configurar Desde Pestañas</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Update Selected</source>
+        <target>Actualizar Seleccionados</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Sort in From Tags</source>
+        <target>Ordenar Desde Etiquetas</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>From Tabs</source>
+        <target>Desde Pestañas</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Back to Extra Fields</source>
+        <target>Volver a Campos Adicionales</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>New Tab</source>
+        <target>Nueva Pestaña</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Edit Tab</source>
+        <target>Editar Pestaña</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Actual Time</source>
+        <target>Tiempo Actual</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>discussions</source>
+        <target>discusiones</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>tasks</source>
+        <target>tareas</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>tickets</source>
+        <target>tickets</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Phases</source>
+        <target>Fases</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Notify</source>
+        <target>Notificar</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Warning: this ticket is closed but there are some open tasks related to this ticket. Please check related tasks.</source>
+        <target>Advertencia: este ticket está cerrado pero hay tareas abiertas relacionadas al mismo. Por favor verifique las tareas relacionadas.</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Warning: this ticket is closed but there are some open discussions related to this ticket. Please check related discussions.</source>
+        <target>Advertencia: este ticket está cerrado pero hay discusiones abiertas relacionadas al mismo. Por favor verifique las discusiones relacionadas.</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Warning: this task is closed but there are some open tickets related to this task. Please check related tickets.</source>
+        <target>Advertencia: esta tarea está cerrada pero hay tickets abiertos relacionados a la misma. Por favor verifique los tickets relacionados.</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Warning: this task is closed but there are some open discussions related to this task. Please check related discussions.</source>
+        <target>Advertencia: esta tarea está cerrada pero hay discusiones abiertas relacionados a la misma. Por favor verifique las discusiones relacionadas.</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Warning: this discussion is closed but there are some open tickets related to this discussion. Please check related tickets.</source>
+        <target>Advertencia: esta discusión está cerrada pero hay tickets abiertos relacionados a la misma. Por favor verifique los tickets relacionados.</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Warning: this discussion is closed but there are some open tasks related to discussion. Please check related tasks.</source>
+        <target>Advertencia: esta discusión está cerrada pero hay tareas abiertas relacionados a la misma. Por favor verifique las tareas relacionadas.</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Duration</source>
+        <target>Duración</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Day</source>
+        <target>Día</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Week</source>
+        <target>Semana</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Month</source>
+        <target>Mes</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Quarter</source>
+        <target>Trimestre</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Use Filter</source>
+        <target>Utilizar Filtro</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Sort Filters</source>
+        <target>Ordenar Filtros</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Versions</source>
+        <target>Versiones</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Add Versions</source>
+        <target>Agregar Versiones</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>You type</source>
+        <target>Usted escribe</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>You get</source>
+        <target>Usted obtiene</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>character formatting applies anywhere</source>
+        <target>el formato de caracteres aplica en cualquier lugar</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Escape wiki markup</source>
+        <target>Escapar código wiki</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Internal link</source>
+        <target>Enlace interno</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>External link</source>
+        <target>Enlace externo</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>External link with label</source>
+        <target>Enlace externo con etiqueta</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Italic text</source>
+        <target>Itálica</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Bold text</source>
+        <target>Negrita</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Bold and italic</source>
+        <target>Itálica y negrita</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>formatting applies only at the beginning of the line</source>
+        <target>el formato aplica sólo al comienzo de la línea</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Headings of different levels</source>
+        <target>Encabezados de diferentes niveles</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Horizontal rule</source>
+        <target>Regla horizontal</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Bullet list</source>
+        <target>Lista</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Numbered list</source>
+        <target>Enumeración</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Preformatted text</source>
+        <target>Texto preformateado</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Tables</source>
+        <target>Tablas</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Supported Wiki Markup</source>
+        <target>Código Wiki Soportado</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Loading...</source>
+        <target>Cargando...</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Ticket Types</source>
+        <target>Tipos de Tickets</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Form Tab</source>
+        <target>Desde la Pestaña</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Your Ticket ID:</source>
+        <target>Su ID de Ticket:</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Please reference this ticket # should you contact us.</source>
+        <target>Por favor indique este número de ticket para contactarnos.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Email Address</source>
+        <target>Dirección de Correo Electrónico</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Antispam Protection</source>
+        <target>Protección Antispam</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Use Javascript Dropdown</source>
+        <target>Utilizar Desplegable Javascript</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>View Own</source>
+        <target>Ver Propios</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>Manage Own</source>
+        <target>Manejar Propios</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>Insert and View</source>
+        <target>Insertar y Ver</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>Display this event on Public Scheduler</source>
+        <target>Mostrar este evento en el Planificador Público</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Project Description</source>
+        <target>Descripción del Proyecto</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>Project Comment</source>
+        <target>Comentario del Proyecto</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Task Description</source>
+        <target>Descripción de la Tarea</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Task Comment</source>
+        <target>Comentario de la Tarea</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Ticket Description</source>
+        <target>Descripción del Ticket</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Ticket Comments</source>
+        <target>Comentarios del Ticket</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Discussion Description</source>
+        <target>Descripción de la Discusión</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Discussion Comment</source>
+        <target>Comentario de Discusión</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>send login details to user</source>
+        <target>enviar detalles de login al usuario</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Repeat On</source>
+        <target>Repetir En</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Input Field</source>
+        <target>Campo de entrada</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Input Numeric Field</source>
+        <target>Campo de entrada Numércio</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Input URL Field</source>
+        <target>Campo de entrada de URL</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>Textarea</source>
+        <target>Area de texto</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>Textarea with WYSIWYG editor</source>
+        <target>Area de texto con editor WYSIWYG</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>Date with calendar picker</source>
+        <target>Fecha con calendario selector</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Date with calendar and time picker</source>
+        <target>Fecha con calendario y selector de tiempo</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Date range with calendar picker</source>
+        <target>Rango de fechas con calendario selector</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Pull Down List</source>
+        <target>Lista Desplegable</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Checkbox List</source>
+        <target>Lista Checkbox</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Radiobox List</source>
+        <target>Lista Radiobox</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Filter by selected</source>
+        <target>Filtrar por seleccionado</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>Restore Password</source>
+        <target>Recuperar Contraseña</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Has related ticket</source>
+        <target>Tiene un ticket relacionado</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>Has estimated time</source>
+        <target>Tiene un tiempo estimado</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Overdue tasks</source>
+        <target>Tareas atrasadas</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>Send email notification every</source>
+        <target>Enviar notificaciones de correo electrónico cada</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Days before due date</source>
+        <target>Días antes de la fecha de vencimiento</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>Display tickets not assigned to project</source>
+        <target>Mostrar tickets no asignados a un proyecto</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>Discussions Created</source>
+        <target>Discusiones Creadas</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Tickets Created</source>
+        <target>Tickets Creados</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>Are you sure you want to delete project</source>
+        <target>¿Está seguro que desea eliminar el proyecto?</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Copy from ticket</source>
+        <target>Copiar desde el ticket</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>Copy from task</source>
+        <target>Copiar desde la tarea</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Copy from discussion</source>
+        <target>Copiar desde la discusión</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Closed</source>
+        <target>Cerrado</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Please wait. Files are loading.</source>
+        <target>Por favor espere. Los archivos se están cargando.</target>
+      </trans-unit>      
+    </body>
+  </file>
+</xliff>

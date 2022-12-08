@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="" datatype="plaintext" original="messages" date="" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Please remove 'install' folder</source>
+        <target>Silakan hapus folder 'install'</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>This field is required!</source>
+        <target>Bidang ini diperlukan!</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please enter a valid email address.</source>
+        <target>Silakan masukkan alamat email yang berlaku.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>First Page</source>
+        <target>Halaman Pertama</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Previous Page</source>
+        <target>Halaman Sebelum</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Page</source>
+        <target>Halaman</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Next Page</source>
+        <target>Halaman Berikut</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Last Page</source>
+        <target>Halaman Terakhir</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Displaying</source>
+        <target>Menampilkan</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>View more</source>
+        <target>Lihat lainnya</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Error</source>
+        <target>Kesalahan</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Warning</source>
+        <target>Peringatan</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Access Forbidden</source>
+        <target>Akses Terlarang</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Sorry, you don\'t have access to this page.</source>
+        <target>Maaf, Anda tidak memiliki akses ke halaman ini.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Date Added</source>
+        <target>Tanggal ditambahkan</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Date Last Commented</source>
+        <target>Tanggal Terakhir Dikomentari</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Name</source>
+        <target>Nama</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Priority</source>
+        <target>Prioritas</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Type</source>
+        <target>Tipe</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Group</source>
+        <target>Grup</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Label</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Department</source>
+        <target>Departemen</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Order By</source>
+        <target>Urutan Berdasarkan</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Edit Filter</source>
+        <target>Sunting Filter</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Default?</source>
+        <target>Default?</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This filter will be used by default after login.</source>
+        <target>Filter ini akan dipergunakan sebagai default setelah login.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Update Filter</source>
+        <target>Perbaharui Filter</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Current filters will be assigned to this filter.</source>
+        <target>Filter saat ini akan digantikan dengan filter ini.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Save</source>
+        <target>Simpan</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Delete Selected?</source>
+        <target>Hapus yang dipilih?</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Are you sure you want to delete selected items?</source>
+        <target>Anda yakin ingin menghapus item yang dipilih?</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>Hapus</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save Filter</source>
+        <target>Simpan Filter</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Sort Filters</source>
+        <target>Urutkan Filter</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Just move an item up or down.</source>
+        <target>Cukup pindahkan item ke arah atas atau bawah.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sort Items</source>
+        <target>Urutkan Item</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Description</source>
+        <target>Deskripsi</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Attachments</source>
+        <target>Lampiran</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Search</source>
+        <target>Cari</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Search In</source>
+        <target>Cari di</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Comments</source>
+        <target>Komentar</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Search result for</source>
+        <target>Hasil pencarian atas</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Reset</source>
+        <target>Atur ulang</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Note</source>
+        <target>Catatan</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add Attachments</source>
+        <target>Tambah Lampiran</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>view</source>
+        <target>lihat</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>download</source>
+        <target>unduh</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Projects Reports</source>
+        <target>Laporan Proyek</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Tasks Reports</source>
+        <target>Laporan Tugas</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Tickets Reports</source>
+        <target>Laporan Tiket</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Discussions Reports</source>
+        <target>Laporan Diskusi</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Common Reports</source>
+        <target>Laporan Umum</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Add Report</source>
+        <target>Tambah Laporan</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Action</source>
+        <target>Aksi</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users Groups</source>
+        <target>Grup Pengguna</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Display on dashboard</source>
+        <target>Tampilkan pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Display in menu</source>
+        <target>Tampilkan pada menu</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>No Records Found</source>
+        <target>Tidak Menemukan Catatan</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>New Report</source>
+        <target>Laporan Baru</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Configuration has been successfully updated</source>
+        <target>Konfigurasi berhasil diperbaharui</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No</source>
+        <target>Tidak</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Yes</source>
+        <target>Ya</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Email Options</source>
+        <target>Opsi Email</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Notifications</source>
+        <target>Pemberitahuan</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Use email notification</source>
+        <target>Gunakan pemberitahuan email</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email Subject Label</source>
+        <target>Label Subyek Email</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Amount previous comments in email</source>
+        <target>Jumlah komentar sebelumnya pada email</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Copy Sender?</source>
+        <target>Salin Pengirim?</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Send all emails from single email address</source>
+        <target>Kirim semua email dari satu alamat email</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Email address from</source>
+        <target>Alamat email dari</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Name from</source>
+        <target>Nama dari</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>SMTP Configuration</source>
+        <target>Konfigurasi SMTP</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Use SMTP</source>
+        <target>Gunakan SMTP</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>SMTP Server</source>
+        <target>Server SMTP</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>SMTP Port</source>
+        <target>Port SMTP</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>SMTP Encryption</source>
+        <target>Enkripsi SMTP</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>SMTP Login</source>
+        <target>Login SMTP</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>SMTP Password</source>
+        <target>Kata Sandi SMTP</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Features</source>
+        <target>Fitur</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Use Skins</source>
+        <target>Gunakan Skin</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Use Tasks Time Tracker</source>
+        <target>Gunakan Penghitung Waktu Tugas</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Use Parent/Child Tasks</source>
+        <target>Gunakan Tugas Utama/Bagian</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Use Project Phases</source>
+        <target>Gunakan Tahap Proyek</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Use Project Versions</source>
+        <target>Gunakan Versi Proyek</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Use Tasks Groups</source>
+        <target>Gunakan Grup Tugas</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>General Configuration</source>
+        <target>Konfigurasi Umum</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Root Administrator</source>
+        <target>Pengelola Sumber</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Administrator Email</source>
+        <target>Email Pengelola</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Administrator Password</source>
+        <target>Kata Sandi Pengelola</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Root administrator is internal user who can just manage users and configuration and can’t create tasks or projects</source>
+        <target>Pengelola Sumber merupakan pengguna internal yang dapat mengelola pengguna dan konfigurasi namun tidak dapat membuat tugas atau proyek</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Application</source>
+        <target>Aplikasi</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Name of application</source>
+        <target>Nama aplikasi</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Short name of application</source>
+        <target>Nama singkat dari aplikasi</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Note: logo might be not looks OK in all skins so you should pick one skin or create your own skin.</source>
+        <target>Catatan: logo mungkin tidak dapat ditampilkan dengan baik pada semua skin. Pilih sebuah skin atau buat skin Anda sendiri.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Defaults</source>
+        <target>Default</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Default Skin</source>
+        <target>Skin Default</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Default Timezone</source>
+        <target>Zona Waktu Default</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Default Culture</source>
+        <target>Kebudayaan Default</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Default Rows Per Page</source>
+        <target>Baris Default Per Halaman</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Rows Limit</source>
+        <target>Batas Baris</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>This option allows you to limit the number of rows retrieved in a single database query.&lt;br&gt;You can use this option if your server has problems displaying a lot of data.&lt;br&gt;Once you set this option, the query results will be displayed in paged format and you will see the extra PHP pager at the bottom of the page that will allow you to fetch more.</source>
+        <target>Opsi ini memungkinkan Anda untuk membatasi jumlah baris yang diterima untuk pencarian atas sebuah database.&lt;br&gt;Anda dapat menggunakan opsi ini apabila server Anda mempunyai masalah dalam menampilkan terlalu banyak data.&lt;br&gt;Begitu Anda mengaktifkan opsi ini, hasil pencarian akan ditampilkan dalam format halaman, Anda akan melihat penunjuk halaman PHP ekstra di bagian bawah halaman yang memungkinkan Anda untuk mendapatkan halaman lainnya.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Default Date Format</source>
+        <target>Format Tanggal Default</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Default Comments Date Format</source>
+        <target>Format Tanggal Komentar Default</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>more about date format see</source>
+        <target>lihat lebih lanjut tentang format tanggal</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Other</source>
+        <target>Lainnya</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Allow edit tasks comments date</source>
+        <target>Ijinkan sunting tanggal komentar atas tugas</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>LDAP Configuration</source>
+        <target>Konfigurasi LDAP</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use LDAP Login</source>
+        <target>Gunakan Login LDAP</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>LDAP server name</source>
+        <target>Nama server LDAP</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>If using LDAP this is the hostname or IP address of the LDAP server. Alternatively you can specify a URL like ldap://hostname:port/</source>
+        <target>Ini nama host atau alamat server LDAP apabila Anda menggunakan LDAP. Anda dapat memilih untuk menetapkan sebuah URL seperti ldap://hostname:port/</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>LDAP server port</source>
+        <target>Port server LDAP</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Optionally you can specify a port which should be used to connect to the LDAP server instead of the default port 389.</source>
+        <target>Anda dapat memilih untuk menetapkan sebuah port yang akan digunakan untuk berhubungan dengan server LDAP sebagai ganti port default 389.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>LDAP base dn</source>
+        <target>LDAP base dn</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>This is the Distinguished Name, locating the user information, e.g. o=My Company,c=US.</source>
+        <target>Ini Merupakan Nama Pembeda, menempatkan informasi pengguna, misalnya o=Perusahaan Saya,c=US.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>LDAP uid</source>
+        <target>LDAP uid</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>This is the key under which to search for a given login identity, e.g. uid, sn, etc.</source>
+        <target>Ini merupakan kunci di bawah untuk mencari identitas login yang diberikan, misalnya uid, sn, dll.</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>LDAP user filter</source>
+        <target>Filter pengguna LDAP</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Optionally you can further limit the searched objects with additional filters.&lt;br&gt;For example objectClass=posixGroup would result in the use of (&amp;(uid=$username)(objectClass=posixGroup))</source>
+        <target>Anda dapat memilih untuk membatasi obyek pencarian dengan filter tambahan.&lt;br&gt;Misalnya objectClass=posixGroup akan menjadi hasil atas penggunaan  (&amp;(uid=$username)(objectClass=posixGroup))</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>LDAP e-mail attribute</source>
+        <target>Atribut email LDAP</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Set this to the name of your user entry e-mail attribute (if one exists) in order to automatically set the e-mail address for new users.&lt;br&gt;User email is required for qdPM and if it\'s not exist qdPM atumatically assign email like username@localhost.com</source>
+        <target>Tetapkan ini pada nama dari entri atribut email pengguna Anda (apabila ada) untuk secara otomatis mengatur alamat email pengguna baru.&lt;br&gt;Email pengguna diperlukan untuk qdPM apabila tidak terdapat qdPM secara otomatis akan menetapkan email seperti namapengguna@localhost.com</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>LDAP user dn</source>
+        <target>LDAP user dn</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Leave blank to use anonymous binding. If filled in uses the specified distinguished name on login attempts to find the correct user, e.g. uid=Username,ou=MyUnit,o=MyCompany,c=US. </source>
+        <target>Biarkan kosong untuk menggunakan pengikat tidak dikenal. Apabila diisi gunakan nama pembeda yang telah ditetapkan pada saat login untuk menemukan pengguna yang benar, misalnya  uid=Username,ou=MyUnit,o=MyCompany,c=US. </target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>LDAP password</source>
+        <target>Kata Kunci LDAP</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Leave blank to use anonymous binding. Otherwise fill in the password for the above user. &lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; This password will be stored as plain text in the database visible to everybody who can access your database or who can view this configuration page.</source>
+        <target>iarkan kosong untuk menggunakan pengikat tidak dikenal. Jika tidak, masukkan kata sandi dari pengguna di atas. &lt;br&gt;&lt;b&gt;Peringatan:&lt;/b&gt; Kata Sandi ini akan disimpan sebagai teks murni pada database yang dapat dilihat oleh semua orang yang dapat mengakses database Anda atau mereka yang dapat melihat halaman konfigurasi ini.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Login Page Configuration</source>
+        <target>Konfigurasi Halaman Login</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Heading</source>
+        <target>Titel</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Content</source>
+        <target>Konten</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Public Tickets</source>
+        <target>Tiket Publik</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Users can submit Tickets without registration.</source>
+        <target>Pengguna dapat mengirimkan Tiket tanpa perlu registrasi.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Use Public Tickets</source>
+        <target>Gunakan Tiket Publik</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Allow attachments in public tickets form</source>
+        <target>Ijinkan lampiran pada formulir tiket publik</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Use antispam protection in form</source>
+        <target>Gunakan proteksi antispam pada formulir</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Integration Code</source>
+        <target>Kode Integrasi</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Integration code helps you integrate the Public Ticket form into your web site. Just copy code below and paste it into your page.&lt;br&gt;You can change &quot;width&quot; or &quot;height&quot; parameters if needed.&lt;br&gt; See &quot;css/submitTickets/styles.css&quot; to update css for public tickets form.</source>
+        <target>Kode integrasi membantu Anda mengintegrasikan formulir Tiket Publik ke situs Anda. Cukup salin kode di bawah dan tempelkan pada halaman Anda.&lt;br&gt;Anda dapat merubah parameter &quot;lebar&quot; atau &quot;tinggi&quot; apabila diperlukan.&lt;br&gt; Lihat &quot;css/submitTickets/styles.css&quot; untuk memperbaharui css atas formulir tiket publik.</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Tasks Listing</source>
+        <target>Daftar Tugas</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Select tasks fields which will be display in tasks listing by default.&lt;br&gt;Also you can configure own tasks listing for each projects type, see  &quot;Configurations-&gt;Projects-&gt;Types&quot;</source>
+        <target>Pilih bidang tugas yang akan ditampilkan pada daftar tugas default.&lt;br&gt;Anda juga dapat mengkonfigurasi daftar tugas Anda sendiri untuk setiap tipe proyek, lihat &quot;Konfigurasi-&gt;Proyek-&gt;Tipe&quot;</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Configure Email notification for new user</source>
+        <target>Konfigurasi pemberitahuan email untuk pengguna baru</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Subject</source>
+        <target>Subyek</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Default</source>
+        <target>Default</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Your account has been created in</source>
+        <target>Akun Anda telah dibuat di</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Body</source>
+        <target>Badan</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>by default login details will be added at the end message</source>
+        <target>secara default rincian login akan ditambahkan di bagian akhir pesan</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Use Keys</source>
+        <target>Gunakan Kunci</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>to include User Name</source>
+        <target>untuk menyertakan Nama Pengguna</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>to include Login Details</source>
+        <target>untuk menyertakan Rincian Login</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Edit Contact</source>
+        <target>Sunting Kontak</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Contacts</source>
+        <target>Kontak</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Add Contact</source>
+        <target>Tambah Kontak</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>New Contact</source>
+        <target>Kontak Baru</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Edit</source>
+        <target>Sunting</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Contacts Groups</source>
+        <target>Grup Kontak</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Sort Order</source>
+        <target>Urutkan Susunan</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New</source>
+        <target>Baru</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>My Dashboard</source>
+        <target>Dashboard Saya</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Just select reports which you want to display on dashboard</source>
+        <target>Cukup pilih laporan yang ingin Anda tampilkan pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>No Reports Found</source>
+        <target>Tidak Menemukan Laporan</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Update</source>
+        <target>Perbaharui</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Configure Dashboard</source>
+        <target>Konfigurasi Dashboard</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Sort Reports</source>
+        <target>Urutkan Laporan</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>No reports found to display on dashboard</source>
+        <target>Tidak menemukan laporan untuk ditampilkan pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Personal Scheduler</source>
+        <target>Pengatur Jadwal Pribadi</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Public Scheduler</source>
+        <target>Pengatur Jadwal Publik</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Edit Department</source>
+        <target>Sunting Departemen</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Departments</source>
+        <target>Departemen</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Assigned To</source>
+        <target>Ditetapkan Ke</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Active</source>
+        <target>Aktif</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>New Department</source>
+        <target>Departemen Baru</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>General</source>
+        <target>Umum</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Tickets Types</source>
+        <target>Tipe Tiket</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Email Tickets</source>
+        <target>Tiket Email</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Email Patterns</source>
+        <target>Pola Email</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Select the Ticket Types that will be available for this Department only</source>
+        <target>Pilih Tipe Tiket yang hanya tersedia untuk Departemen ini saja</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>to get Tickets by email you have to setup cron, read more installation instruction</source>
+        <target>untuk mendapatkan Tiket melalui email, Anda harus mengatur cron terlebih dahulu, baca lebih lanjut mengenai instruksi instalasi</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>IMAP functions should be enabled on your server</source>
+        <target>Fungsi IMAP harus diaktifkan pada server Anda</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>if you will have any questions or imap errors, please read this:</source>
+        <target>apabila Anda mempunyai pertanyaan atau masalah seputar imap, silakan baca ini:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Get Tickets by email</source>
+        <target>Dapatkan Tiket melalui email</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>For example</source>
+        <target>Sebagai Contoh</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Delete messages from the server</source>
+        <target>Hapus pesan dari server</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>You can setup custom email patterns for Ticket emails.</source>
+        <target>Anda dapat mengatur pola email ubah suai untuk email Tiket.</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Patterns will be using for Public Tickets and Email Tickets.</source>
+        <target>Pola akan dipergunakan untuk Tiket Publik dan Tiket Email.</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Use next keys:</source>
+        <target>Gunakan kunci selanjutnya:</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>ticket id</source>
+        <target>id tiket</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>description of ticket or comment</source>
+        <target>deskripsi tiket atau komentar</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>name of ticket creator</source>
+        <target>nama pembuat tiket</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A new ticket has been opened</source>
+        <target>Sebuah tiket baru telah dibuka</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Show Original</source>
+        <target>Tampilkan Asli</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Filter Deleted</source>
+        <target>Filter Telah Dihapus</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Filter Saved</source>
+        <target>Filter Telah Disimpan</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Id</source>
+        <target>Id</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Assigned To</source>
+        <target>Ditetapkan Ke</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Url</source>
+        <target>Url</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Groups</source>
+        <target>Grup</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Filters</source>
+        <target>Filter</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Link Discussions</source>
+        <target>Tautan Diskusi</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Created By</source>
+        <target>Dibuat Oleh</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Bind</source>
+        <target>Ikat</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Edit Discussion</source>
+        <target>Sunting Diskusi</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Export</source>
+        <target>Ekspor</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Select fields to export</source>
+        <target>Pilih bidang yang akan diekspor</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Select All</source>
+        <target>Pilih Semua</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Filename</source>
+        <target>Nama File</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Discussions</source>
+        <target>Diskusi</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Format</source>
+        <target>Format</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Move To</source>
+        <target>Pindahkan Ke</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Select Project</source>
+        <target>Pilih Proyek</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Move To Project</source>
+        <target>Pindahkan Ke Proyek</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Move</source>
+        <target>Pindahkan</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Update Selected?</source>
+        <target>Perbaharui yang Terpilih?</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Just select value if you need to change it</source>
+        <target>Cukup pilih nilai apabila Anda ingin merubahnya</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>New Discussion</source>
+        <target>Diskusi Baru</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Projects Not Found</source>
+        <target>Tidak Menemukan Proyek</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Project</source>
+        <target>Proyek</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Details</source>
+        <target>Rincian</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Created At</source>
+        <target>Dibuat Di</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>No Assigned Users</source>
+        <target>Tidak Ada Pengguna yang Ditetapkan</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Remove Filter</source>
+        <target>Hapus Filter</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Add Discussion</source>
+        <target>Tambah Diskusi</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Related Discussions</source>
+        <target>Diskusi Terkait</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Delete Related</source>
+        <target>Hapus yang Terkait</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Add</source>
+        <target>Tambah</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Discussion</source>
+        <target>Diskusi</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Related Tasks</source>
+        <target>Tugas Terkait</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add Task</source>
+        <target>Tambah Tugas</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Link Tasks</source>
+        <target>Tautan Tugas</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Related Tickets</source>
+        <target>Tiket Terkait</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Add Ticket</source>
+        <target>Tambah Tiket</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Link Tickets</source>
+        <target>Tautan Tiket</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>More Actions</source>
+        <target>Tindakan Lainnya</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Edit Comment</source>
+        <target>Sunting Komentar</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Add Comment</source>
+        <target>Tambah Komentar</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Edit Details</source>
+        <target>Sunting Rincian</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Comment</source>
+        <target>Komentar</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>New Comment</source>
+        <target>Komentar Baru</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Previous Comments</source>
+        <target>Komentar Sebelumnya</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Go to previous discussion</source>
+        <target>Pergi ke diskusi sebelumnya</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Go to next discussion</source>
+        <target>Pergi ke diskusi setelahnya</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Discussions Groups</source>
+        <target>Grup Diskusi</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Active?</source>
+        <target>Aktif?</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Discussions Priorities</source>
+        <target>Prioritas Diskusi</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Icon</source>
+        <target>Lambang</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Edit Report</source>
+        <target>Sunting Laporan</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Discussions Filters</source>
+        <target>Filter Diskusi</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Projects Filters</source>
+        <target>Filter Proyek</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Projects</source>
+        <target>Proyek</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Discussions Status</source>
+        <target>Status Diskusi</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Background</source>
+        <target>Latar Belakang</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Discussions Types</source>
+        <target>Tipe Diskusi</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Extra Fields</source>
+        <target>Bidang Ekstra</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>No Extra Fields Found</source>
+        <target>Tidak Menemukan Bidang Ekstra</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Don\'t use extra fields</source>
+        <target>Jangan gunakan bidang ekstra</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Events Priorities</source>
+        <target>Prioritas Acara</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Events Types</source>
+        <target>Tipe Acara</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Extra Fields Updated</source>
+        <target>Bidang Ekstra Telah Diperbaharui</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>By default all Extra Fields are visible.</source>
+        <target>Secara default semua Bidang Ekstra akan terlihat.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Select Extra Fields which will be visible only for specific group</source>
+        <target>Pilih Bidang Ekstra yang hanya akan terlihat oleh grup tertentu</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Use option (Don't use Extra Fields) to hide Extra Fields for specific group</source>
+        <target>Gunakan opsi(Jangan gunakan Bidang Ekstra) untuk menyembunyikan Bidang Ekstra untuk grup tertentu</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Don't use Extra Fields</source>
+        <target>Jangan gunakan Bidang Ekstra</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Extra fields</source>
+        <target>Bidang Ekstra</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>In Listing?</source>
+        <target>Pada Daftar?</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Required?</source>
+        <target>Diperlukan?</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Access</source>
+        <target>Akses</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Select User Groups that will have access to Extra Field.&lt;br&gt;By default access is NOT limited.</source>
+        <target>Pilih Grup Pengguna yang akan memiliki akses ke Bidang Ekstra.&lt;br&gt;Secara default akses TIDAK dibatasi.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Simple input text field.</source>
+        <target>Bidang teks ringkas.</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>This field used for numbers.</source>
+        <target>Bidang ini digunakan untuk angka.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Value of this field will be calculated by formula entered below.&lt;br&gt;Use [Field ID] to setup field value in formula.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt;Where 36 and 54 are ID of numeric fields.</source>
+        <target>Nilai dari bidang ini akan dikalkulasikan dengan formula yang dimasukkan di bawah.&lt;br&gt;Gunakan [Field ID] untuk mengatur nilai bidang pada formula.&lt;br&gt;Contoh: ([36]+[54])/2&lt;br&gt;Dimana 36 dan 54  adalah ID dari bidang angka.</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Formula</source>
+        <target>Formula</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Simple textarea field.</source>
+        <target>Bidang area teks ringkas.</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>WYSIWYG editor will be automatically added to this field.</source>
+        <target>Penyunting WYSIWYG akan ditambahkan secara otomatis ke bidang ini.</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Date with dropdown select</source>
+        <target>Tanggal dengan pilihan menurun</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Date - Time with dropdown select</source>
+        <target>Tanggal - Waktu dengan pilihan menurun</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>You have to enter default values for this field below.&lt;br&gt;Enter each value in new line.</source>
+        <target>Anda harus memasukkan nilai default untuk bidang di bawah.&lt;br&gt;Masukkan setiap nilai di baris baru.</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Gantt Chart</source>
+        <target>Bagan Gantt</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>hours</source>
+        <target>jam</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>You are receiving this notification because you have requested a new password be sent for your account on</source>
+        <target>Anda menerima pemberitahuan ini karena Anda telah meminta pengiriman sebuah kata sandi baru untuk akun Anda di</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Password</source>
+        <target>Kata Sandi</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>New Password on</source>
+        <target>Kata Sandi Baru pada</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>A new password has been sent to your e-mail address</source>
+        <target>Sebuah kata sandi baru telah dikirimkan ke alamat email Anda</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>No match for Email and/or Password</source>
+        <target>Tidak menemukan kesamaan untuk Email dan/atau Kata Sandi</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Your account is not active</source>
+        <target>Akun Anda tidak aktif</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Login</source>
+        <target>Login</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Remember Me</source>
+        <target>Ingat Saya</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Password forgotten?</source>
+        <target>Lupa Kata Sandi?</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>LDAP Login</source>
+        <target>Login LDAP</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Default users group for LDAP users is not setup. LDAP login is not allowed.</source>
+        <target>Grup pengguna default untuk pengguna LDAP belum diatur. Login LDAP tidak diperkenankan.</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Enter your e-mail address below</source>
+        <target>Masukkan alamat email Anda di bawah</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Send New Password</source>
+        <target>Kirim Kata Sandi Baru</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Email already exists</source>
+        <target>Email sudah terdapat</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Account Updated</source>
+        <target>Akun Telah Diperbaharui</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>My Account</source>
+        <target>Akun Anda</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Hide</source>
+        <target>Sembunyikan</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Patterns</source>
+        <target>Pola</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Edit Pattern</source>
+        <target>Sunting Pola</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>New Pattern</source>
+        <target>Pola Baru</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>Default Phases</source>
+        <target>Tahap Default</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Put phases in new line, for example</source>
+        <target>Masukkan tahap pada baris baru, sebagai contoh</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Phase Status</source>
+        <target>Status Tahap</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Projects Roles</source>
+        <target>Peran Proyek</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Tasks</source>
+        <target>Tugas</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Tickets</source>
+        <target>Tiket</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>LDAP Default</source>
+        <target>LDAP Default</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Default Group</source>
+        <target>Grup Default</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Team</source>
+        <target>Tim</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Edit Project</source>
+        <target>Sunting Proyek</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>New Project</source>
+        <target>Proyek Baru</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Select Ticket Departments which will be available for this Project.</source>
+        <target>Pilih Departemen Tiket yang akan tersedia untuk proyek ini.</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>By default Department will be available if the User assigned to Department is in the Project team.</source>
+        <target>Secara default Departemen akan tersedia apabila Pengguna yang ditetapkan ke departemen termasuk ke dalam tim Proyek.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Add Project</source>
+        <target>Tambah Proyek</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>User</source>
+        <target>Pengguna</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Role</source>
+        <target>Peran</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Projects Groups</source>
+        <target>Grup Proyek</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Edit Phase</source>
+        <target>Sunting Tahap</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Projects Phases</source>
+        <target>Tahap Proyek</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Add Phase</source>
+        <target>Tambah Tahap</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Due Date</source>
+        <target>Tanggal Berakhir</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>New Phase</source>
+        <target>Tahap Baru</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Projects Priorities</source>
+        <target>Prioritas Proyek</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Projects Reports</source>
+        <target>Laporan Proyek</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>In Team</source>
+        <target>Di Tim</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Projects Status</source>
+        <target>Status Proyek</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Projects Types</source>
+        <target>Tipe Proyek</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Tasks Columns</source>
+        <target>Kolom Tugas</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Select extra fields which will be appear for this type.</source>
+        <target>Pilih bidang ekstra yang akan ditampilkan untuk tipe ini.</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Select Task fields which will be display in tasks listing for this Project Type.</source>
+        <target>Pilih bidang Tugas yang akan ditampilkan pada daftar tugas untuk Tipe Proyek ini.</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Public Tickets not allowed.</source>
+        <target>Tiket Publik tidak diperkenankan.</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>A new Ticket has been opened for you.</source>
+        <target>Sebuah tiket baru telah dibuka untuk Anda.</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>There are no departments that can be used for public tickets.</source>
+        <target>Tidak terdapat departemen yang dapat dipergunakan untuk tiket publik.</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>New Ticket</source>
+        <target>Tiket Baru</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Attach a file</source>
+        <target>Lampirkan file</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Sum of</source>
+        <target>Jumlah dari</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Submit Ticket</source>
+        <target>Kirim Tiket</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Configuration</source>
+        <target>Konfigurasi</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>Display today\'s events in the menu</source>
+        <target>Tampilkan acara hari ini pada menu</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Display today\'s events in the dashboard</source>
+        <target>Tampilkan acara hari ini pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Send today\'s events by email</source>
+        <target>Kirim acara hari ini melalui email</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Edit Event</source>
+        <target>Sunting Acara</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Switch to my personal scheduler</source>
+        <target>Beralih ke Pengatur Jadwal Pribadi</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>New Event</source>
+        <target>Acara Baru</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Switch to public scheduler</source>
+        <target>Beralih ke Pengatur Jadwal Publik</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Are you sure?</source>
+        <target>Anda yakin?</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Repeat</source>
+        <target>Ulang</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Start Date</source>
+        <target>Tanggal Mulai</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>End Date</source>
+        <target>Tanggal Berakhir</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>No Events Found</source>
+        <target>Tidak Menemukan Acara</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Previous Month</source>
+        <target>Bulan Sebelum</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Next Month</source>
+        <target>Bulan Setelah</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>Back to </source>
+        <target>Kembali ke</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Today</source>
+        <target>Hari ini</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Skin style is not found. Please check next path:</source>
+        <target>Jenis skin tidak ditemukan. Silakan periksa pola selanjutnya:</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Skins</source>
+        <target>Skin</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Version</source>
+        <target>Versi</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Phase</source>
+        <target>Tahap</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Est. Time</source>
+        <target>Est. Waktu</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Progress</source>
+        <target>Perkembangan</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>List</source>
+        <target>Daftar</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Tree</source>
+        <target>Pohon</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>View Type</source>
+        <target>Lihat Tipe</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Copy To</source>
+        <target>Salin Ke</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Copy To Project</source>
+        <target>Salin Ke Proyek</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Copy</source>
+        <target>Salin</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Edit Task</source>
+        <target>Sunting Tugas</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>New Task</source>
+        <target>Sunting Baru</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Sort Tasks</source>
+        <target>Urutkan Tugas</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Child Tasks</source>
+        <target>Tugas Bagian</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Estimated Time</source>
+        <target>Perkiraan Waktu</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>Work Hours</source>
+        <target>Jam Kerja</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Time</source>
+        <target>Waktu</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>set this status for all child tasks</source>
+        <target>atur status ini untuk semua tugas bagian</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Sort Tree</source>
+        <target>Urutkan Pohon</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Task</source>
+        <target>Tugas</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Add Child Task</source>
+        <target>Tambah Tugas Bagian</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Delete with child tasks</source>
+        <target>Hapus dengan tugas bagian</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Timer</source>
+        <target>Penghitung Waktu</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Go to previous task</source>
+        <target>Pergi ke tugas sebelum</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Go to next task</source>
+        <target>Pergi ke tugas setelah</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Close Timer</source>
+        <target>Tutup Penghitung Waktu</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Start</source>
+        <target>Mulai</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>Stop</source>
+        <target>Stop</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Work Hours:</source>
+        <target>Jam Kerja:</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Edit Group</source>
+        <target>Sunting Grup</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Tasks Groups</source>
+        <target>Grup Tugas</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>Add Group</source>
+        <target>Tambah Grup</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>New Group</source>
+        <target>Grup Baru</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Tasks Labels</source>
+        <target>Label Tugas</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>Tasks Priorities</source>
+        <target>Prioritas Tugas</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Tasks Status</source>
+        <target>Status Tugas</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Tasks Types</source>
+        <target>Tipe Tugas</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Edit Ticket</source>
+        <target>Sunting Tiket</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>Ticket</source>
+        <target>Tiket</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Link Task</source>
+        <target>Tautan Tugas</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Go to previous ticket</source>
+        <target>Pergi ke tiket sebelum</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Go to next ticket</source>
+        <target>Pergi ke tiket setelah</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Tickets Groups</source>
+        <target>Grup Tiket</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Tickets Priorities</source>
+        <target>Prioritas Tiket</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Tickets Filters</source>
+        <target>Filter Tiket</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Ticktes Status</source>
+        <target>Status Tiket</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>Users Time Report</source>
+        <target>Laporan Waktu Pengguna</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Discrepancy:</source>
+        <target>Ketidaksesuaian:</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>All</source>
+        <target>Semua</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Under</source>
+        <target>Di bawah</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Over</source>
+        <target>Di atas</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Ok</source>
+        <target>Oke</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>From</source>
+        <target>Dari</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>To</source>
+        <target>Ke</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Filter By Dates</source>
+        <target>Filter Berdasarkan Tanggal</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Allocated</source>
+        <target>Dialokasikan</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Discrepancy</source>
+        <target>Ketidaksesuaian</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Project Info</source>
+        <target>Info Proyek</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>No records found</source>
+        <target>Tidak Menemukan Catatan</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Time Log</source>
+        <target>Catatan Waktu</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Date</source>
+        <target>Tanggal</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Worked Hours</source>
+        <target>Jam Kerja</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>Task Url</source>
+        <target>Url Tugas</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Task Info</source>
+        <target>Info Tugas</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Project Info</source>
+        <target>Info Proyek</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Tasks Url</source>
+        <target>Url Tugas</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users</source>
+        <target>Pengguna</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Items restored</source>
+        <target>Item telah dipulihkan.</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Database saved.</source>
+        <target>Database telah disimpan.</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Database restored.</source>
+        <target>Database telah dipulihkan.</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>Success: Backup removed.</source>
+        <target>Berhasil: Backup telah dihapus.</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Error: Backup not removed.</source>
+        <target>Kesalahan: Backup belum terhapus.</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>Backup</source>
+        <target>Backup</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>File</source>
+        <target>File</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Size</source>
+        <target>Ukuran</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>bytes</source>
+        <target>bytes</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Restore</source>
+        <target>Pulihkan</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Download</source>
+        <target>Unduh</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Backup Directory</source>
+        <target>Backup Direktori</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Restore?</source>
+        <target>Pulihkan?</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>Are you sure you want to restore selected items?</source>
+        <target>Anda yakin ingin mengembalikan item terpilih?</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Trash</source>
+        <target>Tempat Sampah</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>Empty Trash</source>
+        <target>Kosongkan Tempat Sampah</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Restore Selected</source>
+        <target>Pulihkan Yang Terpilih</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Comment for project</source>
+        <target>Komentar untuk proyek</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Comment for task</source>
+        <target>Komentar untuk tugas</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Comment for ticket</source>
+        <target>Komentar untuk tiket</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Comment for discussion</source>
+        <target>Komentar untuk diskusi</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>Tasks Filters</source>
+        <target>Filter Tugas</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Extra</source>
+        <target>Ekstra</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>Reminder</source>
+        <target>Pengingat</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Tasks Due Date</source>
+        <target>Tanggal Jatuh Tempo Tugas</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>Tasks Created</source>
+        <target>Tugas Dibuat</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Closed Date</source>
+        <target>Tanggal Ditutup</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>User Deleted</source>
+        <target>Pengguna dihapus</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Login Details</source>
+        <target>Rincian Login</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Message Sent</source>
+        <target>Pesan Terkirim</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>User Group is not selected</source>
+        <target>Grup Pengguna belum dipilih</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Add User</source>
+        <target>Tambah Pengguna</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Export Selected</source>
+        <target>Ekspor Yang Dipilih</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Photo</source>
+        <target>Foto</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>Send email to users</source>
+        <target>Kirim email ke pengguna</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Message</source>
+        <target>Pesan</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Send Message</source>
+        <target>Kirim Pesan</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Users Activity</source>
+        <target>Aktivitas Pengguna</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Personal Activity</source>
+        <target>Aktivitas Pribadi</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>Days before today</source>
+        <target>Hari sebelum hari ini</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>created by</source>
+        <target>dibuat oleh</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Comment for tasks</source>
+        <target>Komentar untuk tugas</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>User Group Deleted</source>
+        <target>Grup Pengguna Telah Dihapus</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Delete?</source>
+        <target>Hapus?</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Are you sure you want to delete Group?</source>
+        <target>Anda yakin ingin menghapus Grup?</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>You can't delete this Group because there are Users assigned to this Group.</source>
+        <target>Anda tidak dapat menghapus Grup karena terdapat pengguna lain yang ditetapkan ke dalam Grup ini.</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>You have to delete users first.</source>
+        <target>Anda harus menghapus pengguna terlebih dahulu.</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>Users Groups</source>
+        <target>Grup Pengguna</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Assigned Users</source>
+        <target>Pengguna Yang Ditetapkan</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>Basic Access</source>
+        <target>Akses Dasar</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Extra Access Configuration</source>
+        <target>Konfigurasi Akses Ekstra</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Tasks Reports</source>
+        <target>Laporan Tugas</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Time Report</source>
+        <target>Laporan Waktu</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Personal Time Report</source>
+        <target>Laporan Waktu Pribadi</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Users Activity</source>
+        <target>Aktivitas Pengguna</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Personal Activity Report</source>
+        <target>Laporan Aktivitas Pribadi</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Edit Version</source>
+        <target>Sunting Versi</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Tasks Versions</source>
+        <target>Versi Tugas</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Add Version</source>
+        <target>Tambah Versi</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>New Version</source>
+        <target>Versi Baru</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Versions Status</source>
+        <target>Status Versi</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>You can format your text using wiki markup.</source>
+        <target>Anda dapat memformat teks Anda dengan menggunakan markah wiki.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Check supported wiki markup</source>
+        <target>Periksa markah wiki pendukung</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Also any HTML tags are allowed</source>
+        <target>Tag HTML juga diperkenankan</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Preview</source>
+        <target>Tinjauan Awal</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>All attached files has own link that you can insert in page content.</source>
+        <target>Semua file yang dilampirkan mempunyai tautannya masing-masing yang dapat masukkan ke dalam konten halaman.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>History</source>
+        <target>Riwayat</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>am</source>
+        <target>am</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>pm</source>
+        <target>pm</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>AM</source>
+        <target>AM</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>PM</source>
+        <target>PM</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Monday</source>
+        <target>Senin</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Mon</source>
+        <target>Sen</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>Tuesday</source>
+        <target>Selasa</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Tue</source>
+        <target>Sel</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Wednesday</source>
+        <target>Rabu</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Wed</source>
+        <target>Rab</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Thursday</source>
+        <target>Kamis</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Thu</source>
+        <target>Kam</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Friday</source>
+        <target>Jumat</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Fri</source>
+        <target>Jum</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Saturday</source>
+        <target>Sabtu</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>Sat</source>
+        <target>Sab</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Sunday</source>
+        <target>Minggu</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Sun</source>
+        <target>Min</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>January</source>
+        <target>Januari</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Jan</source>
+        <target>Jan</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>February</source>
+        <target>Pebruari</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Feb</source>
+        <target>Peb</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>March</source>
+        <target>Maret</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Mar</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>April</source>
+        <target>April</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Apr</source>
+        <target>Apr</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>May</source>
+        <target>Mei</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>June</source>
+        <target>Juni</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>Jun</source>
+        <target>Jun</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>July</source>
+        <target>Juli</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Jul</source>
+        <target>Jul</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>August</source>
+        <target>Agustus</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Aug</source>
+        <target>Agu</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>September</source>
+        <target>September</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Sep</source>
+        <target>Sep</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>October</source>
+        <target>Oktober</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Oct</source>
+        <target>Okt</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>November</source>
+        <target>Nopember</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Nov</source>
+        <target>Nop</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>December</source>
+        <target>Desember</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Dec</source>
+        <target>Des</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Dashboard</source>
+        <target>Dashboard</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Scheduler</source>
+        <target>Pengatur Jadwal</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>View All</source>
+        <target>Lihat Semua</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Reports</source>
+        <target>Laporan</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Project Reports</source>
+        <target>Laporan Proyek</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Add New</source>
+        <target>Tambah Baru</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Wiki</source>
+        <target>Wiki</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>Send Email</source>
+        <target>Kirim Email</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Extra Fields per Group</source>
+        <target>Bidang Ekstra per Grup</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Phases Status</source>
+        <target>Status Tahap</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Types</source>
+        <target>Tipe</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Extra Fields per Type</source>
+        <target>Bidang Ekstra per Tipe</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Labels</source>
+        <target>Label</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Extra Fields per Label</source>
+        <target>Bidang Ekstra per Label</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Events in Scheduler</source>
+        <target>Acara di Pengatur Jadwal</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Tools</source>
+        <target>Perangkat</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>Backups</source>
+        <target>Backup</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>Login Page</source>
+        <target>Halaman Login</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>New User Creation</source>
+        <target>Pembuatan Pengguna Baru</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>Full Access</source>
+        <target>Akses Penuh</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Manage Own Only</source>
+        <target>Hanya Mengelola Sendiri</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>View Only</source>
+        <target>Hanya Lihat</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>View Own Only</source>
+        <target>Hanya Lihat Sendiri</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Custom Access</source>
+        <target>Ubah Suai Akses</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>None</source>
+        <target>Tidak Ada</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Projects Wiki</source>
+        <target>Wiki Proyek</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Public Wiki</source>
+        <target>Wiki Publik</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>LDAP Default?</source>
+        <target>Default LDAP?</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Personal User Activity</source>
+        <target>Aktivitas Pengguna Pribadi</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>users</source>
+        <target>pengguna</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Sort</source>
+        <target>Urutkan</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Display in Listing?</source>
+        <target>Tampilkan di Daftar?</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Extra Fields per User Groups</source>
+        <target>Bidang Ekstra per Grup Pengguna</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Default values</source>
+        <target>Nilai default</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>projects</source>
+        <target>proyek</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Don't use extra fields</source>
+        <target>Jangan gunakan bidang ekstra</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Public Status</source>
+        <target>Status Publik</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Use for public tickets</source>
+        <target>Gunakan untuk tiket publik</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Only for public tickets</source>
+        <target>Hanya untuk tiket publik</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Don't use for public tickets</source>
+        <target>Jangan gunakan untuk tiket publik</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Imap Server</source>
+        <target>Server Imap</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Delete Emails</source>
+        <target>Hapus Email</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>open</source>
+        <target>buka</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>done</source>
+        <target>selesai</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>closed</source>
+        <target>ditutup</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>contacts</source>
+        <target>kontak</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>events</source>
+        <target>acara</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Display on dashboard</source>
+        <target>Tampilkan pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Display only assigned</source>
+        <target>Hanya tampilkan yang ditetapkan</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>You can't delete yourself.</source>
+        <target>Anda tidak dapat menghapus diri sendiri.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>User can't be  Deleted because it has related items. Currently user status set to Inactive and user can't login to the system.</source>
+        <target>Pengguna tidak dapat dihapus karena memiliki item terkait. Status pengguna saat ini diatur ke Tidak Aktif dan pengguna tidak dapat login ke sistem.</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>My Scheduler</source>
+        <target>Pengatur Jadwal Saya</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Logoff</source>
+        <target>Log keluar</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>My Details</source>
+        <target>Rincian Saya</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>My Time Report</source>
+        <target>Laporan Waktu Saya</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>My Activity Report</source>
+        <target>Laporan Aktivitas Saya</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>My Patterns</source>
+        <target>Pola Saya</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>My Common Reports</source>
+        <target>Laporan Umum Saya</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Change Skin</source>
+        <target>Ubah Skin</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Full Name</source>
+        <target>Nama Lengkap</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>New Password</source>
+        <target>Kata Sandi Baru</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Language</source>
+        <target>Bahasa</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Start Page</source>
+        <target>Halaman Mulai</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>With Selected</source>
+        <target>Dengan Yang Dipilih</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Quick Search</source>
+        <target>Cari Cepat</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Assigned to</source>
+        <target>Ditetapkan ke</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Hours To Go</source>
+        <target>Jam Tersisa</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Import Tasks from XLS file</source>
+        <target>Impor Tugas dari file XLS</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Import Tasks from MS Project</source>
+        <target>Impor Tugas dari Proyek MS</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Import Spreadsheet</source>
+        <target>Impor Spreadsheet</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Import Spreadsheet (Step 1)</source>
+        <target>Impor Spreadsheet (Langkah 1)</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>You can import tasks from spreadsheet in xls format.</source>
+        <target>Anda dapat mengimpor tugas dari spreadsheet dalam format xls.</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Load file and bind (map) columns to fields</source>
+        <target>Muat file dan petakan kolom ke dalam bidang</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Bind Task fields with spreadsheet columns below and start import.</source>
+        <target>Ikat bidang Tugas dengan kolom spreadsheet di bawah dan mulai proses impor.</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Column without binded field will be not imported.</source>
+        <target>Kolom tanpa bidang terikat tidak akan diimpor.</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Import Spreadsheet (Step 2)</source>
+        <target>Impor Spreadsheet (Langkah 2)</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Import first row</source>
+        <target>Impor baris pertama</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Import</source>
+        <target>Impor</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Bind Field</source>
+        <target>Ikat Bidang</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Spreadsheet imported</source>
+        <target>Spreadsheet telah diimpor</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Outline Level</source>
+        <target>Tingkat Skema</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>More Info</source>
+        <target>Info Lebih Lanjut</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>You can import tasks from MS Project in XML format.</source>
+        <target>Anda dapat mengimpor tugas dari Proyek MS dalam format XML.</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Tasks Imported</source>
+        <target>Tugas diimpor</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Just select value if you need to change it.</source>
+        <target>Cukup pilih nilai apabila Anda perlu merubahnya.</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Numeric Fields</source>
+        <target>Bidang Angka</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Enter value if you need to change it.&lt;br&gt;Also you can use: +,-,*,/ to change value.&lt;br&gt;For example: +30 means you increase current value to 30.</source>
+        <target>Masukkan nilai apabila Anda perlu mengubahnya.&lt;br&gt;Anda juga dapat menggunakan: +,-,*,/ untuk mengubah nilai.&lt;br&gt;Sebagai contoh: +30 berarti Anda meningkatkan nilai saat ini menjadi 30.</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Please Select Items</source>
+        <target>Silakan Pilih Item</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Note: Destination Project Team should include all Users assigned to selected items.</source>
+        <target>Catatan: Destinasi Tim Proyek harus menyertakan semua Pengguna yang ditetapkan atas item terpilih.</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Users won't have access to Items if they are assigned to these Items but are not in the Project Team</source>
+        <target>Pengguna tidak akan memiliki akses ke Item apabila mereka ditetapkan ke Item tersebut tapi tidak termasuk ke dalam Tim Proyek</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Are you sure you want to delete selected projects?</source>
+        <target>Anda yakin ingin menghapus proyek terpilih?</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Note: all Projects Tasks, Tickets and Discussions will be deleted as well.</source>
+        <target>Catatan: semua Tugas, Tiket dan Diskusi Proyek akan turut terhapus.</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Users per Projects</source>
+        <target>Pengguna per Proyek</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Users per Tasks</source>
+        <target>Pengguna per Tugas</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Display today's events in the menu</source>
+        <target>Tampilkan acara hari ini pada menu</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Display today's events in the dashboard</source>
+        <target>Tampilkan acara hari ini pada dashboard</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Send today's events by email</source>
+        <target>Kirim acara hari ini melalui email</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Interval</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Date End</source>
+        <target>Tanggal Berakhir</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Limit</source>
+        <target>Batas</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Daily</source>
+        <target>Harian</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Weekly</source>
+        <target>Mingguan</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Monthly</source>
+        <target>Bulanan</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Yearly</source>
+        <target>Tahunan</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mandatory Report</source>
+        <target>Laporan Wajib</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Insert and View Only</source>
+        <target>Sisipkan dan Lihat Saja</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Create</source>
+        <target>Buat</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Configure Form Tabs</source>
+        <target>Atur Tab Formulir</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Update Selected</source>
+        <target>Perbaharui yang Terpilih</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Sort in From Tags</source>
+        <target>Urutkan dalam Tag Dari</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>From Tabs</source>
+        <target>Tag Dari</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Back to Extra Fields</source>
+        <target>Kembali ke Bidang Ekstra</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>New Tab</source>
+        <target>Tab Baru</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Edit Tab</source>
+        <target>Sunting Tab</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Actual Time</source>
+        <target>Waktu Aktual</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>discussions</source>
+        <target>diskusi</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>tasks</source>
+        <target>tugas</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>tickets</source>
+        <target>tiket</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Phases</source>
+        <target>Tahap</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Notify</source>
+        <target>Beritahukan</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Warning: this ticket is closed but there are some open tasks related to this ticket. Please check related tasks.</source>
+        <target>Peringatan: tiket ini telah ditutup tapi masih terdapat beberapa tugas yang terkait dengan tiket ini. Silakan periksa tugas-tugas terkait.</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Warning: this ticket is closed but there are some open discussions related to this ticket. Please check related discussions.</source>
+        <target>Peringatan: tiket ini telah ditutup tapi masih terdapat beberapa diskusi yang terkait dengan tiker ini. Silakan periksa diskusi terkait.</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Warning: this task is closed but there are some open tickets related to this task. Please check related tickets.</source>
+        <target>Peringatan: tugas ini telah ditutup tapi masih terdapat beberapa tiket yang terkait dengan tugas ini. Silakan periksa tiket terkait.</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Warning: this task is closed but there are some open discussions related to this task. Please check related discussions.</source>
+        <target>Peringatan: tugas ini telah ditutup tapi masih terdapat beberapa diskusi yang terkait dengan tugas ini. Silakan periksa diskusi terkait.</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Warning: this discussion is closed but there are some open tickets related to this discussion. Please check related tickets.</source>
+        <target>Peringatan: diskusi ini telah ditutup tapi masih terdapat beberapa tiket yang terkait dengan diskusi ini. Silakan periksa tiket terkait.</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Warning: this discussion is closed but there are some open tasks related to discussion. Please check related tasks.</source>
+        <target>Peringatan: diskusi ini telah ditutup tapi masih terdapat beberapa tugas yang terkait dengan diskusi ini. Silakan periksa tugas terkait.</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Duration</source>
+        <target>Durasi</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Day</source>
+        <target>Hari</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Week</source>
+        <target>Minggu</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Month</source>
+        <target>Bulan</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Quarter</source>
+        <target>Tiga Bulan</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Use Filter</source>
+        <target>Gunakan Filter</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Sort Filters</source>
+        <target>Urutkan Filter</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Versions</source>
+        <target>Versi</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Add Versions</source>
+        <target>Tambah Versi</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>You type</source>
+        <target>Anda mengetikkan</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>You get</source>
+        <target>Anda mendapatkan</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>character formatting applies anywhere</source>
+        <target>pengaturan karakter berlaku di manapun</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Escape wiki markup</source>
+        <target>Keluar dari markah wiki</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Internal link</source>
+        <target>Tautan Internal</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>External link</source>
+        <target>Tautan Eksternal</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>External link with label</source>
+        <target>Tautan Eksternal dengan label</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Italic text</source>
+        <target>Teks miring</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Bold text</source>
+        <target>Teks Tebal</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Bold and italic</source>
+        <target>Tebal dan miring</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>formatting applies only at the beginning of the line</source>
+        <target>pengaturan hanya berlaku pada bagian awal baris</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Headings of different levels</source>
+        <target>Titel dari tingkatan berbeda</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Horizontal rule</source>
+        <target>Aturan Horizontal</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Bullet list</source>
+        <target>Daftar Tombol</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Numbered list</source>
+        <target>Numbered list</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Preformatted text</source>
+        <target>Teks yang telah diatur</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Tables</source>
+        <target>Tabel</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Supported Wiki Markup</source>
+        <target>Didukung Markah Wiki</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Loading...</source>
+        <target>Memuat...</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Ticket Types</source>
+        <target>Tipe Tiket</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Form Tab</source>
+        <target>Tab Formulir</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Your Ticket ID:</source>
+        <target>ID Tiket Anda:</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Please reference this ticket # should you contact us.</source>
+        <target>Silakan gunakan tiket # ini sebagai referensi apabila Anda menghubungi kami.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Email Address</source>
+        <target>Alamat Email</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Antispam Protection</source>
+        <target>Proteksi Antispam</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Use Javascript Dropdown</source>
+        <target>Gunakan Javascript Menurun</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>View Own</source>
+        <target>Lihat Sendiri</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>Manage Own</source>
+        <target>Kelola Sendiri</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>Insert and View</source>
+        <target>Sisipkan dan Lihat</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>Display this event on Public Scheduler</source>
+        <target>Tammpilkan acara ini pada Pengatur Jadwal Publik</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Project Description</source>
+        <target>Desktipsi Proyek</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>Project Comment</source>
+        <target>Komentar Proyek</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Task Description</source>
+        <target>Deskripsi Tugas</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Task Comment</source>
+        <target>Komentar Tugas</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Ticket Description</source>
+        <target>Deskripsi Tiket</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Ticket Comments</source>
+        <target>Komentar Tiket</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Discussion Description</source>
+        <target>Deskripsi Diskusi</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Discussion Comment</source>
+        <target>Komentar Diskusi</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>send login details to user</source>
+        <target>kirim rincian login ke pengguna</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Repeat On</source>
+        <target>Ulang Pada</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Input Field</source>
+        <target>Bidang Masukan</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Input Numeric Field</source>
+        <target>Bidang Masukan Angka</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Input URL Field</source>
+        <target>Bidang Masukan URL</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>Textarea</source>
+        <target>Area Teks</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>Textarea with WYSIWYG editor</source>
+        <target>Area Teks dengan penyunting WYSIWYG</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>Date with calendar picker</source>
+        <target>Tanggal dengan pemilih kalender</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Date with calendar and time picker</source>
+        <target>Tanggal dengan pemilih kalender dan waktu</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Date range with calendar picker</source>
+        <target>Batas tanggal dengan pemilih kalender</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Pull Down List</source>
+        <target>Daftar Menurun</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Checkbox List</source>
+        <target>Daftar Kotak Centang</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Radiobox List</source>
+        <target>Daftar Kotak Radio</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Filter by selected</source>
+        <target>Filter dengan yang terpilih</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>Restore Password</source>
+        <target>Pulihkan Kata Sandi</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Has related ticket</source>
+        <target>Mempunyai tiket terkait</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>Has estimated time</source>
+        <target>Mempunyai perkiraan waktu</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Overdue tasks</source>
+        <target>Tugas lewat batas waktu</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>Send email notification every</source>
+        <target>Kirim email pemberitahuan setiap</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Days before due date</source>
+        <target>Hari sebelum tanggal batal waktu</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>Display tickets not assigned to project</source>
+        <target>Tampilkan tiket yang tidak ditetapkan ke proyek</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>Discussions Created</source>
+        <target>Diskusi Telah Dibuat</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Tickets Created</source>
+        <target>Tiket Telah Dibuat</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>Are you sure you want to delete project</source>
+        <target>Anda yakin ingin menghapus proyek</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Copy from ticket</source>
+        <target>Salin dari tiket</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>Copy from task</source>
+        <target>Salin dari tugas</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Copy from discussion</source>
+        <target>Salin dari diskusi</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Closed</source>
+        <target>Ditutup</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Please wait. Files are loading.</source>
+        <target>Silakan tunggu. Sedang memuat file.</target>
+      </trans-unit>      
+    </body>
+  </file>
+</xliff>

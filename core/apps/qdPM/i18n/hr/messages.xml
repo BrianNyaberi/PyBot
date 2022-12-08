@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="" datatype="plaintext" original="messages" date="" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Please remove 'install' folder</source>
+        <target>Molim vas uklonite &quot;instaliraj&quot; mapu</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>This field is required!</source>
+        <target>Ovo polje je obavezno!</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please enter a valid email address.</source>
+        <target>Molim vas unesite valjanu email adresu.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>First Page</source>
+        <target>Prva stranica</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Previous Page</source>
+        <target>Prethodna stranica</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Page</source>
+        <target>Stranica</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Next Page</source>
+        <target>Sljedeća stranica</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Last Page</source>
+        <target>Zadnja stranica</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Total</source>
+        <target>Sveukupno</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Displaying</source>
+        <target>Prikazuje</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>View more</source>
+        <target>Vidi više</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Error</source>
+        <target>Greška</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Warning</source>
+        <target>Upozorenje</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Access Forbidden</source>
+        <target>Pristup zabranjen</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Sorry, you don\'t have access to this page.</source>
+        <target>Ispričavamo se, nemate pristup ovoj stranici.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Date Added</source>
+        <target>Datum dodan</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Date Last Commented</source>
+        <target>Datum zadnjeg komentiranja</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Name</source>
+        <target>Ime</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Priority</source>
+        <target>Prioritet</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Type</source>
+        <target>Tip</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Group</source>
+        <target>Grupa</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Label</source>
+        <target>Oznaka</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Department</source>
+        <target>Odsjek</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Order By</source>
+        <target>Narudžba Od</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Edit Filter</source>
+        <target>Uredi Filter</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Default?</source>
+        <target>Zadana postavka?</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This filter will be used by default after login.</source>
+        <target>Ovaj filter će se koristiti po zadanim postavkama nakon prijave.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Update Filter</source>
+        <target>Ažuriraj filter.</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Current filters will be assigned to this filter.</source>
+        <target>Aktuelni filteri biti će pridruženi ovom filteru.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Save</source>
+        <target>Spremi</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Delete Selected?</source>
+        <target>Izbriši Označeno?</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Are you sure you want to delete selected items?</source>
+        <target>Jeste li sigurni da želite izbrisati označene stavke?</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>Izbriši</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save Filter</source>
+        <target>Spremi Filter</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Sort Filters</source>
+        <target>Sortiraj Filtere</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Just move an item up or down.</source>
+        <target>Pomaknite predmet gore ili dolje.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sort Items</source>
+        <target>Sortiraj Predmet</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Description</source>
+        <target>Privitak</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Attachments</source>
+        <target>Privici</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Search</source>
+        <target>Pretražuj</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Search In</source>
+        <target>Pretražuj U</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Comments</source>
+        <target>Komentari</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Search result for</source>
+        <target>Rezultat pretraživanja za</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Reset</source>
+        <target>Vrati</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Note</source>
+        <target>Bilješka</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add Attachments</source>
+        <target>Dodaj Privitke</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>view</source>
+        <target>pregledaj</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>download</source>
+        <target>preuzmi</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Projects Reports</source>
+        <target>Izvješća Projekata</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Tasks Reports</source>
+        <target>Izvješća Zadataka</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Tickets Reports</source>
+        <target>Izvješća Karata</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Discussions Reports</source>
+        <target>Izvješća Rasprava</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Common Reports</source>
+        <target>Opća Izvješća</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Add Report</source>
+        <target>Dodaj Izvješće</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Action</source>
+        <target>Radnja</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users Groups</source>
+        <target>Grupe Korisnika</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Display on dashboard</source>
+        <target>Prikaži na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Display in menu</source>
+        <target>Prikaži u izborniku</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>No Records Found</source>
+        <target>Zapisi nisu nađeni</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>New Report</source>
+        <target>Novo Izvješće</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Configuration has been successfully updated</source>
+        <target>Konfiguracija je uspješno ažurirana</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No</source>
+        <target>Ne</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Yes</source>
+        <target>Da</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Email Options</source>
+        <target>Email Opcije</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Notifications</source>
+        <target>Obavijesti</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Use email notification</source>
+        <target>Koristi email obavijest</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email Subject Label</source>
+        <target>Oznaka Sadržaja Email-a</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Amount previous comments in email</source>
+        <target>Količina prethodnih komentara u email-u</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Copy Sender?</source>
+        <target>Kopiraj Pošiljatelja?</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Send all emails from single email address</source>
+        <target>Pošalji sve emailove s jedne email adrese.</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Email address from</source>
+        <target>Email adresa od</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Name from</source>
+        <target>Ime od</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>SMTP Configuration</source>
+        <target>SMTP Konfiguracija</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Use SMTP</source>
+        <target>Koristi SMTP</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>SMTP Server</source>
+        <target>SMTP Poslužitelj</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>SMTP Port</source>
+        <target>SMTP Ulaz</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>SMTP Encryption</source>
+        <target>SMTP Kodiranje</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>SMTP Login</source>
+        <target>SMTP Prijava</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>SMTP Password</source>
+        <target>SMTP Lozinka</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Features</source>
+        <target>Obilježja</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Use Skins</source>
+        <target>Koristi Teme</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Use Tasks Time Tracker</source>
+        <target>Koristi Mjerač Vremena Zadataka</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Use Parent/Child Tasks</source>
+        <target>Koristi Roditelj/Dijete Zadatke</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Use Project Phases</source>
+        <target>Koristi Faze Projekta</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Use Project Versions</source>
+        <target>Koristi Verzije Projekta</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Use Tasks Groups</source>
+        <target>Koristi Grupe Zadataka</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>General Configuration</source>
+        <target>Opća Konfiguracija</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Root Administrator</source>
+        <target>Root  Administrator</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Administrator Email</source>
+        <target>Administratorov Email</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Administrator Password</source>
+        <target>Administratorova Lozinka</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Root administrator is internal user who can just manage users and configuration and can’t create tasks or projects</source>
+        <target>Root administrator je unutrašnji korisnik koji može usmjeravati korisnike i upravljati konfiguracijom, ali ne može stvarati zadatke ili projekte.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Application</source>
+        <target>Aplikacija</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Name of application</source>
+        <target>Ime aplikacije</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Short name of application</source>
+        <target>Kratko ime aplikacije</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Note: logo might be not looks OK in all skins so you should pick one skin or create your own skin.</source>
+        <target>Imajte na umu: logo možda ne izgleda dobro u svim temama stoga biste trebali odabrati jednu temu ili kreirati vlastitu temu.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Defaults</source>
+        <target>Zadane Postavke</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Default Skin</source>
+        <target>Zadane Postavke Teme</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Default Timezone</source>
+        <target>Zadana Postavka Vremenske Zone</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Default Culture</source>
+        <target>Zadana Postavka Kulture</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Default Rows Per Page</source>
+        <target>Zadana Postavka Redaka Po Stranici</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Rows Limit</source>
+        <target>Ograničenje Redaka</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>This option allows you to limit the number of rows retrieved in a single database query.&lt;br&gt;You can use this option if your server has problems displaying a lot of data.&lt;br&gt;Once you set this option, the query results will be displayed in paged format and you will see the extra PHP pager at the bottom of the page that will allow you to fetch more.</source>
+        <target>Ova opcija vam omogućava da ograničite broj redaka preuzetih u jednom upitu baze podataka.&lt;br&gt;Možete koristiti ovu opciju ukoliko vaš poslužitelj ne uspijeva prikazati veću količinu podataka.&lt;br&gt;Kada postavite ovu opciju, rezultati upita će biti prikazani u obliku poziva i vidjet ćete zaseban PHP dojavljivač na dnu stranice koji će vam omogućiti da dohvatite više.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Default Date Format</source>
+        <target>Zadana Postavka Oblika Datuma</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Default Comments Date Format</source>
+        <target>Zadana Postavka Komentara Oblika Datuma</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>more about date format see</source>
+        <target>(za) više o obliku datuma vidi</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Other</source>
+        <target>Drugo</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Allow edit tasks comments date</source>
+        <target>Dozvoli uređenje datuma komentara zadataka</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>LDAP Configuration</source>
+        <target>LDAP Konfiguracija</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use LDAP Login</source>
+        <target>Koristi LDAP Prijavu</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>LDAP server name</source>
+        <target>LDAP naziv poslužitelja</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>If using LDAP this is the hostname or IP address of the LDAP server. Alternatively you can specify a URL like ldap://hostname:port/</source>
+        <target>Ako koristite LDAP ovo je ime voditelja ili IP adrese LDAP poslužitelja. Također možete navesti URL kao npr. ldap://hostname:port/</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>LDAP server port</source>
+        <target>LDAP ulaz poslužitelja</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Optionally you can specify a port which should be used to connect to the LDAP server instead of the default port 389.</source>
+        <target> Možete navesti neki drugi ulaz prema vlastitom izboru koji se onda koristi za povezivanje sa LDAP poslužiteljem umjesto zadanog ulaza 389.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>LDAP base dn</source>
+        <target>LDAP baza dn</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>This is the Distinguished Name, locating the user information, e.g. o=My Company,c=US.</source>
+        <target>Ovo je Izdvojeno Ime, pomoću kojeg se pronalaze informacije o korisniku, npr. o=Moja Tvrtka,c=US.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>LDAP uid</source>
+        <target>LDAP uid</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>This is the key under which to search for a given login identity, e.g. uid, sn, etc.</source>
+        <target>Ovo je ključ za pretragu određenog prijavljenog identiteta, npr. uid, sn, etc.</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>LDAP user filter</source>
+        <target>LDAP korisnički filter</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Optionally you can further limit the searched objects with additional filters.&lt;br&gt;For example objectClass=posixGroup would result in the use of (&amp;(uid=$username)(objectClass=posixGroup))</source>
+        <target>Možete dodatno ograničiti pretraživanje objekata sa dodatnim filterima.&lt;br&gt;Npr. objectClass=posixGroup bi rezultiralo upotrebom (&amp;(uid=$username)(objectClass=posixGroup))</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>LDAP e-mail attribute</source>
+        <target>LDAP e-mail znak</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Set this to the name of your user entry e-mail attribute (if one exists) in order to automatically set the e-mail address for new users.&lt;br&gt;User email is required for qdPM and if it\'s not exist qdPM atumatically assign email like username@localhost.com</source>
+        <target>Postavite ovo uz ime vašeg korisničkog ulaznog e-mail znaka (ukoliko postoji) kako biste automatski podesili (postavili) e-mail adresu za nove korisnike.&lt;br&gt;Korisnički email se traži za qdPM i ukoliko ne postoji qdPM automatski dodijeljuje email poput ovog: username@localhost.com</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>LDAP user dn</source>
+        <target>LDAP korisnički dn</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Leave blank to use anonymous binding. If filled in uses the specified distinguished name on login attempts to find the correct user, e.g. uid=Username,ou=MyUnit,o=MyCompany,c=US. </source>
+        <target>Ostavite prazno kako biste mogli koristiti anonimno povezivanje. Ukoliko je popunjeno koristi navedeno specifično ime pri pokušajima prijavljivanja da pronađeš točnog korisnika, npr. uid=Korisničko Ime,ou=Moja Jedinica,o=Moja Firma,c=US. </target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>LDAP password</source>
+        <target>LDAP lozinka</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Leave blank to use anonymous binding. Otherwise fill in the password for the above user. &lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; This password will be stored as plain text in the database visible to everybody who can access your database or who can view this configuration page.</source>
+        <target>Ostavite prazno kako biste mogli koristiti anonimno povezivanje. U suprotnom ukucajte lozinku za gornjeg korisnika. &lt;br&gt;&lt;b&gt;Upozorenje:&lt;/b&gt; Ova će lozinka biti pohranjena kao običan tekst u bazi podataka i biti će vidljiva svakom tko ima pristup vašoj bazi podataka ili onima koji mogu vidjeti ovu konfiguracijsku stranicu.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Login Page Configuration</source>
+        <target>Podešavanje Stranice Prijava</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Heading</source>
+        <target>Naslov</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Content</source>
+        <target>Sadržaj</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Public Tickets</source>
+        <target>Javne Karte</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Users can submit Tickets without registration.</source>
+        <target>Korisnici mogu poslati Karte bez potrebe za registracijom.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Use Public Tickets</source>
+        <target>Koristi Javne Karte</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Allow attachments in public tickets form</source>
+        <target>Dopusti privitke u obrascima javnih karti</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Use antispam protection in form</source>
+        <target>Koristi antispam zaštitu u obrascu</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Integration Code</source>
+        <target>Integracijski Kod</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Integration code helps you integrate the Public Ticket form into your web site. Just copy code below and paste it into your page.&lt;br&gt;You can change &quot;width&quot; or &quot;height&quot; parameters if needed.&lt;br&gt; See &quot;css/submitTickets/styles.css&quot; to update css for public tickets form.</source>
+        <target>Integracijski Kod pomaže vam postaviti obrazac Javne Karte na vašu web stranicu. Jednostavno kopirajte donji kod i zalijepite ga na vašu stranicu.&lt;br&gt;Možete promijeniti &quot;širinu&quot; ili &quot;dužinu&quot; parametara ukoliko je potrebno.&lt;br&gt; Vidi &quot;css/submitTickets/styles.css&quot; kako biste mogli ažurirati css za obrazac javnih karti.</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Tasks Listing</source>
+        <target>Popis Zadataka</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Select tasks fields which will be display in tasks listing by default.&lt;br&gt;Also you can configure own tasks listing for each projects type, see  &quot;Configurations-&gt;Projects-&gt;Types&quot;</source>
+        <target>Izaberite polja zadataka koja će biti prikazana u popisu zadataka po zadanim postavkama.&lt;br&gt;Također možete podesiti vlastite popise zadataka za svaki tip projekta, vidi  &quot;Konfiguracije-&gt;Projekti-&gt;Tipovi&quot;</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Configure Email notification for new user</source>
+        <target>Podesi Email obavijest za novog korisnika</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Subject</source>
+        <target>Predmet</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Default</source>
+        <target>Zadana postavka</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Your account has been created in</source>
+        <target>Vaš korisnički račun je kreiran u</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Body</source>
+        <target>Tijelo</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>by default login details will be added at the end message</source>
+        <target>pri prijavljivanju detalji će biti dodani na kraju poruke.</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Use Keys</source>
+        <target>Koristi Ključeve</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>to include User Name</source>
+        <target>da uključe Korisničko Ime</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>to include Login Details</source>
+        <target>da uključe Detalje Prijave</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Edit Contact</source>
+        <target>Uredi Kontakt</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Contacts</source>
+        <target>Kontakti</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Add Contact</source>
+        <target>Dodaj Kontakt</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>New Contact</source>
+        <target>Novi Kontakt</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Edit</source>
+        <target>Uredi</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Contacts Groups</source>
+        <target>Grupe Kontakata</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Sort Order</source>
+        <target>Sortiraj Poredak</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New</source>
+        <target>Novi</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>My Dashboard</source>
+        <target>Moja Kontrolna Ploča</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Just select reports which you want to display on dashboard</source>
+        <target>Izaberite samo ona izvješća koja želite prikazati na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>No Reports Found</source>
+        <target>Nije pronađeno niti jedno izvješće</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Update</source>
+        <target>Ažuriraj</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Configure Dashboard</source>
+        <target>Podesi Kontrolnu Ploču</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Sort Reports</source>
+        <target>Sortiraj Izvješća</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>No reports found to display on dashboard</source>
+        <target>Nisu pronađena izvješća za prikaz na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Personal Scheduler</source>
+        <target>Osobni Planer</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Public Scheduler</source>
+        <target>Javni Planer</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Edit Department</source>
+        <target>Uredi Odjel</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Departments</source>
+        <target>Odjeli</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Assigned To</source>
+        <target>Pridruženo</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Active</source>
+        <target>Aktivno</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>New Department</source>
+        <target>Novi Odjel</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>General</source>
+        <target>Općenito</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Tickets Types</source>
+        <target>Vrste Karata</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Email Tickets</source>
+        <target>Email Karte</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Email Patterns</source>
+        <target>Email Obrasci/Šablone</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Select the Ticket Types that will be available for this Department only</source>
+        <target>Odaberite Vrste Karata koje će biti dostupne samo ovom Odjelu</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>to get Tickets by email you have to setup cron, read more installation instruction</source>
+        <target>kako biste primili Karte putem email-a morate podesiti cron, pročitati upute o instalaciji</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>IMAP functions should be enabled on your server</source>
+        <target>IMAP funkcije bi trebale biti aktivirane na vašem poslužitelju</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>if you will have any questions or imap errors, please read this:</source>
+        <target>ako imate kakvih pitanja, nedoumica ili ste se susreli s imap greškama, molim vas pročitajte ovo:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Get Tickets by email</source>
+        <target>Nabavite Karte preko email-a</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>For example</source>
+        <target>Npr.</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Delete messages from the server</source>
+        <target>Izbriši poruke sa poslužitelja</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>You can setup custom email patterns for Ticket emails.</source>
+        <target>Možete postaviti prilagođene email obrasce za emailove s Kartama.</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Patterns will be using for Public Tickets and Email Tickets.</source>
+        <target>Obrasci će se koristiti za Javne Karte i Email Karte.</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Use next keys:</source>
+        <target>Koristi sljedeće Ključeve:</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>ticket id</source>
+        <target>identifikacijski broj karte</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>description of ticket or comment</source>
+        <target>opis karte ili komentara</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>name of ticket creator</source>
+        <target>ime kreatora karte</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A new ticket has been opened</source>
+        <target>nova karta je otvorena</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Show Original</source>
+        <target>Prikaži Original</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Filter Deleted</source>
+        <target>Filter Izbrisan</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Filter Saved</source>
+        <target>Filter Sačuvan</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Id</source>
+        <target>Identifikacijski Broj</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Assigned To</source>
+        <target>Pridruženo</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Url</source>
+        <target>Url</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Groups</source>
+        <target>Grupe</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Filters</source>
+        <target>Filteri</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Link Discussions</source>
+        <target>Poveznica Rasprave</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Created By</source>
+        <target>Kreirao/la</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Bind</source>
+        <target>Povezano</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Edit Discussion</source>
+        <target>Uredi Raspravu</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Export</source>
+        <target>Izvoz</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Select fields to export</source>
+        <target>Odaberi polja za izvoz</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Select All</source>
+        <target>Odaberi Sve</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Filename</source>
+        <target>Ime Datoteke</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Discussions</source>
+        <target>Rasprave</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Format</source>
+        <target>Format</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Move To</source>
+        <target>Preseli U</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Select Project</source>
+        <target>Odaberi Projekt</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Move To Project</source>
+        <target>Preseli u Projekt</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Move</source>
+        <target>Preseli</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Update Selected?</source>
+        <target>Ažuriranje Odabrano?</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Just select value if you need to change it</source>
+        <target>Odaberite vrijednost ako ju želite promijeniti</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>New Discussion</source>
+        <target>Nova Rasprava</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Projects Not Found</source>
+        <target>Projekti nisu nađeni</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Project</source>
+        <target>Projekt</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Details</source>
+        <target>Detalji</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Created At</source>
+        <target>Kreirano kod</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>No Assigned Users</source>
+        <target>Nema pridruženih korisnika</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Remove Filter</source>
+        <target>Ukloni Filter</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Add Discussion</source>
+        <target>Dodaj Raspravu</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Related Discussions</source>
+        <target>Povezane Rasprave</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Delete Related</source>
+        <target>Izbriši Povezano</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Add</source>
+        <target>Dodaj</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Discussion</source>
+        <target>Rasprava</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Related Tasks</source>
+        <target>Poveznice Zadataka</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add Task</source>
+        <target>Dodaj Zadatak</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Link Tasks</source>
+        <target>Poveznice Zadataka</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Related Tickets</source>
+        <target>Poveznice Karata</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Add Ticket</source>
+        <target>Dodaj Kartu</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Link Tickets</source>
+        <target>Poveznica Karata</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>More Actions</source>
+        <target>Još Radnji</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Edit Comment</source>
+        <target>Uredi Komentar</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Add Comment</source>
+        <target>Dodaj Komentar</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Edit Details</source>
+        <target>Uredi Detalj</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Comment</source>
+        <target>Komentar</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>New Comment</source>
+        <target>Novi Komentar</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Previous Comments</source>
+        <target>Prethodni Komentar</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Go to previous discussion</source>
+        <target>Idi na prethodnu raspravu</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Go to next discussion</source>
+        <target>Idi na sljedeću raspravu</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Discussions Groups</source>
+        <target>Grupe Rasprava</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Active?</source>
+        <target>Aktivno?</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Discussions Priorities</source>
+        <target>Prioriteti Rasprava</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Icon</source>
+        <target>Ikona</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Edit Report</source>
+        <target>Uredi Izvještaj</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Discussions Filters</source>
+        <target>Filteri Rasprava</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Projects Filters</source>
+        <target>Filteri Projekata</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Projects</source>
+        <target>Projekti</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Discussions Status</source>
+        <target>Status Rasprava</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Background</source>
+        <target>Pozadina</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Discussions Types</source>
+        <target>Vrste Rasprava</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Extra Fields</source>
+        <target>Rezervna Polja</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>No Extra Fields Found</source>
+        <target>Rezervna Polja nisu pronađena</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Don\'t use extra fields</source>
+        <target>Ne koristi Rezervna Polja</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Events Priorities</source>
+        <target>Prioriteti Događaja</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Events Types</source>
+        <target>Vrste Događaja</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Extra Fields Updated</source>
+        <target>Rezervna Polja Ažurirana</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>By default all Extra Fields are visible.</source>
+        <target>Sva Rezervna Polja su vidljiva po zadanim postavkama.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Select Extra Fields which will be visible only for specific group</source>
+        <target>Odaberi Rezervna Polja koja će biti vidljiva samo posebnim grupama</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Use option (Don't use Extra Fields) to hide Extra Fields for specific group</source>
+        <target>Koristite opciju (Ne koristi Rezervna Polja) kako biste sakrili Rezervna Polja za posebne grupe</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Don't use Extra Fields</source>
+        <target>Ne koristi Rezervna Polja</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Extra fields</source>
+        <target>Rezervna polja</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>In Listing?</source>
+        <target>U popisu?</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Required?</source>
+        <target>Zahtijevano?</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Access</source>
+        <target>Pristup</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Select User Groups that will have access to Extra Field.&lt;br&gt;By default access is NOT limited.</source>
+        <target>Odaberite Korisničke Grupe koje će imati pristup Rezervnim Poljima.&lt;br&gt;Po zadanim postavkama pristup NIJE ograničen.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Simple input text field.</source>
+        <target>Jenostavan unos polja teksta.</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>This field used for numbers.</source>
+        <target>Ovo polje se koristi za brojeve.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Value of this field will be calculated by formula entered below.&lt;br&gt;Use [Field ID] to setup field value in formula.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt;Where 36 and 54 are ID of numeric fields.</source>
+        <target>Vrijednost ovog polja biti će izračunata preko formule koja je unesena dolje.&lt;br&gt;Koristi ( Identifikacijski Broj Polja] za postavljanje vrijednosti polja u formuli.&lt;br&gt;Primjer: ([36]+[54])/2&lt;br&gt;Gdje su 36 i 54  Identifikacijski Broj numeričkih polja.</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Formula</source>
+        <target>Formula</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Simple textarea field.</source>
+        <target>Jednostavno polje teksta.</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>WYSIWYG editor will be automatically added to this field.</source>
+        <target>WYSIWYG urednik bit će automatski dodan ovom polju.</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Date with dropdown select</source>
+        <target>Datum sa odabranim padajućim </target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Date - Time with dropdown select</source>
+        <target>Datum--Vrijeme sa odabranim padajućim </target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>You have to enter default values for this field below.&lt;br&gt;Enter each value in new line.</source>
+        <target>Morate unijeti zadane postavke vrijednosti za donje polje.&lt;br&gt;Unesite svaku vrijednost u novi red.</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Gantt Chart</source>
+        <target>Gantt Tabela</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>hours</source>
+        <target>sati</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>You are receiving this notification because you have requested a new password be sent for your account on</source>
+        <target>Primate ovu obavijest zato što ste zatražili da vam se pošalje nova lozinka za vaš korisnički račun na</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Password</source>
+        <target>Lozinka</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>New Password on</source>
+        <target>Nova Lozinka na</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>A new password has been sent to your e-mail address</source>
+        <target>Nova lozinka je poslana na vašu email adresu</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>No match for Email and/or Password</source>
+        <target>Ne odgovara Email-u i/li Lozinki</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Your account is not active</source>
+        <target>Vaš korisnički račun nije aktivan</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Login</source>
+        <target>Prijava</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Remember Me</source>
+        <target>Zapamti Me</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Password forgotten?</source>
+        <target>Lozinka zaboravljena?</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>LDAP Login</source>
+        <target>LDAP Priava</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Default users group for LDAP users is not setup. LDAP login is not allowed.</source>
+        <target>Zadane postavke korisničke grupe za LDAP korisnike nisu postavljene. LDAP prijava nije dozvoljena.</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Enter your e-mail address below</source>
+        <target>Unesite svoju email adresu dolje</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Send New Password</source>
+        <target>Pošalji Novu Lozinku</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Email already exists</source>
+        <target>Email već postoji</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Account Updated</source>
+        <target>Korisnički Račun Ažuriran</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>My Account</source>
+        <target>Moj Korisnički Račun</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Hide</source>
+        <target>Sakrij</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Patterns</source>
+        <target>Obrasci</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Edit Pattern</source>
+        <target>Uredi Obrazac</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>New Pattern</source>
+        <target>Novi Obrazac</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>Default Phases</source>
+        <target>Zadane Postavke Faza</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Put phases in new line, for example</source>
+        <target>Stavi faze u novi red, npr.</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Phase Status</source>
+        <target>Status Faze</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Projects Roles</source>
+        <target>Uloge Projekata</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Tasks</source>
+        <target>Zadaci</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Tickets</source>
+        <target>Karte</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>LDAP Default</source>
+        <target>LDAP Zadane Postavke</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Default Group</source>
+        <target>Zadane Postavke Grupa</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Team</source>
+        <target>Tim</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Edit Project</source>
+        <target>Uredi Projekt</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>New Project</source>
+        <target>Novi Projekt</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Select Ticket Departments which will be available for this Project.</source>
+        <target>Odaberi Odjele Karata koji će biti dostupni za ovaj Projekt.</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>By default Department will be available if the User assigned to Department is in the Project team.</source>
+        <target>Preko zadanih postavki Odjel će biti dostupan ako je Korisnik pridružen Odjelu u timu Projekta.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Add Project</source>
+        <target>Dodaj Projekt</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>User</source>
+        <target>Korisnik</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Role</source>
+        <target>Uloga</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Projects Groups</source>
+        <target>Grupe Projekata</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Edit Phase</source>
+        <target>Uredi Fazu</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Projects Phases</source>
+        <target>Faze Projekata</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Add Phase</source>
+        <target>Dodaj Fazu</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Due Date</source>
+        <target>Zadani Datum</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>New Phase</source>
+        <target>Nova Faza</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Projects Priorities</source>
+        <target>Prioriteti Projekata</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Projects Reports</source>
+        <target>Izvješća Projekata</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>In Team</source>
+        <target>U timu</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Projects Status</source>
+        <target>Status Projekata</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Projects Types</source>
+        <target>Tip Projekata</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Tasks Columns</source>
+        <target>Stupci Zadataka</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Select extra fields which will be appear for this type.</source>
+        <target>Odaberi dodatna polja koja će se pojaviti za ovaj tip.</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Select Task fields which will be display in tasks listing for this Project Type.</source>
+        <target>Odaberi polja Zadatka koja će biti prikazana u popisu zadataka za ovaj tip projekta.</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Public Tickets not allowed.</source>
+        <target>Javne Karte nisu dozvoljene.</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>A new Ticket has been opened for you.</source>
+        <target>Nova Karta se otvorila za vas.</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>There are no departments that can be used for public tickets.</source>
+        <target>Ne postoje odjeli koji se mogu koristiti za javne karte.</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>New Ticket</source>
+        <target>Nova Karta</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Attach a file</source>
+        <target>Priloži datoteku</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Sum of</source>
+        <target>Iznos (od)</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Submit Ticket</source>
+        <target>Dostavi Kartu</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Configuration</source>
+        <target>Konfiguracija</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>Display today\'s events in the menu</source>
+        <target>Prikaži današnje događaje u izborniku</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Display today\'s events in the dashboard</source>
+        <target>Prikaži današnje događaje na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Send today\'s events by email</source>
+        <target>Pošalji današnje događaje email-om</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Edit Event</source>
+        <target>Uredi Događaj</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Switch to my personal scheduler</source>
+        <target>Prebaci u moj osobni planer</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>New Event</source>
+        <target>Novi Događaj</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Switch to public scheduler</source>
+        <target>Prebaci u javni planer</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Are you sure?</source>
+        <target>Jeste li sigurni?</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Repeat</source>
+        <target>Ponovi</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Start Date</source>
+        <target>Početni Datum</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>End Date</source>
+        <target>Završni Datum</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>No Events Found</source>
+        <target>Nisu pronađeni Događaji</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Previous Month</source>
+        <target>Prethodni Mjesec</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Next Month</source>
+        <target>Sljedeći Mjesec</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>Back to </source>
+        <target>Povratak na </target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Today</source>
+        <target>Danas</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Skin style is not found. Please check next path:</source>
+        <target>Žanr teme nije nađen. Molim vas provjerite sljedeću dionicu:</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Skins</source>
+        <target>Teme</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Version</source>
+        <target>Verzija</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Phase</source>
+        <target>Faza</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Est. Time</source>
+        <target>Procijenjeni vremenski period</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Progress</source>
+        <target>Napredak</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>List</source>
+        <target>Lista</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Tree</source>
+        <target>Drvo</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>View Type</source>
+        <target>Vidi Tip</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Copy To</source>
+        <target>Kopiraj U</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Copy To Project</source>
+        <target>Kopiraj u Projekt</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Copy</source>
+        <target>Kopiraj</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Edit Task</source>
+        <target>Uredi Zadatak</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>New Task</source>
+        <target>Novi Zadatak</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Sort Tasks</source>
+        <target>Sortiraj Zadatke</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Child Tasks</source>
+        <target>Dječji Zadaci</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Estimated Time</source>
+        <target>Procijenjeni vremenski period</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>Work Hours</source>
+        <target>Sati Rada</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Time</source>
+        <target>Vrijeme</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>set this status for all child tasks</source>
+        <target>postavi ovaj status za sve dječje zadatke</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Sort Tree</source>
+        <target>Sortiraj Drvo</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Task</source>
+        <target>Zadatak</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Add Child Task</source>
+        <target>Dodaj Dječji Zadatak</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Delete with child tasks</source>
+        <target>Izbriši sa dječjim zadacima</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Timer</source>
+        <target>Mjeritelj Vremena</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Go to previous task</source>
+        <target>Idi na prethodni zadatak</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Go to next task</source>
+        <target>Idi na sljedeći zadatak</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Close Timer</source>
+        <target>Neposredni Mjeritelj Vremena</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Start</source>
+        <target>Započni</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>Stop</source>
+        <target>Zaustavi</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Work Hours:</source>
+        <target>Sati Rada:</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Edit Group</source>
+        <target>Uredi Grupu</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Tasks Groups</source>
+        <target>Grupe Zadataka</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>Add Group</source>
+        <target>Dodaj Grupu</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>New Group</source>
+        <target>Nova Grupa</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Tasks Labels</source>
+        <target>Oznake Zadataka</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>Tasks Priorities</source>
+        <target>Prioriteti Zadataka</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Tasks Status</source>
+        <target>Status Zadataka</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Tasks Types</source>
+        <target>Tipovi Zadataka</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Edit Ticket</source>
+        <target>Uredi Kartu</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>Ticket</source>
+        <target>Karta</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Link Task</source>
+        <target>Poveži Zadatak</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Go to previous ticket</source>
+        <target>Odi na prethodnu kartu</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Go to next ticket</source>
+        <target>Odi na sljedeću kartu</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Tickets Groups</source>
+        <target>Grupe Karata</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Tickets Priorities</source>
+        <target>Prioriteti Karata</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Tickets Filters</source>
+        <target>Filteri Karata</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Ticktes Status</source>
+        <target>Status Karata</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>Users Time Report</source>
+        <target>Vremensko izvješće korisnika</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Discrepancy:</source>
+        <target>Odstupanje:</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>All</source>
+        <target>Sve</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Under</source>
+        <target>Ispod</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Over</source>
+        <target>Preko</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Ok</source>
+        <target>Ok</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>From</source>
+        <target>Od</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>To</source>
+        <target>Za</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Filter By Dates</source>
+        <target>Filtriraj po Datumima</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Allocated</source>
+        <target>Pridruženo</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Discrepancy</source>
+        <target>Odstupanje</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Project Info</source>
+        <target>Informacije o projektu</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>No records found</source>
+        <target>Zapisi nisu pronađeni</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Time Log</source>
+        <target>Vremenski dnevnik</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Date</source>
+        <target>Datum</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Worked Hours</source>
+        <target>Radnih sati</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>Task Url</source>
+        <target>Url Zadatka</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Task Info</source>
+        <target>Informacije o Zadatku</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Project Info</source>
+        <target>Informacije o Projektu</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Tasks Url</source>
+        <target>Url Zadataka</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users</source>
+        <target>Korisnici</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Items restored</source>
+        <target>Stavke obnovljene</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Database saved.</source>
+        <target>Baza podataka spremljena.</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Database restored.</source>
+        <target>Baza podataka obnovljena.</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>Success: Backup removed.</source>
+        <target>Uspjeh: Sigurnosna kopija uklonjena.</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Error: Backup not removed.</source>
+        <target>Greška: Sigurnosna kopija nije uklonjena.</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>Backup</source>
+        <target>Sigurnosna Kopija</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>File</source>
+        <target>Datoteka</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Size</source>
+        <target>Veličina</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>bytes</source>
+        <target>bitovi</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Restore</source>
+        <target>Obnovi</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Download</source>
+        <target>Preuzmi</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Backup Directory</source>
+        <target>Direktorij Sigurnosne Kopije</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Restore?</source>
+        <target>Obnovi?</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>Are you sure you want to restore selected items?</source>
+        <target>Jeste li sigurni da želite vratiti označene stavke?</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Trash</source>
+        <target>Smeće</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>Empty Trash</source>
+        <target>Isprazni Smeće</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Restore Selected</source>
+        <target>Vrati Označeno</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Comment for project</source>
+        <target>Komentar na projekt</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Comment for task</source>
+        <target>Komentar na zadatak</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Comment for ticket</source>
+        <target>Komentar na kartu</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Comment for discussion</source>
+        <target>Komentar na raspravu</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>Tasks Filters</source>
+        <target>Filteri Zadataka</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Extra</source>
+        <target>Dodatno</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>Reminder</source>
+        <target>Podsjetnik</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Tasks Due Date</source>
+        <target>Zadaci do zadanog datuma</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>Tasks Created</source>
+        <target>Kreirani Zadaci</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Closed Date</source>
+        <target>Završni Datum</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>User Deleted</source>
+        <target>Korisnik Izbrisan</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Login Details</source>
+        <target>Detalji Prijave</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Message Sent</source>
+        <target>Poruka Poslana</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>User Group is not selected</source>
+        <target>Korisnička Grupa nije izabrana</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Add User</source>
+        <target>Dodaj Korisnika</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Export Selected</source>
+        <target>Izvezi Označene</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Photo</source>
+        <target>Fotografija</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>Send email to users</source>
+        <target>Pošalji email korisnicima</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Message</source>
+        <target>Poruka</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Send Message</source>
+        <target>Pošalji Poruku</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Users Activity</source>
+        <target>Aktivnost Korisnika</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Personal Activity</source>
+        <target>Osobna Aktivnost</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>Days before today</source>
+        <target>Prethodni Dani</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>created by</source>
+        <target>kreirao/la</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Comment for tasks</source>
+        <target>Komentar na zadatke</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>User Group Deleted</source>
+        <target>Korisnička Grupa izbrisana</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Delete?</source>
+        <target>Izbriši?</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Are you sure you want to delete Group?</source>
+        <target>Jeste li sigurni da želite izbrisati Grupu?</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>You can't delete this Group because there are Users assigned to this Group.</source>
+        <target>Ne možete izbrisati ovu Grupu zato što postoje Korisnici koji koriste ovu Grupu.</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>You have to delete users first.</source>
+        <target>Prvo morate izbrisati korisnike.</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>Users Groups</source>
+        <target>Grupe Korisnika</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Assigned Users</source>
+        <target>Pridruženi Korisnici</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>Basic Access</source>
+        <target>Osnovni Pristup</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Extra Access Configuration</source>
+        <target>Konfiguracija Dodatnog Pristupa</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Tasks Reports</source>
+        <target>Izvještaji Zadataka</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Time Report</source>
+        <target>Izvješće Vremena</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Personal Time Report</source>
+        <target>Izvješće Osobnog Vremena</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Users Activity</source>
+        <target>Aktivnost Korisnika</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Personal Activity Report</source>
+        <target>Izvješće Osobne Aktivnosti</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Edit Version</source>
+        <target>Uredi Verziju</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Tasks Versions</source>
+        <target>Verzije Zadataka</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Add Version</source>
+        <target>Dodaj Verziju</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>New Version</source>
+        <target>Nova Verzija</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Versions Status</source>
+        <target>Status Verzije</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>You can format your text using wiki markup.</source>
+        <target>Možete oblikovati vlastiti tekst koristeći wiki označavanje.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Check supported wiki markup</source>
+        <target>Provjeri podržano wiki označavanje</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Also any HTML tags are allowed</source>
+        <target>Također sve HTLM oznake su dopuštene</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Preview</source>
+        <target>Pregled</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>All attached files has own link that you can insert in page content.</source>
+        <target>Sve priložene datoteke imaju vlastitu poveznicu koju možete umetnuti u sadržaj stranice.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>History</source>
+        <target>Povijest</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>am</source>
+        <target>am</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>pm</source>
+        <target>pm</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>AM</source>
+        <target>AM</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>PM</source>
+        <target>PM</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Monday</source>
+        <target>Ponedjeljak</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Mon</source>
+        <target>Pon</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>Tuesday</source>
+        <target>Utorak</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Tue</source>
+        <target>Uto</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Wednesday</source>
+        <target>Srijeda</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Wed</source>
+        <target>Sri</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Thursday</source>
+        <target>Četvrtak</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Thu</source>
+        <target>Čet</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Friday</source>
+        <target>Petak</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Fri</source>
+        <target>Pet</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Saturday</source>
+        <target>Subota</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>Sat</source>
+        <target>Sub</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Sunday</source>
+        <target>Nedjelja</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Sun</source>
+        <target>Ned</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>January</source>
+        <target>Siječanj</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Jan</source>
+        <target>Sij</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>February</source>
+        <target>Veljača</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Feb</source>
+        <target>Velj</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>March</source>
+        <target>Ožujak</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Mar</source>
+        <target>Ožu</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>April</source>
+        <target>Travanj</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Apr</source>
+        <target>Tra</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>May</source>
+        <target>Svibanj</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>June</source>
+        <target>Lipanj</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>Jun</source>
+        <target>Lip</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>July</source>
+        <target>Srpanj</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Jul</source>
+        <target>Srp</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>August</source>
+        <target>Kolovoz</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Aug</source>
+        <target>Kol</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>September</source>
+        <target>Rujan</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Sep</source>
+        <target>Ruj</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>October</source>
+        <target>Listopad</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Oct</source>
+        <target>Lis</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>November</source>
+        <target>Studeni</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Nov</source>
+        <target>Stu</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>December</source>
+        <target>Prosinac</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Dec</source>
+        <target>Pro</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Dashboard</source>
+        <target>Kontrolna Ploča</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Scheduler</source>
+        <target>Planer</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>View All</source>
+        <target>Vidi Sve</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Reports</source>
+        <target>Izvješća</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Project Reports</source>
+        <target>Izvješća za Projekt</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Add New</source>
+        <target>Dodaj Novi</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Wiki</source>
+        <target>Wiki</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>Send Email</source>
+        <target>Pošalji Email</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Extra Fields per Group</source>
+        <target>Rezervna Polja po Grupi</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Phases Status</source>
+        <target>Status Faza</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Types</source>
+        <target>Tipovi</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Extra Fields per Type</source>
+        <target>Rezervna Polja po Tipu</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Labels</source>
+        <target>Oznake</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Extra Fields per Label</source>
+        <target>Rezervna Polja po Oznaci</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Events in Scheduler</source>
+        <target>Događaji u Planeru</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Tools</source>
+        <target>Alati</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>Backups</source>
+        <target>Sigurnosne Kopije</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>Login Page</source>
+        <target>Stranica Prijave</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>New User Creation</source>
+        <target>Kreacija Novog Korisnika</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>Full Access</source>
+        <target>Puni Pristup</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Manage Own Only</source>
+        <target>Upravljaj Samo Vlastitim</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>View Only</source>
+        <target>Vidi Samo</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>View Own Only</source>
+        <target>Vidi Samo Vlastiti</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Custom Access</source>
+        <target>Prilagođeni Pristup</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>None</source>
+        <target>Nijedan</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Projects Wiki</source>
+        <target>Wiki Projekti</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Public Wiki</source>
+        <target>Wiki Javno</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>LDAP Default?</source>
+        <target>LDAP Zadane Postavke?</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Personal User Activity</source>
+        <target>Aktivnost Osobnog Korisnika</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>users</source>
+        <target>korisnici</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Sort</source>
+        <target>Sortiraj</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Display in Listing?</source>
+        <target>Prikaži u popisu?</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Extra Fields per User Groups</source>
+        <target>Dodatna Polja po Grupama Korisnika</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Default values</source>
+        <target>Zadane Postavke vrijednosti</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>projects</source>
+        <target>projekti</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Don't use extra fields</source>
+        <target>Ne koristi dodatna polja</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Public Status</source>
+        <target>Javni Status</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Use for public tickets</source>
+        <target>Koristi za javne karte</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Only for public tickets</source>
+        <target>Samo za javne karte</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Don't use for public tickets</source>
+        <target>Ne koristi za javne karte</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Imap Server</source>
+        <target>Imap Poslužitelj</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Delete Emails</source>
+        <target>Izbriši Email-ove</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>open</source>
+        <target>otvori</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>done</source>
+        <target>gotovo</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>closed</source>
+        <target>zatvori</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>contacts</source>
+        <target>kontakti</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>events</source>
+        <target>događaji</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Display on dashboard</source>
+        <target>Prikaži na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Display only assigned</source>
+        <target>Prikaži samo pridružene</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>You can't delete yourself.</source>
+        <target>Ne možete se izbrisati.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>User can't be  Deleted because it has related items. Currently user status set to Inactive and user can't login to the system.</source>
+        <target>Korisnik ne može biti izbrisan zato što ima povezane stavke. Trenutni korisnički status podešen na Neaktivni i korisnik se ne može prijaviti na sistem.</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>My Scheduler</source>
+        <target>Moj Planer</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Logoff</source>
+        <target>Odjava</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>My Details</source>
+        <target>Moji Detalji</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>My Time Report</source>
+        <target>Moje Vremensko Izvješće</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>My Activity Report</source>
+        <target>Moje Izvješće o Aktivnosti</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>My Patterns</source>
+        <target>Moji Obrasci</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>My Common Reports</source>
+        <target>Moja Opća Izvješća</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Change Skin</source>
+        <target>Promijeni Temu</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Full Name</source>
+        <target>Puno Ime</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>New Password</source>
+        <target>Nova Lozinka</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Language</source>
+        <target>Jezik</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Start Page</source>
+        <target>Početna Stranica</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>With Selected</source>
+        <target>Sa Odabranim</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Quick Search</source>
+        <target>Brza Pretraga</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Assigned to</source>
+        <target>Pridružen U</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Hours To Go</source>
+        <target>Preostalo Vrijeme</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Import Tasks from XLS file</source>
+        <target>Preuzmi Zadatke iz XLS datoteke</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Import Tasks from MS Project</source>
+        <target>Unesi Zadatke iz MS Projekta</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Import Spreadsheet</source>
+        <target>Unesi Tablicu</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Import Spreadsheet (Step 1)</source>
+        <target>Unesi Tablicu(Korak br. 1)</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>You can import tasks from spreadsheet in xls format.</source>
+        <target>Možete unijeti podatke iz tablice u xls formatu.</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Load file and bind (map) columns to fields</source>
+        <target>Učitaj datoteku i poveži (mapiraj) stupce sa poljima</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Bind Task fields with spreadsheet columns below and start import.</source>
+        <target>Poveži polja Zadataka sa stupcima iz donje tablice i započni unos.</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Column without binded field will be not imported.</source>
+        <target>Stupac bez povezanog polja neće biti unešen.</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Import Spreadsheet (Step 2)</source>
+        <target>Unesi Tablicu (Korak br. 2)</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Import first row</source>
+        <target>Unesi prvi red</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Import</source>
+        <target>Unesi</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Bind Field</source>
+        <target>Poveži polje</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Spreadsheet imported</source>
+        <target>Tablica unešena</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Outline Level</source>
+        <target>Ocrtaj Razinu</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>More Info</source>
+        <target>Više Informacija</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>You can import tasks from MS Project in XML format.</source>
+        <target>Možete unijeti zadatke iz MS Projekta u XML format.</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Tasks Imported</source>
+        <target>Zadaci Unešeni</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Just select value if you need to change it.</source>
+        <target>Unesite vrijednost ako ju prebate promijeniti.</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Numeric Fields</source>
+        <target>Brojčana Polja</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Enter value if you need to change it.&lt;br&gt;Also you can use: +,-,*,/ to change value.&lt;br&gt;For example: +30 means you increase current value to 30.</source>
+        <target>Unesite vrijednost ako ju prebate promijeniti.&lt;br&gt;Također možete koristiti: +,-,*,/ da promijenite vrijednost.&lt;br&gt;Npr.: +30 znači da ste povećali trenutnu vrijednost na 30.</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Please Select Items</source>
+        <target>Molim vas odaberite stavke</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Note: Destination Project Team should include all Users assigned to selected items.</source>
+        <target>Imajte na umu: Odredište Tima Projekta bi trebalo uključiti sve korisnike pridružene odabranim stavkama.</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Users won't have access to Items if they are assigned to these Items but are not in the Project Team</source>
+        <target>Korisnici neće imati pristup Stavkama ako su pridruženi tim Stavkama ali nisu u Timu Projekta</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Are you sure you want to delete selected projects?</source>
+        <target>Jeste li sigurni da želite izbrisati odabrane projekte?</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Note: all Projects Tasks, Tickets and Discussions will be deleted as well.</source>
+        <target>Imajte na umu: svi Zadaci Projekata, Karte i Rasprave će također biti izbrisani.</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Users per Projects</source>
+        <target>Korisnika po Projektima</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Users per Tasks</source>
+        <target>Korisnika po Zadacima</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Display today's events in the menu</source>
+        <target>Prikaži današnje događaje u izborniku</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Display today's events in the dashboard</source>
+        <target>Prikaži današnje događaje na kontrolnoj ploči</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Send today's events by email</source>
+        <target>Pošalji današnje događaje email-om</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Interval</source>
+        <target>Interval</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Date End</source>
+        <target>Zadnji datum</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Limit</source>
+        <target>Ograničenje</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Daily</source>
+        <target>Dnevno</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Weekly</source>
+        <target>Tjedno</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Monthly</source>
+        <target>Mjesečno</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Yearly</source>
+        <target>Godišnje</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mandatory Report</source>
+        <target>Obavezno Izvješće</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Insert and View Only</source>
+        <target>Unesi i Pregledaj</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Create</source>
+        <target>Kreiraj</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Configure Form Tabs</source>
+        <target>Podesi Kartice Obrasca</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Update Selected</source>
+        <target>Ažuriranje Odabrano</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Sort in From Tags</source>
+        <target>Sortiraj iz Oznaka</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>From Tabs</source>
+        <target>Iz Kartica</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Back to Extra Fields</source>
+        <target>Vrati na Rezervna Polja</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>New Tab</source>
+        <target>Nova Kartica</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Edit Tab</source>
+        <target>Uredi Karticu</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Actual Time</source>
+        <target>Stvarno Vrijeme</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>discussions</source>
+        <target>rasprave</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>tasks</source>
+        <target>zadaci</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>tickets</source>
+        <target>karte</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Phases</source>
+        <target>Faze</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Notify</source>
+        <target>Obavijesti</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Warning: this ticket is closed but there are some open tasks related to this ticket. Please check related tasks.</source>
+        <target>Upozorenje: ova karta je zatvorena ali neki zadaci povezani s ovom kartom su otvoreni. Molim vas provjerite povezane zadatke.</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Warning: this ticket is closed but there are some open discussions related to this ticket. Please check related discussions.</source>
+        <target>Upozorenje: ova karta je zatvorena ali postoje neke otvorene rasprave povezane s ovom kartom. Molim vas provjerite povezane rasprave.</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Warning: this task is closed but there are some open tickets related to this task. Please check related tickets.</source>
+        <target>Upozorenje: ovaj zadatak je zatvoren ali postoje neke otvorene karte povezane s ovim zadatkom. Molim vas provjerite povezane karte.</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Warning: this task is closed but there are some open discussions related to this task. Please check related discussions.</source>
+        <target>Upozorenje: ovaj zadatak je zatvoren ali postoje neke otvorene rasprave povezane s ovim zadatkom. Molim vas provjerite povezane rasprave.</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Warning: this discussion is closed but there are some open tickets related to this discussion. Please check related tickets.</source>
+        <target>Upozorenje: ova rasprava je zatvorena ali postoje neke otvorene karte povezane s ovom raspravom. Molim vas provjerite povezane karte.</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Warning: this discussion is closed but there are some open tasks related to discussion. Please check related tasks.</source>
+        <target>Upozorenje: ova rasprava je zatvorena ali postoje neki otvoreni zadaci povezani s ovom raspravom. Molim vas provjerite povezane zadatke.</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Duration</source>
+        <target>Trajanje</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Day</source>
+        <target>Dan</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Week</source>
+        <target>Tjedan</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Month</source>
+        <target>Mjesec</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Quarter</source>
+        <target>Tromjesečje</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Use Filter</source>
+        <target>Koristi Filter</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Sort Filters</source>
+        <target>Sortiraj Filtere</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Versions</source>
+        <target>Verzije</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Add Versions</source>
+        <target>Dodaj Verzije</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>You type</source>
+        <target>Vi tipkate</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>You get</source>
+        <target>Vi dobivate</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>character formatting applies anywhere</source>
+        <target>oblikovanje znakova vrijedi svugdje</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Escape wiki markup</source>
+        <target>Izbjegni wiki oznake</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Internal link</source>
+        <target>Unutrašnja poveznica</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>External link</source>
+        <target>Vanjska poveznica</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>External link with label</source>
+        <target>Vanjska poveznica s oznakom</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Italic text</source>
+        <target>Kurzivan tekst</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Bold text</source>
+        <target>Podebljan tekst</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Bold and italic</source>
+        <target>Podebljano i kurzivno</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>formatting applies only at the beginning of the line</source>
+        <target>oblikovanje se primjenjuje samo na početku reda</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Headings of different levels</source>
+        <target>Naslovi različitih razina</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Horizontal rule</source>
+        <target>Vodoravno pravilo</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Bullet list</source>
+        <target>Lista grafičke oznake</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Numbered list</source>
+        <target>Lista obilježenih brojeva</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Preformatted text</source>
+        <target>Prethodno oblikovan tekst</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Tables</source>
+        <target>Tablice</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Supported Wiki Markup</source>
+        <target>Podržane Wiki Oznake</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Loading...</source>
+        <target>Učitavanje...</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Ticket Types</source>
+        <target>Vrste Karata</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Form Tab</source>
+        <target>Kartica Obrasca</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Your Ticket ID:</source>
+        <target>Identifikacijski Broj vaše Karte:</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Please reference this ticket # should you contact us.</source>
+        <target>Ako ćete nas kontaktirati molim vas spomenite ovu kartu #.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Email Address</source>
+        <target>Email Adresa</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Antispam Protection</source>
+        <target>Antispam Zaštita</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Use Javascript Dropdown</source>
+        <target>Koristi Javascript Padajući</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>View Own</source>
+        <target>Pregledaj Vlastiti</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>Manage Own</source>
+        <target>Upravljaj Vlastitim</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>Insert and View</source>
+        <target>Umetni i Pregledaj</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>Display this event on Public Scheduler</source>
+        <target>Prikaži ovaj događaj u Javnom Planeru</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Project Description</source>
+        <target>Opis Projekta</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>Project Comment</source>
+        <target>Komentar Projekta</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Task Description</source>
+        <target>Opis Zadatka</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Task Comment</source>
+        <target>Komentar Zadatka</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Ticket Description</source>
+        <target>Opis Karte</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Ticket Comments</source>
+        <target>Komentar Karte</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Discussion Description</source>
+        <target>Opis Rasprave</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Discussion Comment</source>
+        <target>Komentar Rasprave</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>send login details to user</source>
+        <target>pošalji detalje prijave korisniku</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Repeat On</source>
+        <target>Ponovi Na</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Input Field</source>
+        <target>Unesi Polje</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Input Numeric Field</source>
+        <target>Unesi Brojčano Polje</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Input URL Field</source>
+        <target>Unesi URL Polje</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>Textarea</source>
+        <target>Područje teksta</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>Textarea with WYSIWYG editor</source>
+        <target>Područje teksta sa WYSIWYG urednikom</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>Date with calendar picker</source>
+        <target>Datum sa biračem kalendara</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Date with calendar and time picker</source>
+        <target>Datum sa kalendarom i biračem vremena</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Date range with calendar picker</source>
+        <target>Raspon datuma sa biračem kalendara</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Pull Down List</source>
+        <target>Spusti Dolje Popis</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Checkbox List</source>
+        <target>Popis Kvadratića (s kvačicom)</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Radiobox List</source>
+        <target>Popis Kutija Radija</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Filter by selected</source>
+        <target>Filtriraj po odabranom</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>Restore Password</source>
+        <target>Obnovi Lozinku</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Has related ticket</source>
+        <target>Ima povezanu kartu</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>Has estimated time</source>
+        <target>Ima procijenjeno vrijeme</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Overdue tasks</source>
+        <target>Zadaci kojima je prošao rok</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>Send email notification every</source>
+        <target>Pošalji email obavijest svaki</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Days before due date</source>
+        <target>Dani prije zadanog roka</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>Display tickets not assigned to project</source>
+        <target>Prikaži karte koje nisu dodijeljene projektu</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>Discussions Created</source>
+        <target>Kreirane Rasprave</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Tickets Created</source>
+        <target>Kreirane Karte</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>Are you sure you want to delete project</source>
+        <target>Jeste li sigurni da želite izbrisati projekt?</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Copy from ticket</source>
+        <target>Kopiraj iz karata</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>Copy from task</source>
+        <target>Kopiraj iz zadataka</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Copy from discussion</source>
+        <target>Kopiraj iz rasprava</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Closed</source>
+        <target>Zatvoreno</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Please wait. Files are loading.</source>
+        <target>Molim vas pričekajte. Datoteke se učitavaju.</target>
+      </trans-unit>      
+    </body>
+  </file>
+</xliff>

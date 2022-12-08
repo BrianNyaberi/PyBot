@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="" datatype="plaintext" original="messages" date="" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Please remove 'install' folder</source>
+        <target>Lütfen 'install' klasörünü kaldırın</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>This field is required!</source>
+        <target>Bu alanın girilmesi zorunludur!</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Please enter a valid email address.</source>
+        <target>Lütfen geçerli bir e-mail adresi giriniz.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>First Page</source>
+        <target>İlk Sayfa</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Previous Page</source>
+        <target>Önceki Sayfa</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Page</source>
+        <target>Sayfa</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Next Page</source>
+        <target>Sonraki Sayfa</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Last Page</source>
+        <target>Son Sayfa</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Total</source>
+        <target>Toplam</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Displaying</source>
+        <target>Görüntüleniyor</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>View more</source>
+        <target>Daha fazlasını görüntüle</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Error</source>
+        <target>Hata</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Warning</source>
+        <target>Uyarı</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Access Forbidden</source>
+        <target>Erişim Yasaklandı</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Sorry, you don\'t have access to this page.</source>
+        <target>Üzgünüm, bu sayfa için erişiminiz yok.</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Date Added</source>
+        <target>Eklenme Tarihi</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Date Last Commented</source>
+        <target>En Son Yorumlanma Tarih</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Name</source>
+        <target>İsim</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Priority</source>
+        <target>Öncelik</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Status</source>
+        <target>Durum</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Type</source>
+        <target>Tip</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Group</source>
+        <target>Grup</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Label</source>
+        <target>Etiket</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Department</source>
+        <target>Bölüm</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Order By</source>
+        <target>Tarafından Sipariş Edildi</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Edit Filter</source>
+        <target>Filtreyi Düzenle</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Default?</source>
+        <target>Varsayılan?</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>This filter will be used by default after login.</source>
+        <target>Giriş yapmanızın ardından bu filtre varsayılan olarak kullanılacaktır.</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Update Filter</source>
+        <target>Filtreyi Güncelle</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Current filters will be assigned to this filter.</source>
+        <target>Şu anki filtreler bu filtreye atanacaktır.</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Save</source>
+        <target>Kaydet</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Delete Selected?</source>
+        <target>Seçileni Sil?</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Are you sure you want to delete selected items?</source>
+        <target>Seçili öğeleri silmek istediğinize emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Delete</source>
+        <target>Sil</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Save Filter</source>
+        <target>Filtreyi Kaydet</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Sort Filters</source>
+        <target>Filtreleri sırala</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Just move an item up or down.</source>
+        <target>Sadece bir öğeyi yukarı veya aşağı taşıyın.</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sort Items</source>
+        <target>Öğeleri Sırala</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Description</source>
+        <target>Açıklama</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Attachments</source>
+        <target>Ekler</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Search</source>
+        <target>Ara</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Search In</source>
+        <target>Şurada Ara</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Comments</source>
+        <target>Yorumlar</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>Search result for</source>
+        <target>Bunun için arama sonuçları</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Reset</source>
+        <target>Yenile</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Note</source>
+        <target>Not</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Add Attachments</source>
+        <target>Ekler ekle</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>view</source>
+        <target>görünüm</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>download</source>
+        <target>indir</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Projects Reports</source>
+        <target>Projelerin Raporları</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Tasks Reports</source>
+        <target>Görevlerin Raporları</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Tickets Reports</source>
+        <target>Biletlerin Raporları</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Discussions Reports</source>
+        <target>Tartışmaların Raporları</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Common Reports</source>
+        <target>Ortak Raporları</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>Add Report</source>
+        <target>Rapor Ekle</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>Action</source>
+        <target>Aksiyon</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>Users Groups</source>
+        <target>Kullanıcı Grupları</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>Display on dashboard</source>
+        <target>Kontrol panerlinde göster</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>Display in menu</source>
+        <target>Menüde göster</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>No Records Found</source>
+        <target>Kayıt Bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>New Report</source>
+        <target>Yeni Rapor</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>Configuration has been successfully updated</source>
+        <target>Yapılandırma başarılı olarak güncellendi</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>No</source>
+        <target>Hayır</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>Yes</source>
+        <target>Evet</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>Email Options</source>
+        <target>Email Ayarları</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>Notifications</source>
+        <target>Bildirimler</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>Use email notification</source>
+        <target>Email bilidirimi kullan</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>Email Subject Label</source>
+        <target>Email Konu Etiketi</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>Amount previous comments in email</source>
+        <target>Bir önceki emaildeki yorum miktarı</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>Copy Sender?</source>
+        <target>Göndericiyi Kopyala?</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>Send all emails from single email address</source>
+        <target>Bütün emailleri aynı email adresinden yolla</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>Email address from</source>
+        <target>Bundan gelen Email adresleri</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>Name from</source>
+        <target>Bundan gelen isim</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>SMTP Configuration</source>
+        <target>SMTP Yapılandırma</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>Use SMTP</source>
+        <target>SMTP Kullan</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>SMTP Server</source>
+        <target>SMTP Sunucu</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>SMTP Port</source>
+        <target>SMTP Port</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>SMTP Encryption</source>
+        <target>SMTP Şifreleme</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>SMTP Login</source>
+        <target>SMTP Giriş</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>SMTP Password</source>
+        <target>SMTP Şifre</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>Features</source>
+        <target>Özellikler</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>Use Skins</source>
+        <target>Tema Kullan</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>Use Tasks Time Tracker</source>
+        <target>Görev Zaman Takip Edici Kullan</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>Use Parent/Child Tasks</source>
+        <target>Aile/Çocuk Görevlerini Kullan</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>Use Project Phases</source>
+        <target>Proje Fazlarını Kullan</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>Use Project Versions</source>
+        <target>Proje Versiyonlarını Kullan</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>Use Tasks Groups</source>
+        <target>Görev Gruplarını Kullan</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>General Configuration</source>
+        <target>Herkese Açık Yapılandırma</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>Root Administrator</source>
+        <target>Root Yönetici</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>Administrator Email</source>
+        <target>Yönetici Emaili</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>Administrator Password</source>
+        <target>Yönetici Şifresi</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>Root administrator is internal user who can just manage users and configuration and can’t create tasks or projects</source>
+        <target>Root yönetici kullanıcıları ve yapılandırmaları yöneten ve görev veya proje yaratamayan bir iç kullanıcıdır.</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>Application</source>
+        <target>Uygulama</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>Name of application</source>
+        <target>Uygulamanın adı</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>Short name of application</source>
+        <target>Uygulamanın kısa adı</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>Logo</source>
+        <target>Logo</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>Note: logo might be not looks OK in all skins so you should pick one skin or create your own skin.</source>
+        <target>Not: logo bütün temalarda düzgün görüntülenemeyebilir, lütfen ona göre bir tema seçin ya da kendi temanızı yaratın.</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>Defaults</source>
+        <target>Varsayılanlar</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>Default Skin</source>
+        <target>Varsayılan Tema</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>Default Timezone</source>
+        <target>Varsayılan Zaman Dilimi</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>Default Culture</source>
+        <target>Varsayılan Kültür</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>Default Rows Per Page</source>
+        <target>Varsayılan Sayfa Başına Sıra Sayısı</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>Rows Limit</source>
+        <target>Sıra Limiti</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>This option allows you to limit the number of rows retrieved in a single database query.&lt;br&gt;You can use this option if your server has problems displaying a lot of data.&lt;br&gt;Once you set this option, the query results will be displayed in paged format and you will see the extra PHP pager at the bottom of the page that will allow you to fetch more.</source>
+        <target>Bu seçenek tek bir veri tabanı sorgusunda alınacak sıra sayısına limit koymanızı sağlar.&lt;br&gt;Bu seçeneği sunucunuz fazla veriyi göstermekte sorun yaşıyorsa seçebilirsiniz.&lt;br&gt;Bir kere bu seçeneği ayarladığınızda, sorgu sonuçları sayfalı formatta görüntülenecek ve sayfanın en altında diğer sorguları getirecek extra bir PHP pager göreceksiniz.</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>Default Date Format</source>
+        <target>Varsayılan Tarih Formatu</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>Default Comments Date Format</source>
+        <target>Varsayılan Yorum Tarih Formatı</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>more about date format see</source>
+        <target>tarih formatıyla ilgili daha fazlası için burayı görünüz</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>Other</source>
+        <target>Diğer</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>Allow edit tasks comments date</source>
+        <target>Görev yorum tarihlerinizi düzenlemeye izin ver</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>LDAP Configuration</source>
+        <target>LDAP Yapılandırma</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>Use LDAP Login</source>
+        <target>LDAP Girişi Kullan</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>LDAP server name</source>
+        <target>LDAP sunucu ismi</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>If using LDAP this is the hostname or IP address of the LDAP server. Alternatively you can specify a URL like ldap://hostname:port/</source>
+        <target>Eğer LDAP kullanıyorsanız bu sunucu ismi veya LDAP sunucusunun IP adresidir. Alternatif olarak bu şekilde bir URL belirleyebilirsiniz ldap://hostname:port/</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>LDAP server port</source>
+        <target>LDAP sunucu portu</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>Optionally you can specify a port which should be used to connect to the LDAP server instead of the default port 389.</source>
+        <target>Opsiyonel olarak varsayılan 389 portu yerine LDAP sunucusuna bağlanmak üzere kullanılması gereken portu belirleyebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>LDAP base dn</source>
+        <target>LDAP temel dn</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>This is the Distinguished Name, locating the user information, e.g. o=My Company,c=US.</source>
+        <target>Bu kullanıcı bilgilerinin yer aldığı Ayırt Edici İsim'dir, örneğin o=My Company,c=US.</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>LDAP uid</source>
+        <target>LDAP uid</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>This is the key under which to search for a given login identity, e.g. uid, sn, etc.</source>
+        <target>Bu verilen giriş kimliğini aramanın altındaki anahtardır, örneğin uid, sn.</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>LDAP user filter</source>
+        <target>LDAP kullanıcı filtresi</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>Optionally you can further limit the searched objects with additional filters.&lt;br&gt;For example objectClass=posixGroup would result in the use of (&amp;(uid=$username)(objectClass=posixGroup))</source>
+        <target>Opsiyonel olarak aratılan objeleri ek filtrelerle limit koyabilirsiniz.&lt;br&gt;Örneğin objectClass=posixGroup bunun sonucudur (&amp;(uid=$username)(objectClass=posixGroup))</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>LDAP e-mail attribute</source>
+        <target>LDAP e-mail özelliği</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>Set this to the name of your user entry e-mail attribute (if one exists) in order to automatically set the e-mail address for new users.&lt;br&gt;User email is required for qdPM and if it\'s not exist qdPM atumatically assign email like username@localhost.com</source>
+        <target>Yeni kullanıcılara otomatik olarak e-mail adresi atanamak üzere kullanıcı giriş e-mail özelliğine (eğer varsa) bu ismi atar.&lt;br&gt;Kullanıcı email'i qdPM için zorunludur ve eğer mevcut değilse qdPM otomatik olarak username@localhost.com gibi email atar</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>LDAP user dn</source>
+        <target>LDAP kullanıcı dn</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>Leave blank to use anonymous binding. If filled in uses the specified distinguished name on login attempts to find the correct user, e.g. uid=Username,ou=MyUnit,o=MyCompany,c=US. </source>
+        <target>Anonim bağlama kullanmak için boş bırakın. Eğer doldurulursa belirlenmiş ayrım yapılabilir isim giriş denemelerinde doğru kullanıcıyı bulmak için kullanılır, örneğin uid=Username,ou=MyUnit,o=MyCompany,c=US. </target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>LDAP password</source>
+        <target>LDAP şifre</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>Leave blank to use anonymous binding. Otherwise fill in the password for the above user. &lt;br&gt;&lt;b&gt;Warning:&lt;/b&gt; This password will be stored as plain text in the database visible to everybody who can access your database or who can view this configuration page.</source>
+        <target>Anonim bağlama kullanmak için boş bırakın. Aksi taktirde yukarıdaki kullanıcı için şifre alanını doldurun. &lt;br&gt;&lt;b&gt;Uyarı:&lt;/b&gt;Bu şifre veritabanında düz metin olarak saklanacak ve veritabanına yetkisi olan herkes ya da bu yapılandırma sayfasını görebilen herkes tarafından görünlebilir olacaktır.</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>Login Page Configuration</source>
+        <target>Giriş Sayfası Page Yapılandırma</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>Heading</source>
+        <target>Başlık</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>Content</source>
+        <target>İçerik</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>Public Tickets</source>
+        <target>Herkese Açık Biletler</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>Users can submit Tickets without registration.</source>
+        <target>Kullanıcılar giriş yapmadan Bilet girebilirler.</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>Use Public Tickets</source>
+        <target>Herkese Açık Biletleri Kullan</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>Allow attachments in public tickets form</source>
+        <target>Herkese Açık bilet formunda ek dosya kullanmaya izin ver.</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>Use antispam protection in form</source>
+        <target>Formlarda antispam koruması kullanm</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>Integration Code</source>
+        <target>Entegrasyon Kodu</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>Integration code helps you integrate the Public Ticket form into your web site. Just copy code below and paste it into your page.&lt;br&gt;You can change &quot;width&quot; or &quot;height&quot; parameters if needed.&lt;br&gt; See &quot;css/submitTickets/styles.css&quot; to update css for public tickets form.</source>
+        <target>Entegrasyon kodu Herkese Açık Bilet formlarını web sitenize entegre etmeye yardımcı olur. Sadece aşağıdaki kodu kopyalayın ve sayfanıza yapıştırın.&lt;br&gt;Gerek olduğu taktirde &quot;width&quot; veya &quot;height&quot; parametrelerini değiştirebilirsiniz. Herkese Açık bilet form css'ini güncellemek için &quot;css/submitTickets/styles.css&quot; 'e bakınız.</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>Tasks Listing</source>
+        <target>Görev Listeleme</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>Select tasks fields which will be display in tasks listing by default.&lt;br&gt;Also you can configure own tasks listing for each projects type, see  &quot;Configurations-&gt;Projects-&gt;Types&quot;</source>
+        <target>Görev listeleme içerisinde varsayılan listelenecek görev alanlarını seçin.&lt;br&gt;Ayrıca her proje tipi için kendi görev listelemenizi  yapılandırabilirsiniz, bakınız &quot;Configurations-&gt;Projects-&gt;Types&quot;</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>Configure Email notification for new user</source>
+        <target>Yeni kullanıcı için Email bilgilendirmelerini yapılandırın</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>Subject</source>
+        <target>Konu</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>Default</source>
+        <target>Varsayılan</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>Your account has been created in</source>
+        <target>Hesabınız burada yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>Body</source>
+        <target>Ana bölüm</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>by default login details will be added at the end message</source>
+        <target>varsayılan şekilde giriş detayları bitiş mesajının sonuna eklenecektir</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>Use Keys</source>
+        <target>Anahtarları Kullan</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>to include User Name</source>
+        <target>Kullanıcı Adı eklemek için</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>to include Login Details</source>
+        <target>Giriş Detayları eklemek için</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>Edit Contact</source>
+        <target>Bağlantı'yı Düzenle</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>Contacts</source>
+        <target>Bağlantılar</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>Add Contact</source>
+        <target>Bağlantı Ekle</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>New Contact</source>
+        <target>Yeni Bağlantı</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>Edit</source>
+        <target>Düzenle</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>Contacts Groups</source>
+        <target>Bağlantı Grupları</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>Sort Order</source>
+        <target>Düzen Sırala</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>New</source>
+        <target>Yeni</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>My Dashboard</source>
+        <target>Kontrol Panelim</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>Just select reports which you want to display on dashboard</source>
+        <target>Kontrol manelinde göstermek istediğiniz raporları seçin</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>No Reports Found</source>
+        <target>Rapor Bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>Update</source>
+        <target>Güncelle</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>Configure Dashboard</source>
+        <target>Kontrol Paneli'ni Yapılandır</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>Sort Reports</source>
+        <target>Raporları Sırala</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>No reports found to display on dashboard</source>
+        <target>Kontrol Paneli'nde göstermek üzere rapor bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>Personal Scheduler</source>
+        <target>Kişisel Plan Düzenleyici</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>Public Scheduler</source>
+        <target>Herkese Açık Plan Düzenleyici</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>Edit Department</source>
+        <target>Bölüm Düzenle</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>Departments</source>
+        <target>Bölümler</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>Assigned To</source>
+        <target>Atanmış</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>Active</source>
+        <target>Aktif</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>New Department</source>
+        <target>Yeni Bölüm</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>General</source>
+        <target>Herkese Açık</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>Tickets Types</source>
+        <target>Bilet Tipleri</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>Email Tickets</source>
+        <target>Email Biletleri</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>Email Patterns</source>
+        <target>Email Desenleri</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>Select the Ticket Types that will be available for this Department only</source>
+        <target>Bu Bölüm içim kullanılabilir olacak Bilet Tipleri'ni seçin</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>to get Tickets by email you have to setup cron, read more installation instruction</source>
+        <target>Biletleri email ile alabilmek için cron kurmalısınız, daha fazla yükleme talimatı okuyun</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>IMAP functions should be enabled on your server</source>
+        <target>IMAP fonksiyonları sunucunuzda açık olmalı</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>if you will have any questions or imap errors, please read this:</source>
+        <target>eğer herhangi bir sorunuz olduğunda veya imap hatalarında, lütfen bunu okuyun:</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>Get Tickets by email</source>
+        <target>Biletleri email ile al</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>For example</source>
+        <target>Örneğin</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>Delete messages from the server</source>
+        <target>Sunucudan mesajları sil</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>You can setup custom email patterns for Ticket emails.</source>
+        <target>Bilet emailleri için özel email desenleri kurabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>Patterns will be using for Public Tickets and Email Tickets.</source>
+        <target>Herkese Açık Bİletler ve Email Biletler için kullanılacak desenler.</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>Use next keys:</source>
+        <target>Sıradaki anahtarları kullanın:</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>ticket id</source>
+        <target>bilet id</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>description of ticket or comment</source>
+        <target>bilet veya yorum açıklaması</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>name of ticket creator</source>
+        <target>bilet yaratıcısının ismi</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>A new ticket has been opened</source>
+        <target>Bir yeni bilet açıldı</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>Show Original</source>
+        <target>Orjinalini Göster</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>Filter Deleted</source>
+        <target>Filtre Silindi</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>Filter Saved</source>
+        <target>Filtre Kaydedildi</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>Id</source>
+        <target>Id</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>Assigned To</source>
+        <target>Buna Atandı</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>Url</source>
+        <target>Url</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>Groups</source>
+        <target>Gruplar</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>Filters</source>
+        <target>Filtreler</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>Link Discussions</source>
+        <target>Link Tartışmaları</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>Created By</source>
+        <target>Tarafından Yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>Bind</source>
+        <target>Bağla</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>Edit Discussion</source>
+        <target>Tartışma Düzenle</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>Export</source>
+        <target>İhraç et</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>Select fields to export</source>
+        <target>İhraç edilecek alanları seç</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>Select All</source>
+        <target>Hepsini Seç</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>Filename</source>
+        <target>Dosya İsmi</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>Discussions</source>
+        <target>Tartışmalar</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>Format</source>
+        <target>Format</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>Move To</source>
+        <target>Buraya Taşı</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>Select Project</source>
+        <target>Proje Seç</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>Move To Project</source>
+        <target>Bu Projeye Taşı</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>Move</source>
+        <target>Taşı</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>Update Selected?</source>
+        <target>Seçileni Güncelle?</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>Just select value if you need to change it</source>
+        <target>Değiştirmej zorundaysanız sadece değeri seçin</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>New Discussion</source>
+        <target>Yeni Tartışma</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>Projects Not Found</source>
+        <target>Projeler Bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>Project</source>
+        <target>Proje</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>Details</source>
+        <target>Detaylar</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>Created At</source>
+        <target>Burada Yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>No Assigned Users</source>
+        <target>Atanmış Kullanıcı Yok</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>Remove Filter</source>
+        <target>Filtreyi Kaldır</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>Add Discussion</source>
+        <target>Tartışma Ekle</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>Related Discussions</source>
+        <target>İlgili Tartışmalar</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>Delete Related</source>
+        <target>İlgilileri Sil</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>Add</source>
+        <target>Ekle</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>Discussion</source>
+        <target>Tartışma</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>Related Tasks</source>
+        <target>İlgili Görevler</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>Add Task</source>
+        <target>Görev Ekle</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>Link Tasks</source>
+        <target>Görevleri Bağla</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>Related Tickets</source>
+        <target>İlgili Biletler</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>Add Ticket</source>
+        <target>Bilet Ekle</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>Link Tickets</source>
+        <target>Biletleri Bağla</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>More Actions</source>
+        <target>Daha Fazla Eylem</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>Edit Comment</source>
+        <target>Yorum Düzenle</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>Add Comment</source>
+        <target>Yorum Ekle</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>Edit Details</source>
+        <target>Detay Düzenle</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>Comment</source>
+        <target>Yorum</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>New Comment</source>
+        <target>Yeni Yorum</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>Previous Comments</source>
+        <target>Önceki Yorumlar</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>Go to previous discussion</source>
+        <target>Önceki tartışmaya git</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>Go to next discussion</source>
+        <target>Sonraki tartışmaya git</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>Discussions Groups</source>
+        <target>Tartışma Grupları</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>Active?</source>
+        <target>Aktif?</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>Discussions Priorities</source>
+        <target>Tartışma Ayarları</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>Icon</source>
+        <target>Simge</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>Edit Report</source>
+        <target>Rapor Düzenle</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>Discussions Filters</source>
+        <target>Tartışma Filtreleri</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>Projects Filters</source>
+        <target>Proje Filtreleri</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>Projects</source>
+        <target>Projeler</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>Discussions Status</source>
+        <target>Tartışma Durumu</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>Background</source>
+        <target>Arkaplan</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>Discussions Types</source>
+        <target>Tartışma Tipleri</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>Extra Fields</source>
+        <target>Ekstra Alanlar</target>
+      </trans-unit>      
+      <trans-unit id="257">
+        <source>No Extra Fields Found</source>
+        <target>Ekstra Alan Bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>Don\'t use extra fields</source>
+        <target>Ekstra alanları kullanma</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>Events Priorities</source>
+        <target>Etkinlik Ayarları</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>Events Types</source>
+        <target>Etkinlik Tipleri</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>Extra Fields Updated</source>
+        <target>Ekstra Alanlar Güncellendi</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>By default all Extra Fields are visible.</source>
+        <target>Varsayılan olarak bütün Ekstra Alanlar görünürdür.</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>Select Extra Fields which will be visible only for specific group</source>
+        <target>Sadece belirli gruplara görünür olacak Ekstra Alanları seçin</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>Use option (Don't use Extra Fields) to hide Extra Fields for specific group</source>
+        <target>Ekstra Alanlar belirli gruplardan saklamak için seçeneği kullanın (Ekstra Alanları kullanmayın)</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>Don't use Extra Fields</source>
+        <target>Ekstra Alanları kullanmayın</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>Extra fields</source>
+        <target>Ekstra alanlar</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>In Listing?</source>
+        <target>Listelemede?</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>Required?</source>
+        <target>Zorunlu?</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>Access</source>
+        <target>Erişim</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>Select User Groups that will have access to Extra Field.&lt;br&gt;By default access is NOT limited.</source>
+        <target>Ekstra Alanlara erişimi olacak Kullanıcı Gruplarını seçin.&lt;br&gt;Varsayılan olarak erişim sınırlı DEĞİLDİR.</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>Simple input text field.</source>
+        <target>Basit giriş metin alanı.</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>This field used for numbers.</source>
+        <target>Bu alan numaralar için kullanılır.</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>Value of this field will be calculated by formula entered below.&lt;br&gt;Use [Field ID] to setup field value in formula.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt;Where 36 and 54 are ID of numeric fields.</source>
+        <target>Bu alanın değeri aşağıda girilmiş formül ile hesaplanacaktır.&lt;br&gt;Alanın formüldeki değerini kurmak için [Field ID] kullanın.&lt;br&gt;Example: ([36]+[54])/2&lt;br&gt; 36 ve 54 sayısal alanların ID'sidir. </target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>Formula</source>
+        <target>Formül</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>Simple textarea field.</source>
+        <target>Basit metin alanı.</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>WYSIWYG editor will be automatically added to this field.</source>
+        <target>WYSIWYG editörü otomatik olarak bu alana eklenecektir.</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>Date with dropdown select</source>
+        <target>Aşağı açılabilir seçimli Tarih</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>Date - Time with dropdown select</source>
+        <target>Aşağı açılabilir seçimli Tarih - Saat</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>You have to enter default values for this field below.&lt;br&gt;Enter each value in new line.</source>
+        <target>Aşağıdaki alan için varsayılan değerler girmelisiniz.&lt;br&gt;Her yeni satıra bir değer giriniz.</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>Gantt Chart</source>
+        <target>Gantt Chart</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>hours</source>
+        <target>saat</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>You are receiving this notification because you have requested a new password be sent for your account on</source>
+        <target>Bu bildirimi alıyorsunuz çünkü yeni şifrenin hesabınıza yollanmasını talep ettiniz</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>Password</source>
+        <target>Şifre</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>New Password on</source>
+        <target>Yeni Şifre</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>A new password has been sent to your e-mail address</source>
+        <target>E-Mail adresinize yeni bir şifre gönderildi</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>No match for Email and/or Password</source>
+        <target>Email ve/veya Şifre için eşleşme bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>Your account is not active</source>
+        <target>Hesabınız aktif değil</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>Login</source>
+        <target>Giriş</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>Remember Me</source>
+        <target>Beni Hatırla</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>Password forgotten?</source>
+        <target>Şifrenizi mi unuttunuz?</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>LDAP Login</source>
+        <target>LDAP Giriş</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>Default users group for LDAP users is not setup. LDAP login is not allowed.</source>
+        <target>LDAP kullanıcıları için varsayılan kullanıcı grupları yüklenmedi. LDAP girişine izin verilemez.</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>Enter your e-mail address below</source>
+        <target>E-mail adresinizi aşağıya girin</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>Send New Password</source>
+        <target>Yeni Şifre Gönder</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>Email already exists</source>
+        <target>Email kullanılır durumda</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>Account Updated</source>
+        <target>Hesap Güncellendi</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>My Account</source>
+        <target>Hesabım</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>Hide</source>
+        <target>Sakla</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>Patterns</source>
+        <target>Desenler</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>Edit Pattern</source>
+        <target>Desen Düzenle</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>New Pattern</source>
+        <target>Yeni Desen</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>Default Phases</source>
+        <target>Varsayılan Fazlar</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>Put phases in new line, for example</source>
+        <target>Fazları yeni satıra koy, örneğin</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>Phase Status</source>
+        <target>Faz Durumu</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>Projects Roles</source>
+        <target>Proje Rolleri</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>Tasks</source>
+        <target>Görevler</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>Tickets</source>
+        <target>Biletler</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>LDAP Default</source>
+        <target>LDAP Varsayılan</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>Default Group</source>
+        <target>Varsayılan Grup</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>Team</source>
+        <target>Takım</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>Edit Project</source>
+        <target>Projeyi Düzenle</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>New Project</source>
+        <target>Yeni Proje</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>Select Ticket Departments which will be available for this Project.</source>
+        <target>Bu Proje için kullanılabilir Bilet Bölümlerini seçin.</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>By default Department will be available if the User assigned to Department is in the Project team.</source>
+        <target>Varsayılan olarak Bölüm eğer Kullanıcı Proje takımındaki Bölüme attanmış ise kullanılabilir olacaktır.</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>Add Project</source>
+        <target>Proje Ekle</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>User</source>
+        <target>Kullanıcı</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>Role</source>
+        <target>Rol</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>Projects Groups</source>
+        <target>Proje Grupları</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>Edit Phase</source>
+        <target>Faz Düzenle</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>Projects Phases</source>
+        <target>Proje Fazları</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>Add Phase</source>
+        <target>Faz Ekle</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>Due Date</source>
+        <target>Vade Tarihi</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>New Phase</source>
+        <target>Yeni Faz</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>Projects Priorities</source>
+        <target>Proje Özellikleri</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>Projects Reports</source>
+        <target>Proje Raporları</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>In Team</source>
+        <target>Takımda</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>Projects Status</source>
+        <target>Proje Durumu</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>Projects Types</source>
+        <target>Proje Tipleri</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>Tasks Columns</source>
+        <target>Görev Satırları</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>Select extra fields which will be appear for this type.</source>
+        <target>Bu tip için görüntülenecek ekstra alanları seçin.</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>Select Task fields which will be display in tasks listing for this Project Type.</source>
+        <target>Bu Proje Tipi için görüntülenecek Görev alanlarını seçin.</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>Public Tickets not allowed.</source>
+        <target>Herkese Açık Biletler kullanılamaz.</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>A new Ticket has been opened for you.</source>
+        <target>Yeni bir Bilet sizin için açıldı.</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>There are no departments that can be used for public tickets.</source>
+        <target>Herkese Açık biletler için kullanılabilecek bir bölüm bulunmamakta.</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>New Ticket</source>
+        <target>Yeni Bilet</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>Attach a file</source>
+        <target>Bir dosya ekleyin</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>Sum of</source>
+        <target>Bunların toplamı</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>Submit Ticket</source>
+        <target>Bilet Gönder</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>Configuration</source>
+        <target>Yapılandırma</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>Display today\'s events in the menu</source>
+        <target>Bugünün etkinliklerini menüde göster</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>Display today\'s events in the dashboard</source>
+        <target>Bugünün etkinliklerini kontrol panelinde göster</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>Send today\'s events by email</source>
+        <target>Bugünün etkinliklerini email ile gönder</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>Edit Event</source>
+        <target>Etkinlik Düzenle</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>Switch to my personal scheduler</source>
+        <target>Kişisel plan ayarlayıcıma geç</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>New Event</source>
+        <target>Yeni Etkinlik</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>Switch to public scheduler</source>
+        <target>Herkese Açık plan ayarlayıcıma geç</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>Are you sure?</source>
+        <target>Emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>Repeat</source>
+        <target>Tekrarla</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>Start Date</source>
+        <target>Başlangı Tarihi</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>End Date</source>
+        <target>Bitiş Tarihi</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>No Events Found</source>
+        <target>Etkinlik Bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>Previous Month</source>
+        <target>Önceki Ay</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>Next Month</source>
+        <target>Sonraki Ay</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>Back to </source>
+        <target>Şuraya geri dönün </target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>Today</source>
+        <target>Bugün</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>Skin style is not found. Please check next path:</source>
+        <target>Tema stili bulunamadı. Lütfen sıradaki yolu kontrol edin:</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>Skins</source>
+        <target>Temalar</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>Version</source>
+        <target>Versiyon</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>Phase</source>
+        <target>Faz</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>Est. Time</source>
+        <target>Tahimini Süre</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>Progress</source>
+        <target>İlerleme</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>List</source>
+        <target>Liste</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>Tree</source>
+        <target>Ağaç</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>View Type</source>
+        <target>Tipi Gör</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>Copy To</source>
+        <target>Buraya Kopyala</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>Copy To Project</source>
+        <target>Projeye Kopyala</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>Copy</source>
+        <target>Kopyala</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>Edit Task</source>
+        <target>Görev Düzenle</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>New Task</source>
+        <target>Yeni Görev</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>Sort Tasks</source>
+        <target>Görevleri Sırala</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>Child Tasks</source>
+        <target>Çocuk Görevler</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>Estimated Time</source>
+        <target>Tahmini Süre</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>Work Hours</source>
+        <target>Çalışma Saatleri</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>Time</source>
+        <target>Süre</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>set this status for all child tasks</source>
+        <target>bu durumu bütün çocuk görevler için ayarla</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>Sort Tree</source>
+        <target>Ağaç Sırala</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>Task</source>
+        <target>Görev</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>Add Child Task</source>
+        <target>Çocuk Görev Ekle</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>Delete with child tasks</source>
+        <target>Çocuk görevlerle sil</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>Timer</source>
+        <target>Zamanlayıcı</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>Go to previous task</source>
+        <target>Önceki göreve git</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>Go to next task</source>
+        <target>Sonraki göreve git</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>Close Timer</source>
+        <target>Zamanlayıcıyı Kapat</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>Start</source>
+        <target>Başlat</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>Stop</source>
+        <target>Durdur</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>Work Hours:</source>
+        <target>Çalışma Saatleri:</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>Edit Group</source>
+        <target>Grup Düzenle</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>Tasks Groups</source>
+        <target>Görev Grupları</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>Add Group</source>
+        <target>Grup Ekle</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>New Group</source>
+        <target>Yeni Grup</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>Tasks Labels</source>
+        <target>Görev Etiketleri</target>
+      </trans-unit>      
+      <trans-unit id="400">
+        <source>Tasks Priorities</source>
+        <target>Görev Öncelikleri</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>Tasks Status</source>
+        <target>Görev Durumu</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>Tasks Types</source>
+        <target>Görev Tipleri</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>Edit Ticket</source>
+        <target>Bilet Düzenle</target>
+      </trans-unit>
+
+      <trans-unit id="405">
+        <source>Ticket</source>
+        <target>Bilet</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>Link Task</source>
+        <target>Görev Bağla</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>Go to previous ticket</source>
+        <target>Önceki bilete git</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>Go to next ticket</source>
+        <target>Sonraki bilete git</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>Tickets Groups</source>
+        <target>Bilet Grupları</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>Tickets Priorities</source>
+        <target>Bilet Öncelikleri</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>Tickets Filters</source>
+        <target>Bilet Filtreleri</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>Ticktes Status</source>
+        <target>Bilet Durumu</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>Users Time Report</source>
+        <target>Kullanıcıların Zaman Raporları</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>Discrepancy:</source>
+        <target>Uyuşmazlık:</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>All</source>
+        <target>Hepsi</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>Under</source>
+        <target>Altında</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>Over</source>
+        <target>Üstünde</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>Ok</source>
+        <target>Tamam</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>From</source>
+        <target>'den</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>To</source>
+        <target>'e</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>Filter By Dates</source>
+        <target>Tarihlere göre Filtrele</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>Allocated</source>
+        <target>Ayrılmış</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>Discrepancy</source>
+        <target>Uyuşmazlık</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>Project Info</source>
+        <target>Proje Bilgisi</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>No records found</source>
+        <target>Kayıt bulunamadı</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>Time Log</source>
+        <target>Zaman Logu</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>Date</source>
+        <target>Tarih</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>Worked Hours</source>
+        <target>Çalışılmış Saatler</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>Task Url</source>
+        <target>Görev Url</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>Task Info</source>
+        <target>Görev Bilgisi</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>Project Info</source>
+        <target>Proje Bilgisi</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>Tasks Url</source>
+        <target>Görev Url</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>Users</source>
+        <target>Kullanıcılar</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>Items restored</source>
+        <target>Kayıtlar onarıldı</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>Database saved.</source>
+        <target>Veritabanı kaydedildi.</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>Database restored.</source>
+        <target>Veritabanı onarıldı.</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>Success: Backup removed.</source>
+        <target>Başarılı: Backup kaldırıldı.</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>Error: Backup not removed.</source>
+        <target>Hata: Backup kaldırılamadı.</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>Backup</source>
+        <target>Backup</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>File</source>
+        <target>Dosya</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>Size</source>
+        <target>Boyut</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>bytes</source>
+        <target>byte</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>Restore</source>
+        <target>Onar</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>Download</source>
+        <target>İndir</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>Backup Directory</source>
+        <target>Backup Dizini</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>Restore?</source>
+        <target>Onar?</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>Are you sure you want to restore selected items?</source>
+        <target>Seçili kayıtları onarmak istediğinize emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>Trash</source>
+        <target>Çöp</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>Empty Trash</source>
+        <target>Çöpü Temizle</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>Restore Selected</source>
+        <target>Seçileni Onar</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>Comment for project</source>
+        <target>Proje için yorum</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>Comment for task</source>
+        <target>Görev için yorum</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>Comment for ticket</source>
+        <target>Bilet için yorum</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>Comment for discussion</source>
+        <target>Tartışma için yorum</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>Tasks Filters</source>
+        <target>Görev Filtreleri</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>Extra</source>
+        <target>Ekstra</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>Reminder</source>
+        <target>Hatılatıcı</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>Tasks Due Date</source>
+        <target>Görevlerin Vade Zamanı</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>Tasks Created</source>
+        <target>Görevler Yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>Closed Date</source>
+        <target>Kapanış Tarihi</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>User Deleted</source>
+        <target>Kullanıcı Silindi</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>Login Details</source>
+        <target>Giriş Detayları</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>Message Sent</source>
+        <target>Gönderilen Mesaj</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>User Group is not selected</source>
+        <target>Kullanıcı Grubu seçili değil</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>Add User</source>
+        <target>Kullanıcı Ekle</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>Export Selected</source>
+        <target>Seçileni İhraç Et</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>Photo</source>
+        <target>Fotoğraf</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>Send email to users</source>
+        <target>Kullanıcılara email gönder</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>Message</source>
+        <target>Mesaj</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>Send Message</source>
+        <target>Mesaj Gönder</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>Users Activity</source>
+        <target>Kullanıcı Faailiyeti</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>Personal Activity</source>
+        <target>Kişisel Faailiyet</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>Days before today</source>
+        <target>Bugünden önceki günler</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>created by</source>
+        <target>tarafından yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>Comment for tasks</source>
+        <target>Görevler için yorum</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>User Group Deleted</source>
+        <target>Kullanıcı Grubu Silindi</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>Delete?</source>
+        <target>Sil?</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>Are you sure you want to delete Group?</source>
+        <target>Grubu silmek istediğinize emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>You can't delete this Group because there are Users assigned to this Group.</source>
+        <target>Bu Grubu silemezsiniz çünkü bu Gruba atanmış Kullanıcı bulunmakta.</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>You have to delete users first.</source>
+        <target>Önce kullanıcıları silmeniz gerekmekte.</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>Users Groups</source>
+        <target>Kullanıcı Grupları</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>Assigned Users</source>
+        <target>Atanmış Kullanıcılar</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>Basic Access</source>
+        <target>Basit Erişim</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>Extra Access Configuration</source>
+        <target>Ekstra Erişim Yapılandırmaları</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>Tasks Reports</source>
+        <target>Görev Raporları</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>Time Report</source>
+        <target>Süre Raporları</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>Personal Time Report</source>
+        <target>Kişisel Süre Raporları</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>Users Activity</source>
+        <target>Kullanıcı Faaliyeti</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>Personal Activity Report</source>
+        <target>Kişisel Faaliyet Raporu</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>Edit Version</source>
+        <target>Versiyon Düzenle</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>Tasks Versions</source>
+        <target>Görev Versiyonları</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>Add Version</source>
+        <target>Versiyon Ekle</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>New Version</source>
+        <target>Yeni Versiyon</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>Versions Status</source>
+        <target>Versiyon Durumu</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>You can format your text using wiki markup.</source>
+        <target>Wiki markup kullanarak metninizi formatlayabilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>Check supported wiki markup</source>
+        <target>Wiki markup destekliyor mu kontrol et</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>Also any HTML tags are allowed</source>
+        <target>Ayrıca herhangi HTML tagleri kullanılabilir</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>Preview</source>
+        <target>Öngösterim</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>All attached files has own link that you can insert in page content.</source>
+        <target>Bütün ekli dosyalar sayfa içeriğine ekleyebileceğiniz kendi linkine sahiptir.</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>History</source>
+        <target>Tarih</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>am</source>
+        <target>am</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>pm</source>
+        <target>pm</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>AM</source>
+        <target>AM</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>PM</source>
+        <target>PM</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>Monday</source>
+        <target>Pazartesi</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>Mon</source>
+        <target>Pzt</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>Tuesday</source>
+        <target>Salı</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>Tue</source>
+        <target>Sal</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>Wednesday</source>
+        <target>Çarşamba</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>Wed</source>
+        <target>Çar</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>Thursday</source>
+        <target>Perşembe</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>Thu</source>
+        <target>Per</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>Friday</source>
+        <target>Cuma</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>Fri</source>
+        <target>Cum</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>Saturday</source>
+        <target>Cumartesi</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>Sat</source>
+        <target>Cmt</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>Sunday</source>
+        <target>Pazar</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>Sun</source>
+        <target>Paz</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>January</source>
+        <target>Ocak</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>Jan</source>
+        <target>Oca</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>February</source>
+        <target>Şubat</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>Feb</source>
+        <target>Şub</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>March</source>
+        <target>Mart</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>Mar</source>
+        <target>Mar</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>April</source>
+        <target>Nisan</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>Apr</source>
+        <target>Nis</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>May</source>
+        <target>Mayıs</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>June</source>
+        <target>Haziran</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>Jun</source>
+        <target>Haz</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>July</source>
+        <target>Temmuz</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>Jul</source>
+        <target>Tem</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>August</source>
+        <target>Ağustos</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>Aug</source>
+        <target>Ağu</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>September</source>
+        <target>Eylül</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>Sep</source>
+        <target>Eyl</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>October</source>
+        <target>Ekim</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>Oct</source>
+        <target>Eki</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>November</source>
+        <target>Kasım</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>Nov</source>
+        <target>Kas</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>December</source>
+        <target>Aralık</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>Dec</source>
+        <target>Ara</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>Dashboard</source>
+        <target>Kontrol Paneli</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>Scheduler</source>
+        <target>Zaman Ayarlayıcı</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>View All</source>
+        <target>Hepsini Göster</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>Reports</source>
+        <target>Raporlar</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>Project Reports</source>
+        <target>Proje Raporları</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>Add New</source>
+        <target>Yeni Ekle</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>Wiki</source>
+        <target>Wiki</target>
+      </trans-unit>      
+      <trans-unit id="641">
+        <source>Send Email</source>
+        <target>Email Yolla</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Extra Fields per Group</source>
+        <target>Grup başına Ekstra Alanlar</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Phases Status</source>
+        <target>Faz Durumu</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Types</source>
+        <target>Tipler</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Extra Fields per Type</source>
+        <target>Tip başına Ekstra Alanlar</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>Labels</source>
+        <target>Etiketler</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>Extra Fields per Label</source>
+        <target>Etiket başına Ekstra Alanlar</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>Events in Scheduler</source>
+        <target>Zaman Ayarlayıcıdaki Etkinlikler</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>Tools</source>
+        <target>Araçlar</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>Backups</source>
+        <target>Backuplar</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>Login Page</source>
+        <target>Giriş Sayfası</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>New User Creation</source>
+        <target>Yeni Kullanıcı Yaratma</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>Full Access</source>
+        <target>Tam Erişim</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>Manage Own Only</source>
+        <target>Sadece Kendininkini Yönet</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>View Only</source>
+        <target>Sadece Görüntüle</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>View Own Only</source>
+        <target>Sadece Kendininkini Görüntüle</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>Custom Access</source>
+        <target>Ayarlanabilir Erişim</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>None</source>
+        <target>Hiçbiri</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Projects Wiki</source>
+        <target>Proje Wiki</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Public Wiki</source>
+        <target>Herkese Açık Wiki</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>LDAP Default?</source>
+        <target>LDAP Varsayılan?</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Personal User Activity</source>
+        <target>Kişisel Kullanıcı Aktivitesi</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>users</source>
+        <target>kullanıcılar</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>Sort</source>
+        <target>Sırala</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>Display in Listing?</source>
+        <target>Listelemede Göster?</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>Extra Fields per User Groups</source>
+        <target>Kullanıcı Grubu başına Ekstra Alanlar</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>Default values</source>
+        <target>Varsayılan değerler</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>projects</source>
+        <target>projeler</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>Don't use extra fields</source>
+        <target>Ekstra alanlar kullanma</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>Public Status</source>
+        <target>Herkese Açık Durum</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>Use for public tickets</source>
+        <target>Herkese açık biletler için kullan</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>Only for public tickets</source>
+        <target>Sadece herkese açık biletler için</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>Don't use for public tickets</source>
+        <target>Herkese açık biletler için kullanma</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>Imap Server</source>
+        <target>Imap Sunucu</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>Delete Emails</source>
+        <target>Emailleri Sil</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>open</source>
+        <target>aç</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>done</source>
+        <target>bitti</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>closed</source>
+        <target>kapandı</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>contacts</source>
+        <target>bağlantılar</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>events</source>
+        <target>etkinlikler</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>Display on dashboard</source>
+        <target>Kontrol panelinde göster</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>Display only assigned</source>
+        <target>Sadece atananları göster</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>You can't delete yourself.</source>
+        <target>Kendinizi silemezsiniz.</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>User can't be  Deleted because it has related items. Currently user status set to Inactive and user can't login to the system.</source>
+        <target>Kullanıcı silinemez çünkü ilgili kayıtlara sahip. Şu anki kullanıcı durumu Inaktif'e çekildi ve kullanıcı sisteme giriş yapamaz.</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>My Scheduler</source>
+        <target>Zaman Ayarlayıcım</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>Logoff</source>
+        <target>Çıkış</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>My Details</source>
+        <target>Detaylarım</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>My Time Report</source>
+        <target>Zaman Raporum</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>My Activity Report</source>
+        <target>Faaliyet Raporum</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>My Patterns</source>
+        <target>Desenlerim</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>My Common Reports</source>
+        <target>Ortak Raporlarım</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>Change Skin</source>
+        <target>Tema Değiştir</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>Full Name</source>
+        <target>Tam İsim</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>New Password</source>
+        <target>Yeni Şifre</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>Language</source>
+        <target>Dil</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>Start Page</source>
+        <target>Başlangıç Sayfası</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>With Selected</source>
+        <target>Seçilenle Birlikte</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>Quick Search</source>
+        <target>Hızlı Arama</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>Assigned to</source>
+        <target>Buna atandı</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>Hours To Go</source>
+        <target>Saat Kaldı</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>Import Tasks from XLS file</source>
+        <target>XLS dosyasından Görev ithal et</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>Import Tasks from MS Project</source>
+        <target>MS Projesinden Görev ithal et</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>Import Spreadsheet</source>
+        <target>Spreadsheet ithal et</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>Import Spreadsheet (Step 1)</source>
+        <target>Spreadsheet ithal et (Basamak 1)</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>You can import tasks from spreadsheet in xls format.</source>
+        <target>Spreadsheetten xls formatında görev ithal edebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>Load file and bind (map) columns to fields</source>
+        <target>Dosyayı yükle ve sütunları alanlarla eşleştir</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>Bind Task fields with spreadsheet columns below and start import.</source>
+        <target>Görev alanlarını aşağıdaki spreadsheet sütunları ile bağla ve ithal etmeye başla.</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>Column without binded field will be not imported.</source>
+        <target>Bağlı alanı bulunmayan sütun ithal edilmeyecektir.</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>Import Spreadsheet (Step 2)</source>
+        <target>Spreadsheet ithal et (Basamak 2)</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>Import first row</source>
+        <target>İlk satırı ithal et</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>Import</source>
+        <target>İthal Et</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>Bind Field</source>
+        <target>Alanı Bağla</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>Spreadsheet imported</source>
+        <target>Spreadsheet ithal edildi</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>Outline Level</source>
+        <target>Taslak Seviyesi</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>More Info</source>
+        <target>Daha Fazla Bilgi</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>You can import tasks from MS Project in XML format.</source>
+        <target>MS Projesinden xls formatında görev ithal edebilirsiniz.</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>Tasks Imported</source>
+        <target>İthal Edilen GÖrevler</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>Just select value if you need to change it.</source>
+        <target>Eğer değiştirmeniz gerekiyorsa sadece değeri seçin.</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>Numeric Fields</source>
+        <target>Sayısal Alanlar</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>Enter value if you need to change it.&lt;br&gt;Also you can use: +,-,*,/ to change value.&lt;br&gt;For example: +30 means you increase current value to 30.</source>
+        <target>Eğer değiştirmeniz gerekiyorsa değer giriniz.&lt;br&gt;Ayrıca değer değiştirebilmek için bunları kullanabilirsniz: +,-,*,/&lt;br&gt;Örneğin: +30 mevcut değeri 30 kadar arttırdığınız anlamına gelir.</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>Please Select Items</source>
+        <target>Lütfen Kayıt Seçin</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>Note: Destination Project Team should include all Users assigned to selected items.</source>
+        <target>Not: Hedef Proje Takımı seçili kayıtlara atanmış bütün Kullanıcıları dahil etmeli.</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>Users won't have access to Items if they are assigned to these Items but are not in the Project Team</source>
+        <target>Kullanıcıların Kayıtlara erişimi olmayacaktır eğer bu Kayıtlara atanmış fakat Proje Grubunda değil ise</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>Are you sure you want to delete selected projects?</source>
+        <target>Seçili projeleri silmek istediğinize emin misiniz?</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>Note: all Projects Tasks, Tickets and Discussions will be deleted as well.</source>
+        <target>Not: bütün Proje Görevleri Biletleri ve Tartışmaları da silinecektir.</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>Users per Projects</source>
+        <target>Proje başına Kullanıcılar</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>Users per Tasks</source>
+        <target>Görev başına Kullanıcılar</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>Display today's events in the menu</source>
+        <target>Bugünün etkinliklerini menüde göster</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>Display today's events in the dashboard</source>
+        <target>Bugünün etkinliklerini kontrol panelinde göster</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>Send today's events by email</source>
+        <target>Bugünün etkinliklerini email ile gönder</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>Interval</source>
+        <target>Aralık</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>Date End</source>
+        <target>Bitiş Tarihi</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>Limit</source>
+        <target>Limit</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>Daily</source>
+        <target>Günlük</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>Weekly</source>
+        <target>Haftalık</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>Monthly</source>
+        <target>Aylık</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>Yearly</source>
+        <target>Yıllık</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>Mandatory Report</source>
+        <target>Zorunlu Rapor</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>Insert and View Only</source>
+        <target>Sadece Ekleme ve Görüntüleme</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>Create</source>
+        <target>Yarat</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>Configure Form Tabs</source>
+        <target>Form Sekmelerini Yapılandır</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>Update Selected</source>
+        <target>Seçileni Güncelle</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>Sort in From Tags</source>
+        <target>'den Etiketlerinin içinde Sırala</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>From Tabs</source>
+        <target>'den Etiketleri</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>Back to Extra Fields</source>
+        <target>Ekstra Alanlara Geri Dön</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>New Tab</source>
+        <target>Yeni Sekme</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>Edit Tab</source>
+        <target>Sekme Düzenle</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>Actual Time</source>
+        <target>Gerçek Süre</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>discussions</source>
+        <target>tartışmalar</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>tasks</source>
+        <target>görevler</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>tickets</source>
+        <target>biletler</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>Phases</source>
+        <target>Fazlar</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>Notify</source>
+        <target>Bildir</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>Warning: this ticket is closed but there are some open tasks related to this ticket. Please check related tasks.</source>
+        <target>Uyarı: bu bilet kapatıldı fakat bu bilet ile ilgili açık görevler bulunmakta. Lütfen ilgili görevleri kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>Warning: this ticket is closed but there are some open discussions related to this ticket. Please check related discussions.</source>
+        <target>Uyarı: bu bilet kapatıldı fakat bu bilet ile ilgili açık tartışmalar bulunmakta. Lütfen ilgili tartışmaları kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>Warning: this task is closed but there are some open tickets related to this task. Please check related tickets.</source>
+        <target>Uyarı: bu görev kapatıldı fakat bu görev ile ilgili açık biletler bulunmakta. Lütfen ilgili biletleri kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>Warning: this task is closed but there are some open discussions related to this task. Please check related discussions.</source>
+        <target>Uyarı: bu görev kapatıldı fakat bu görev ile ilgili açık tartışmalar bulunmakta. Lütfen ilgili tartışmaları kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>Warning: this discussion is closed but there are some open tickets related to this discussion. Please check related tickets.</source>
+        <target>Uyarı: bu tartışma kapatıldı fakat bu tartışma ile ilgili açık biletler bulunmakta. Lütfen ilgili biletleri kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>Warning: this discussion is closed but there are some open tasks related to discussion. Please check related tasks.</source>
+        <target>Uyarı: bu tartışma kapatıldı fakat bu tartışma ile ilgili açık görevler bulunmakta. Lütfen ilgili görevleri kontrol ediniz.</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>Duration</source>
+        <target>Süre</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>Day</source>
+        <target>Gün</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>Week</source>
+        <target>Hafta</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>Month</source>
+        <target>Ay</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>Quarter</source>
+        <target>Çeyrek</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>Use Filter</source>
+        <target>Filtre Kullan</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>Sort Filters</source>
+        <target>Filtreleri Sırala</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>Versions</source>
+        <target>Versiyonlar</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>Add Versions</source>
+        <target>Versiyonlar Ekle</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>You type</source>
+        <target>Bunu yazdınız</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>You get</source>
+        <target>Bunu aldınız</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>character formatting applies anywhere</source>
+        <target>karakter formatlama herhangi bir yere uygulanır</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>Escape wiki markup</source>
+        <target>Wiki markup'tan çık</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>Internal link</source>
+        <target>İç link</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>External link</source>
+        <target>Dış link</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>External link with label</source>
+        <target>Etiketli dış link</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>Italic text</source>
+        <target>Italic metin</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>Bold text</source>
+        <target>Bold metin</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>Bold and italic</source>
+        <target>Bold ve italic</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>formatting applies only at the beginning of the line</source>
+        <target>formatlama sadece satırın başında uygulanır</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>Headings of different levels</source>
+        <target>Farklı seviyede başlıklar</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>Horizontal rule</source>
+        <target>Yatay kural</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>Bullet list</source>
+        <target>Madde liste</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>Numbered list</source>
+        <target>Sayılı list</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>Preformatted text</source>
+        <target>Önceden formatlanmış metin</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>Tables</source>
+        <target>Tablolar</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>Supported Wiki Markup</source>
+        <target>Wiki Markup Desteklenmektedir</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>Loading...</source>
+        <target>Yükleniyor...</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>Ticket Types</source>
+        <target>Bilet Tipleri</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>Form Tab</source>
+        <target>Form Sekmesi</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>Your Ticket ID:</source>
+        <target>Bilet ID'niz:</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>Please reference this ticket # should you contact us.</source>
+        <target>Lütfen bu bileti referans göstererek bizimle iletişime geçin #.</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>Email Address</source>
+        <target>Email Adres</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>Antispam Protection</source>
+        <target>Antispam Koruma</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>Use Javascript Dropdown</source>
+        <target>Javascript Dropdown Kullan</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>View Own</source>
+        <target>Kendininkini Gör</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>Manage Own</source>
+        <target>Kendininkini Yönet</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>Insert and View</source>
+        <target>Ekle ve Gör</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>Display this event on Public Scheduler</source>
+        <target>Bu etkinliği Herkese Açık Zaman Yöneticide göster</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>Project Description</source>
+        <target>Proje Açıklaması</target>
+      </trans-unit> 
+      <trans-unit id="802">
+        <source>Project Comment</source>
+        <target>Proje Yorumu</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>Task Description</source>
+        <target>Görev Açıklaması</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>Task Comment</source>
+        <target>Görev Yorumu</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>Ticket Description</source>
+        <target>Bilet Açıklaması</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>Ticket Comments</source>
+        <target>Bilet Yorumu</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>Discussion Description</source>
+        <target>Tartışma Açıklaması</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>Discussion Comment</source>
+        <target>Tartışma Yorumu</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>send login details to user</source>
+        <target>giriş detaylanrını kullanıcıya gönder</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>Repeat On</source>
+        <target>Bunda Tekrarla</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>Input Field</source>
+        <target>Alan Giriş</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>Input Numeric Field</source>
+        <target>Sayılsa Alan Giriş</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>Input URL Field</source>
+        <target>URL Alanı Giriş</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>Textarea</source>
+        <target>Textarea</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>Textarea with WYSIWYG editor</source>
+        <target>WYSIWYG editore sahip textarea</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>Date with calendar picker</source>
+        <target>Takvim seçicili tarih</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>Date with calendar and time picker</source>
+        <target>Takvim ve zaman seçicili tarih</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>Date range with calendar picker</source>
+        <target>Takvim seçicili tarih aralığı</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>Pull Down List</source>
+        <target>Pull Down Liste</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>Checkbox List</source>
+        <target>Checkbox Liste</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>Radiobox List</source>
+        <target>Radiobox Liste</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>Filter by selected</source>
+        <target>Seçilene göre filtrele</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>Restore Password</source>
+        <target>Şifre Onar</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>Has related ticket</source>
+        <target>İlgili biletleri var</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>Has estimated time</source>
+        <target>Tahimini süresi var</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>Overdue tasks</source>
+        <target>Vadesi geçmiş görevler</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>Send email notification every</source>
+        <target>Email bildirimini yolla bütün</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>Days before due date</source>
+        <target>Vade tarihine kalan günler</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>Display tickets not assigned to project</source>
+        <target>Bu projeye atanmamış biletleri göster</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>Discussions Created</source>
+        <target>Tartışmalar Yaratıldı</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>Tickets Created</source>
+        <target>Biletler Yaratıldı</target>
+      </trans-unit>      
+      <trans-unit id="832">
+        <source>Are you sure you want to delete project</source>
+        <target>Projeyi silmek istediğinize emin misiniz</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>Copy from ticket</source>
+        <target>Biletten kopyala</target>
+      </trans-unit>            
+      <trans-unit id="834">
+        <source>Copy from task</source>
+        <target>Görevden kopyala</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>Copy from discussion</source>
+        <target>Tartışmadan kopyala</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>Closed</source>
+        <target>Kapalı</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>Please wait. Files are loading.</source>
+        <target>Lütfen bekleyin. Dosyalar yükleniyor.</target>
+      </trans-unit>      
+    </body>
+  </file>
+</xliff>

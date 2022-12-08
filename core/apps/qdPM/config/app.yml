@@ -1,0 +1,17 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/11-App
+
+# default values
+all:
+  #strip tags
+  qdpm_version: '9.2'
+  db_strip_tags: on
+  db_allowed_tags: <strong><big><b><i><u><s><strike><hr><div><br><p><ol><ul><li><blockquote><font><img><pre><table><td><th><tr><h1><h2><h3><h4><h5><h6><sub><sup> 
+   
+  #email styles
+  email_style_h1: font-family:  Arial; font-size: 18px; font-weight: normal; color: rgb(128,128,128);
+  email_style_h3: font-family:  Arial; font-size: 15px; border-bottom: 2px solid rgb(128,128,128); color: rgb(128,128,128); line-height: 2;;   
+  email_style_td: vertical-align: top; font-family:  Arial; font-size: 13px; color: black; padding: 2px; border-bottom: 1px solid white;
+  email_style_th: vertical-align: top; font-family:  Arial; font-size: 13px; color: black; padding: 2px;  border-bottom: 1px solid white; width: 30%; text-align: left;
+  email_style_div: 
+  email_style_table: border-collapse:collapse; width: 100%

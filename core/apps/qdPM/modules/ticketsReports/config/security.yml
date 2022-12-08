@@ -1,0 +1,4 @@
+all:
+  credentials: reports_access_tickets
+view:
+  credentials: []
