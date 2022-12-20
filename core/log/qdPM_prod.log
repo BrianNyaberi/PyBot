@@ -1,0 +1,4 @@
+Dec 09 07:36:11 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/millenia/" (/).
+Dec 09 07:36:18 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/millenia/" (/).
+Dec 09 07:36:35 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/millenia/" (/).
+Dec 09 07:36:56 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/millenia/" (/).
