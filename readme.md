@@ -5,8 +5,7 @@
 
 - Thus, this solution is a PHP ticket system written in PHP with a MySQL backend, which includes user management through sessions, a search function, and several other functions to simplify ticket system management.
 
-![alt text](https://github.com/BrianNyaberi/Millenia
-/blob/main/dashboard.png?raw=true)
+![alt text](https://github.com/BrianNyaberi/Millenia/blob/main/dashboard.png?raw=true)
 
 <br/>
 
