@@ -1,4 +1,13 @@
-# About Project
+
+
+
+
+
+
+
+
+
+<!-- # About Project
 
 ## Description
 - As businesses grow and much more desire to see growth, an essential step for organizations to take is to invest in helpful business tools. Enterprise resource planning software is one such tool that can enhance to efficiency and effectiveness of a company. By investing in an ERP help desk portal, companies can experience tremendous growth.
@@ -53,4 +62,4 @@ Simply go to the web app directory and use installer
 <br/>
 
 ## Running tests
-- To run the tests, navigate to the folder you wish to run tests on.
+- To run the tests, navigate to the folder you wish to run tests on. -->
